@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<!--chatbot_iframe blogspot a program  by NGUYEN.Chung (freeware 2015) <br /-->
+<head>
+<title></title>
+<meta charset="utf-8">
+</head>
+<body>
+<iframe id="ifram" style="top:0px;left:0px;width:325px;height:380px;" src=""  >
+</iframe>
+    <select id="combo" onChange="subcombo();" onblur="tfocus=1;" onfocus="tfocus=0;">
+       <option id="sasha">1</option>
+       <option id="anne">2</option>
+       <option id="evie">3</option>
+       <option id="valerie">4</option>
+       <option id="segolene">5</option>
+       <option id="chung">6</option>
+       <option id="mywebglflightspace">10</option>
+       <option id="json_osmall_webglcarsimheight_shadow">11</option>
+       <option id="mywebglflight_srtm">12</option>
+       <option id="forest_chung">13</option>
+    </select>
+<script>
+var url="https://836412ca327152736b662add58c465055422599d.googledrive.com/host/0B6GM9ay7ImZLM0xQVjFWSkliS0U/";
+var url2="https://b3d8783ddc02a86af1ce60266a06c20f1a961f99.googledrive.com/host/0B6GM9ay7ImZLOXpiUkx5bFhacXc/";
+var icombo=1,perso="sasha";
+if(localStorage){
+var perso0=localStorage.getItem("chatbot_chung_small_perso");
+if(perso0){perso=perso0;}
+}
+if(perso=="mywebglflightspace"){
+   document.getElementById('ifram').src=url2+perso+".html";}
+else if(perso=="json_osmall_webglcarsimheight_shadow"){
+   document.getElementById('ifram').src=url2+perso+".html";}
+else if(perso=="mywebglflight_srtm"){
+   document.getElementById('ifram').src=url2+perso+".html";}
+else if(perso=="forest_chung"){
+   document.getElementById('ifram').src=url2+perso+".html";}
+else{
+   document.getElementById('ifram').src=url+"chatbot_chung_small_"+perso+".html";
+}
+if(localStorage){localStorage.setItem("chatbot_chung_small_perso",perso);}
+for(var i=0;i<20;i++){
+  if(document.getElementById('combo')[i]){
+    if(document.getElementById('combo')[i].id==perso){icombo=i;break;}}
+}
+document.getElementById('combo').selectedIndex=icombo;
+function subcombo(){
+icombo=document.getElementById('combo').selectedIndex;
+perso=document.getElementById('combo')[icombo].id;
+if(perso=="mywebglflightspace"){
+   document.getElementById('ifram').src=url2+"mywebglflightspace.html";}
+else if(perso=="json_osmall_webglcarsimheight_shadow"){
+   document.getElementById('ifram').src=url2+perso+".html";}
+else if(perso=="mywebglflight_srtm"){
+   document.getElementById('ifram').src=url2+perso+".html";}
+else if(perso=="forest_chung"){
+   document.getElementById('ifram').src=url2+perso+".html";}
+else{
+   document.getElementById('ifram').src=url+"chatbot_chung_small_"+perso+".html";
+}
+if(localStorage){localStorage.setItem("chatbot_chung_small_perso",perso);}
+document.getElementById('ifram').focus();}
+</script>
+<!--iframe id="ifrm" style="top:0px;left:0px;width:320px;height:380px;" src="https://836412ca327152736b662add58c465055422599d.googledrive.com/host/0B6GM9ay7ImZLM0xQVjFWSkliS0U/chatbot_chung_small.html" ></iframe-->
+</body>
+</html>
