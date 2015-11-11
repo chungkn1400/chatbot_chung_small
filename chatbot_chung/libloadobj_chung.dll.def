@@ -1,0 +1,15 @@
+EXPORTS
+    _ZN8DllClassC1Ev @1
+    _ZN8DllClassC2Ev @2
+    _ZN8DllClassD0Ev @3
+    _ZN8DllClassD1Ev @4
+    _ZN8DllClassD2Ev @5
+    _ZTV8DllClass @6 DATA
+    loadobj @7
+    loadobj1 @8
+    loadobj2 @9
+    loadobjsize @10
+    loadobjsizeptr @11
+    loadobjsizesmooth @12
+    pause @13
+    testloadobj @14

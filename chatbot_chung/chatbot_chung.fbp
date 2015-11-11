@@ -1,0 +1,34 @@
+[Project]
+Version=3
+Description=chatbot_chung
+Api=fb (FreeBASIC)
+[Make]
+Current=1
+1=Windows GUI,fbc -s gui
+Recompile=2
+Module=Module Build,fbc -c
+[TabOrder]
+TabOrder=1,2,3,4,5,6,7
+[File]
+1=chatbot_chung.bas
+2=gl_chung.bi
+3=gui_chung.bi
+4=icon.rc
+5=chatbot_chung.bi
+6=wikilink.bi
+7=httppost.bi
+[BreakPoint]
+1=
+5=
+2=
+3=
+6=
+7=
+[FileInfo]
+1=0,647,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2=0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3=0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4=0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5=0,439,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6=0,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7=0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

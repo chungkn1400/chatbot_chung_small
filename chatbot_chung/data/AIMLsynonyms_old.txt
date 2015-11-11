@@ -1,0 +1,4871 @@
+3/Corporation/CORP/CORP.
+2/PLC/PLC.
+3/Limited/LTD/LTD.
+2/China/china
+2/Skyvi/skyview
+3/hello/why hello/'ello
+2/a bit/abit
+2/YouTube/you tube
+6/PixelBunnies/Pixel-Bunnies/pixelbunny/pixelbunnie/Pixel-Bunny/PixelBunny
+2/PixelBunnie 's/PixelBunnie ' s
+3/Incorporated/INC/Inc.
+2/German/german
+4/color/colour/color/volor
+4/Russian/russian/russina/Russion
+3/French/french/fench
+2/iPad/i-Pad
+2/iPod/i-Pod
+2/iPhone/i-Phone
+3/English/english/Engish
+2/Italian/italian
+2/Swiss/swiss
+3/roommate/room-mate/roomate
+6/for example/which means/e.g./ex./i.e./like what
+2/housemate/house-mate
+6/shall not/shan't/shalln't/sha'n't/sha'nt/shant
+2/American/american
+3/America/america/Ameria
+2/the United States/the US
+2/cyber attack/cyberattack
+4/1990/1990s/'90s/1990 's
+4/1980/1980s/'80s/1980 's
+2/dog breeder/dogbreeder
+2/co-worker/coworker
+2/on time/ontime
+2/degree/deg
+2/leap year/leapyear
+2/all-time/alltime
+2/t-shirt/tshirt
+2/science fiction/scifi
+2/crew cut/crewcut
+2/last name/lastname
+2/home run/homerun
+2/living room/livingroom
+2/swim trunk/swimtrunk
+3/dining room/diningroom/dinning room
+3/pterodactyl/pteradactyl/teridactyl
+4/1970/1970s/'70s/1970 's
+4/1960/1960s/'60s/1960 's
+4/1950/1950s/'50s/1950 's
+4/1940/1940s/'40s/1940 's
+4/1930/1930s/'30s/1930 's
+4/1920/1920s/'20s/1920 's
+2/1910/1910s
+2/1900/1900s
+2/1890/1890s
+2/1880/1880s
+2/1870/1870s
+2/1860/1860s
+2/1850/1850s
+2/1840/1840s
+2/1830/1830s
+2/1820/1820s
+2/1810/1810s
+2/1800/1800s
+2/1790/1790s
+2/1780/1780s
+2/1770/1770s
+2/1760/1760s
+2/1750/1750s
+2/1740/1740s
+2/1730/1730s
+2/1720/1720s
+2/1710/1710s
+2/1700/1700s
+2/1690/1690s
+2/1680/1680s
+2/1670/1670s
+2/1660/1660s
+2/1650/1650s
+2/1640/1640s
+2/1630/1630s
+2/1620/1620s
+2/1610/1610s
+2/1600/1600s
+2/1580/1580s
+2/1570/1570s
+2/1560/1560s
+2/1550/1550s
+2/1540/1540s
+2/1530/1530s
+2/1520/1520s
+2/1510/1510s
+2/1500/1500s
+2/1480/1480s
+2/1470/1470s
+2/1460/1460s
+2/1450/1450s
+2/1440/1440s
+2/1430/1430s
+2/1420/1420s
+2/1410/1410s
+2/1400/1400s
+2/1390/1390s
+2/1380/1380s
+2/1370/1370s
+2/1360/1360s
+2/1350/1350s
+2/1340/1340s
+2/1330/1330s
+2/1320/1320s
+2/1310/1310s
+2/1300/1300s
+2/1290/1290s
+2/1280/1280s
+2/1270/1270s
+2/1260/1260s
+2/1250/1250s
+2/1240/1240s
+2/1230/1230s
+2/1220/1220s
+2/1210/1210s
+2/1200/1200s
+2/boyfriend 's/boyfriends '
+2/o'clock/of the clock
+11/I/i/I myself/I , myself ,/myself I/myself , I/I guess I/I mean I/im/personally , I/well i
+3/feet/ft./ft
+2/mozzarella/mozzerella
+2/boring/boaring
+5/does not/doenst/doe snot/doesn't/doesnt
+3/pound/lb/lb.
+3/subconscious/subconcious/subconchus
+2/games/gaems
+2/replies/repies
+3/ounce/oz/oz.
+11/you are/you'r/you re/I mean you are/ur/your/you're/you 's/youare/youre/yuor
+2/Halloween/Holloween
+3/Schwarzenegger/Schwarznegger/Shwarzenegger
+3/pounds/lbs/lbs.
+3/Chinese/chinezse/Chineese
+2/ruled/rulled
+2/fuck/fuk
+2/sleep/slepp
+2/Mecca/Makkah
+3/kilogram/kg/kg.
+2/Baghdad/Bagdad
+2/outside/out side
+2/inside/in side
+2/kilograms/kgs.
+2/vodka/vodochka
+2/qualitative/qualitatative
+2/teacup/tea cup
+3/Hawaii/Havaii/Hawai'i
+2/spaceship/space ship
+2/of course/ofc
+3/guess/gues/gess
+2/Mount/Mt.
+28/you/you yourself/you yourselves/you , yourself ,/you , yourselves ,/yourself you/yourselves you/yourself , you/yourselves , you/i heard that you/i heard you/you are saying you/you are saying that you/I think you/ya/ypu/i figure you/i imagine you/thee/thou/u/well you/you/yo/yoiu/ytou/yu/yuo
+2/shoebox/shoe box
+5/it/it itself/it , itself ,/itself it/itself , it
+7/she/she herself/she , herself ,/herself she/herself , she/seh/she is a person who
+2/bonjour/bonjoure
+2/FaceBook/fb
+2/I do also/so do I
+3/where are/were are/where're
+7/he/he himself/he , himself ,/himself he/himself , he/he is a person who/hge
+2/person/persne
+9/we/we ourselves/we ourself/we , ourselves ,/we , ourself ,/ourselves we/ourself we/ourselves , we/ourself , we
+4/that is/dats/that 's/thats
+3/cool/kewl/kool
+12/they/they themselves/they themself/they , themselves ,/they , themself ,/themselves they/themself they/themselves , they/themself , they/htey/tehy/tey
+2/craziest/craziiest
+7/thanks/thnx/tnx/grateful thanks/merci/thansk/thx
+3/sure/shure/shur
+3/time/tym/timne
+4/why do/y do/how come/why is it that
+6/and/nd/'n/adn/an'/anbd
+15/what/wat/what in the world/hwat/my question is what/the question is what/waht/whad/what in hell/what in the heck/what in the hell/what the heck/what the hell/whta/wut
+5/from/frm/frmo/fron/frae
+2/not am/am no
+2/not carry/carry no
+4/I do not know/I could not say/idk/iono
+2/worry about/am worried about
+2/what is happening in/what is going on in
+3/what do you know about/do you know anything about/do you know anything on
+4/have not/have'nt/haven't/havent
+4/interesting/how interesting/intersting/itneresting
+2/automaton/automoton
+4/away/'way/awya/aywa
+9/will you/willya/will you not/do you feel you might/do you feel you shall/do you feel you will/do you think you might/do you think you shall/do you think you will
+2/what have/what've
+2/everyone does/everyone dose
+4/is it/I would like to ask you if it is/I would like to ask if it is/I would like to ask you is it
+3/would you/is it possible that you might/is it possible that you would
+4/could you/is it possible that you could/do you feel you could/do you think you could
+9/should you/is it possible that you should/should you not/do you feel you must/do you feel you ought to/do you feel you should/do you think you must/do you think you ought to/do you think you should
+7/people/ppls/peepel/peolpe/peopel/poeple/ppl
+10/would/wuold/'d/my question is would/owudl/owuld/the question is would/woud/woudl/wuould
+2/what is the/do you know about the
+2/maybe/mybe
+3/lesbian/lesbein/lesbian woman
+16/where/where in the world/my question is where/the question is where/whare/wher/where in heck/where in hell/where in the heck/where in the hell/where the heck/where the hell/whereabout/whereabouts/wherre/whre
+2/pervert/perv
+4/application/app/aplication/applicaiton
+14/who/who in the world/whou/my question is who/the question is who/who do you believe/who do you think/who in heck/who in hell/who in the heck/who in the hell/who the heck/who the hell/woh
+8/now/at this instant/at the current instant/at the current moment/at this moment/in this instant/in the current moment/nwo
+15/why/why in the world/how come/because of what/how so/my question is why/Pourquoi/the question is why/why in heck/why in hell/why in the heck/why in the hell/why the heck/why the hell/y
+11/how/how in the world/I mean how/how in heck/how in hell/how in the heck/how in the hell/how the heck/how the hell/my question is how/the question is how
+5/when/when in the world/my question is when/the question is when/wehn
+2/cannabis/canibus
+2/except/'cept
+3/beneath/neath/'neath
+7/against/agin/'gainst/againnst/agains/aganist/aggenst
+4/amongst/'mongst/amoungst/amungst
+2/connection/connexion
+4/before/'fore/b4/befoer
+2/upon/'pon
+2/robot/'bot
+6/about/'bout/about/abbout/abotu/baout
+16/because/'cause/'cuz/because/beacuse/becasue/becaue/becaus/because of the fact that/becouse/becuase/becuse/becuz/by virtue of the fact that/coz/due to the fact
+2/I had better/'d better
+3/them/'em/them
+3/afraid/'fraid/affraid
+4/neighborhood/'hood/neighbourhood/neihborhood
+7/will/'ll/will not/iwll/wiull/won't/wont
+3/am/'m/am in the morning
+6/are/'re/ar/my question is are/r/the question is are
+6/around/'round/arond/aroudn/arround/aruond
+2/excuse/'scuse
+2/what is up/'sup
+4/it is not/'taint/'tisn't/it'sn't
+3/until/'til/untill
+8/it is/'tis/I mean it is/i'ts/itz/it 's/it id/itis
+2/music/musik
+5/it was/'twas/itwas/t'was/twas
+3/it was not/'twasn't/t'was'nt
+7/between/'tween/beetween/beetwen/betwen/bewteen/vetween
+2/it were/'twere
+2/it were not/'tweren't
+4/it will/'twill/it'll/it will
+4/it would/'twould/it'd/it would
+10/have/'ve/I mean have/ahev/ahve/haev/hv/hvae/my question is have/the question is have
+2/the powers that be/tptb
+2/I am bored/...
+7/no/not a bit/iie/mais non/negative no/nein/non
+2/am i/am i not
+4/do you/do you not/do you happen to/do you think you
+3/what be you/wat u/what you
+4/shut up/shaddup/stfu/shuddup
+3/should have/shoulda/should've
+2/this will/this'll
+2/this would/this'd
+6/nothing/nothin'/nthng/nada/nothign/nuthin
+2/things will/things'll
+3/should not have/shouldn'a/shouldn't 've
+5/something/somethin'/somethign/someting/somthing
+3/oh/oo/ohh
+4/do/I mean do/my question is do/the question is do
+5/I am/I mean I am/i'm/I'm/iam
+2/don't you/don'tcha
+2/anyone will/anyone'll
+4/brother/bro/brother/brudda
+2/come here/c'mere
+5/could have/coulda/could've/could of/couldve
+2/everybody will/everybody'll
+2/hell of a/helluva
+2/lots of/lotsa
+11/is/is not/ain't/aint/appeares/appears/i snot/is'nt/isn't/isnt/seems
+2/flat rate/flatrate
+2/hay fever/hayfever
+2/Ai Miyazato/Ai Miyazato
+3/out of/outta/outof
+3/ought to/oughta/ought to
+5/were/were not/weren't/werent/werre
+2/to go/to g
+7/what is/what the fuck is/wat 's/wats/what 's/whats/wtf is
+3/what are/what the fuck are/what're
+2/what were/what the fuck were
+2/what is your deal/wus
+4/like/lik/liek/liuke
+2/yours/urs
+5/do not/dnt/do'nt/don't/dont
+2/mom/mam
+6/know/kno/knwo/konw/nkow/nkwo
+2/I do not/I dun
+2/where have/where've
+3/who are/who're/who 're
+7/yourself/yerself/yourselve/urself/yoruself/yourslef/youself
+3/midnight/12 midnight/12 o'clock midnight
+3/noon/12 noon/12 o'clock noon
+2/'leet speak/1337 sp34k
+2/to be/2 b
+3/artificial intelligence/a.i./ai
+2/A.M./A.M. in the morning
+2/a bacterium/a bacteria
+2/a boyfriend/a bf
+10/some/a bit of/a dab of/a dash of/a hint of/a small amount of/a touch of/smoe/soem/some of the
+2/unexpected/a bolt from the blue
+2/a consortium/a consortia
+2/a criterion/a criteria
+2/a fungus/a fungi
+4/a/a kind of/a sort of/a type of
+2/a larva/a larvae
+2/a loss/a lose
+2/a paparazzo/a paparazzi
+2/a parenthesis/a parentheses
+2/a phenomenon/a phenomena
+2/a protozoon/a protozoa
+2/a setback/a set back
+2/a vertebra/a vertebrae
+2/a woman/a women
+2/as a matter o fact/aamof
+3/abandon/abanden/abondon
+2/abandoned/abandonned
+3/aberration/abberation/aberation
+3/abbreviation/abbriviation/abreviation
+2/abilities/abilties
+2/abysmal/abizmal
+2/ABM/ABM missile
+2/Aboriginal/Aborignal
+2/abortifacient/abortificant
+2/about a/abouta
+2/about it/aboutit
+2/about the/aboutthe
+3/arbitrary/abritrary/arbitary
+2/abbreviate/abriviate
+2/ABS/ABS system
+3/absence/abscence/absense
+2/abscond/abscound
+2/absorbent/absorbant
+3/absorption/absorbsion/absorbtion
+2/absolve/absove
+2/abstinence/abstanence
+3/abundances/abundacies/abundancies
+2/abundance/abundence
+3/abundant/abundent/abundunt
+2/abuts/abutts
+4/academy/acadamy/acatemy/accademy
+3/academic/acadmic/acedemic
+2/accelerate/accellerate
+2/accelerating/accellerating
+2/acceleration/accelleration
+2/acceptance/acceptence
+2/acceptable/acceptible
+2/acceptably/acceptibly
+24/accessible/accesabel/accesabele/accesable/accesibel/accesibele/accesible/accessabel/accessabele/accessable/accessibel/accessibele/acesabel/acesabele/acesable/acesibel/acesibele/acesible/acessabel/acessabele/acessable/acessibel/acessibele/acessible
+3/accessories/accesories/acessories
+3/accessory/accesory/acessory
+2/accident/accidant
+3/accidentally/accidentaly/accidently
+2/acclimatization/acclimitization
+12/accommodate/accomadate/accomidate/accommadate/accommidate/accomodate/acomadate/acomidate/acommadate/acommidate/acommodate/acomodate
+12/accommodated/accomadated/accomidated/accommadated/accommidated/accomodated/acomadated/acomidated/acommadated/acommidated/acommodated/acomodated
+12/accommodates/accomadates/accomidates/accommadates/accommidates/accomodates/acomadates/acomidates/acommadates/acommidates/acommodates/acomodates
+28/accommodation/accomadatin/accomadation/accomadtion/accomidation/accommadatin/accommadation/accommadtion/accommidation/accommodatin/accommodtion/accomodatin/accomodation/accomodtion/acomadatin/acomadation/acomadtion/acomidation/acommadatin/acommadation/acommadtion/acommidation/acommodatin/acommodation/acommodtion/acomodatin/acomodation/acomodtion
+12/accommodating/accomadating/accomidating/accommadating/accommidating/accomodating/acomadating/acomidating/acommadating/acommidating/acommodating/acomodating
+28/accommodations/accomadatins/accomadations/accomadtions/accomidations/accommadatins/accommadations/accommadtions/accommidations/accommodatins/accommodtions/accomodatins/accomodations/accomodtions/acomadatins/acomadations/acomadtions/acomidations/acommadatins/acommadations/acommadtions/acommidations/acommodatins/acommodations/acommodtions/acomodatins/acomodations/acomodtions
+2/accompany/accomany
+2/accompanying/accomanying
+2/accompanied/accompanyed
+3/accomplish/accompish/acomplish
+3/accomplished/accompished/acomplished
+2/accomplishes/accompishes
+3/accordion/accordeon/accordian
+2/accordionists/accordianists
+2/according to/accordingto
+3/according/accoring/acording
+3/acoustic/accoustic/acoostic
+2/acoustically/accoustically
+6/across/accros/accross/acros/acrost/arcoss
+2/accused/accussed
+2/access/acess
+3/achieve/acheeve/acheive
+2/achieved/acheived
+5/achievement/acheivement/acheivment/achievment/successful achievement
+4/achievements/acheivements/acheivments/achievments
+2/achieves/acheives
+2/achieving/acheiving
+5/architecture/achitecture/archetecture/architechture/architecure
+2/important test/acid test
+2/acknowledgment/acknowledgement
+7/can/acn/cna/cxan/is able to/my question is can/the question is can
+2/accomplishment/acomplishment
+2/accomplishments/acomplishments
+2/accordingly/acordingly
+5/acquaintance/acquaintence/acquiantence/aquaintance/aquiantance
+3/acquaintances/acquaintences/acquiantences
+3/aqueous/acqueus/aqueus
+3/acquiesce/acquiess/aquiess
+3/acquitted/acquited/aquitted
+2/acrylic/acryllic
+3/actor/acter/play actor
+4/weather/active weather/wheater/wheather
+3/activities/activites/activitties
+2/accuracy/acuracy
+2/accustom/acustom
+2/accustomed/acustommed
+2/adamant/adament
+2/adaptations/adaptions
+5/adequate/adaquit/adecuate/adequit/adequite
+2/combine/add together
+4/additional/additinal/addtional/aditional
+2/admission/addmission
+2/adopt/addopt
+2/adopted/addopted
+2/adoptive/addoptive
+4/address/addres/adres/adress
+4/addressable/addresable/adresable/adressable
+3/addressing/addresing/adresing
+3/addition/addtion/adition
+2/adieu/adew
+2/adhering/adhearing
+2/adhesive/adheasive
+2/adjacency/adjacancy
+4/adjacent/adjacant/ajacant/ajacent
+2/agitate/adjatate
+3/adjective/adjative/ajative
+4/amendment/admendment/amendmant/ammendment
+3/administration/administartion/adminstration
+2/administrate/adminstrate
+2/administrative/adminstrative
+2/administrator/adminstrator
+2/admissibility/admissability
+2/admissible/admissable
+2/adolescent/adolecent
+3/acquire/adquire/aquire
+3/acquired/adquired/aquired
+2/acquires/adquires
+3/acquiring/adquiring/aquiring
+2/advantage/advanage
+3/advantageous/advanatagous/advantagous
+4/forward/advance forward/forwrd/foward
+2/scouting/advance scouting
+2/warning/advance warning
+2/adventurous/adventourous
+2/advertisement/advertisment
+2/advertisements/advertisments
+2/adversary/advesary
+2/advised/adviced
+4/aerial/aeriel/airial/areal
+2/aerials/aeriels
+2/affect/afect
+2/affected/afected
+2/affecting/afecting
+2/affidavit/affadavit
+3/aficionado/afficianado/afficionado
+2/aficionados/afficionados
+5/affiliate/affilate/affilliate/afiliate/afilliate
+2/afflict/affilict
+2/afflicted/affilicted
+4/affiliated/affilliated/afiliated/afilliated
+4/affiliates/affilliates/afiliates/afilliates
+7/yes/affirmative yes/hai/ja/mais oui/oui/positive yes
+2/rich/affluent rich
+2/aftereffect/after-affect
+2/after the/afterthe
+2/after which/afterwhich
+2/afterwards/afterwords
+2/against the/againstt he
+4/agreement/aggreement/agreemnet/agremeent
+2/egregious/aggregious
+3/aggressive/aggresive/agressive
+3/aggressively/aggresively/agressively
+3/aggravate/aggrivate/agravate
+3/again/agian/over again
+2/agree/agre
+3/agreed/agred/came to an agreement
+3/agreements/agreemnets/agremeents
+2/aggregate/agregate
+2/aggregates/agregates
+2/agreeing/agreing
+2/aggression/agression
+2/agriculturists/agriculturalists
+2/aggrieved/agrieved
+2/early/ahead of schedule
+2/almond/ahmond
+2/a hold of/ahold of
+3/happen/ahppen/hapen
+2/abet/aid and abet
+3/airport/aiport/airoport
+4/airports/aiports/airoports/airporta
+2/aerator/airator
+2/airborne/airbourne
+2/air-conditioned/airconditioned
+2/aircraft/aircrafts
+2/airline/aireline
+2/airlines/airelines
+2/adjoin/ajoin
+2/adjoined/ajoined
+2/adjoining/ajoining
+2/adjustment/ajustment
+2/albeit/albiet
+2/album composed of/album comprised of
+2/alchemy/alcemy
+5/alcohol/alchohol/alchol/alcohal/alochol
+4/alcoholic/alchoholic/alcholic/alcoholical
+4/allege/aledge/alege/alledge
+4/alleged/aledged/aleged/alledged
+3/alleges/aledges/alledges
+5/allegiance/alegance/alegience/allegence/allegience
+2/algae/algee
+2/algorithm/algoritm
+2/algorithms/algoritms
+3/align/aline/allign
+2/all for naught/all for not
+2/allegory/allagory
+2/alliance/allaince
+2/aligned/alligned
+2/alleviate/alliviate
+2/along/allong
+2/allophone/allopone
+2/allophones/allopones
+2/allowance/allowence
+2/all right/allright
+6/although/allthough/altho/althought/altough/in spite of the fact that
+9/always/allwasy/allways/allwyas/alwasy/alwats/alway/alwyas/at all times
+2/alma mater/alma matter
+2/most/almost all
+4/almost/almots/almsot/alomst
+2/alongside/along side
+3/resembling/along the lines of/ressembling
+2/a long time/along time
+2/a lot/alot
+2/a lot of/alot of
+2/allotted/alotted
+2/alternatively/alternativly
+4/athletic/althetic/atheletic/atheltic
+3/athletics/althetics/atheltics
+2/amazing/amaizing
+3/amateur/amatuer/amatur
+2/ambidextrous/ambadexterous
+2/made/amde
+2/ameliorate/amealearate
+2/amoeba/ameba
+2/amenities/amentities
+4/make/amke/mkae/mkea
+4/makes/amkes/makse/mkaes
+4/making/amking/makeing/mkaing
+2/amend/ammend
+2/amended/ammended
+2/amount/ammount
+2/am not/amn't
+2/AMOCO/AMOCO Oil Co.
+3/among/amoung/amung
+2/amphitheater/ampatheater
+3/amphitheatre/ampitheater/ampitheatre
+3/amphitheatres/ampitheaters/ampitheatres
+2/Amtrak/Amtrack
+3/amusement/amusemnet/amusment
+6/enough/an adequate number of/enaugh/enought/enuf/enougth
+2/an effect/an affect
+2/an alumnus/an alumni
+2/anachronism/anachronism in his own time
+2/Anaheim/Anahiem
+3/analogous/analagous/analogeous
+2/analytic/analitic
+3/analyze/analize/analyse
+2/analyst/analyist
+2/anarchistic/anarkistic
+3/ancestor/ancester/ansester
+3/ancestral/ancesteral/ancestoral
+2/ancillary/ancilliary
+2/etc./and etc.
+2/and so forth/and so fourth
+2/and one/andone
+2/he and the/andt
+2/and the/andthe
+2/annealing/aneeling
+2/anxious/angshus
+2/anxiety/angziety
+2/annihilate/anialate
+2/annihilation/anihilation
+2/ingenue/anjanew
+2/ankle/ankel
+2/anniversary/annaversery
+2/anoint/annoint
+2/anointed/annointed
+2/anointing/annointing
+2/anoints/annoints
+2/anonymous/annonomus
+2/annoyance/annoyence
+3/annulled/annuled/anulled
+2/anomalies/anomolies
+2/anomalous/anomolous
+2/anomaly/anomoly
+2/anonymity/anonimity
+2/stranger/anonymous stranger
+2/another/anothe
+2/announced/anounced
+2/annoyed/anoyed
+2/amphibian/anphibian
+2/nasalisation/ansalisation
+2/nasalization/ansalization
+2/ensemble/ansamble
+2/antarctic/antartic
+2/Antarctica/antartica
+2/antecedent/antecedant
+2/anthropomorphization/anthromorphization
+2/anecdote/anticdote
+2/anticlimactic/anticlimatic
+4/entrepreneur/antripanewer/entrapeneur/entrepeneur
+2/anthropological/antropological
+2/anthropologist/antropologist
+2/anthropology/antropology
+2/annual/anual
+2/annually/anually
+2/annul/anull
+2/aneurysm/anurism
+3/anywhere/any where/anyhwere
+3/anything/anythign/anytying
+2/apparatus/aparatus
+4/apparent/aparent/apparant/apparrent
+6/apartment/apartament/apartement/appartament/appartement/appartment
+6/apartments/apartaments/apartements/appartaments/appartements/appartments
+2/apartheid/apartide
+2/appalled/apauled
+3/Apennines/Apenines/Appenines
+2/aphelion/apihelion
+2/APL/APL programing language
+2/applique/aplikay
+2/apologetics/apolegetics
+2/upholstery/apollstree
+2/apologize/apologise
+2/apologized/apologised
+2/apostle/aposle
+2/apostles/aposles
+2/apostrophe/apostraphe
+2/apparently/apparantly
+2/apart/appart
+2/apathetic/appathetic
+3/appearance/appearence/apperance
+3/appearances/appearences/apperances
+2/applications/applicaitons
+2/applied/applyed
+2/appointment/appointiment
+2/apologies/appologies
+2/apology/appology
+2/appreciate/apprieciate
+2/approaches/approachs
+4/appropriate/appropiate/approrpiate/approrpriate
+4/approximately/approximitely/aproximately/aproximatly
+3/April/Apr/Apr.
+2/appreciation/apresheation
+2/approach/aproach
+2/approx/aprox
+2/approximate/aproximate
+2/aqueduct/aquaduct
+2/aqueducts/aquaducts
+2/acquainted/aquainted
+2/acquisition/aquisition
+2/acquisitions/aquisitions
+2/acquit/aquit
+2/arachnid/aracnid
+2/arrange/arange
+2/arranged/aranged
+3/arrangement/arangement/arrangment
+2/arrangements/arangements
+2/arbitrarily/arbitarily
+2/arboretum/arbouretum
+2/archaeologic/archaelogic
+2/archaeological/archaelogical
+2/archaeologically/archaelogically
+2/archaeologist/archaelogist
+2/archaeologists/archaelogists
+3/archaeology/archaelogy/archeology
+2/architect/archetect
+2/architects/archetects
+2/architectural/archetectural
+2/architecturally/archetecturally
+2/archaic/archiac
+2/Archimedean/Archimedian
+4/archipelago/archipeligo/archipilago/archipiligo
+2/archetype/archtype
+2/archetypes/archtypes
+2/aardvark/ardvark
+2/are led by/are lead by
+3/are not/aren't/arent
+4/arguably/argubly/argueably/arguebly
+2/argument/arguement
+2/co-dependent/codependent
+2/arguments/arguements
+2/arithmetic/arithmatic
+2/arrive/arive
+2/arrived/arived
+2/Arizona/ariz.
+2/Armageddon/armagedon
+2/holdup/armed assault and holdup
+2/armistice/armistis
+2/armament/armorment
+2/aurora/aroara
+2/arrow/arro
+2/Arctic/Artic
+4/article/artical/artice/articel
+3/artificial/artifical/artificila
+2/artificially/artifically
+2/artillery/artillary
+2/artist/artisit
+2/artists/artisits
+2/black/as black as pitch
+2/blind/as blind as a bat
+3/busy/as busy as a beaver/as busy as a bee
+2/calm/as cool as a cucumber
+3/dead/as dead as a doornail/killed dead
+3/easy/as easy as pie/eazy
+2/gentle/as gentle as a lamb
+2/happy/as happy as a lark
+2/lead/as heavy as lead
+2/pretty/as pretty as a picture
+3/quick/as quick as a flash/quik
+3/quickly/as quick as a wink/quicklyu
+3/sick/as sick as a dog/under the weather
+2/slow/as slow as molasses
+3/smart/as smart as a whip/as wise as an owl
+3/straight/as straight as an arrow/stright
+3/strong/as strong as an ox/storng
+2/thin/as thin as a rail
+2/white/as white as a sheet
+2/as soon as possible/asap
+3/ascend/ascend up/asend
+2/advertising/asdvertising
+2/ascended/asended
+2/ascending/asending
+2/ascetic/asetic
+4/asphalt/asfalt/ashphalt/assfalt
+4/asthma/ashtma/assma/azma
+2/assign/asign
+2/ask the/askt he
+7/associate/asociate/asosciate/asosiate/assoicate/assosciate/assosiate
+7/associated/asociated/asosciated/asosiated/assoicated/assosciated/assosiated
+7/association/asociation/asosciation/asosiation/assocation/assosciation/assosiation
+6/associations/asociations/asosciations/asosiations/assosciations/assosiations
+2/absorbed/asorbed
+2/aspirations/asperations
+2/asbestos/aspestus
+2/assassin/assasin
+2/assassinate/assasinate
+2/assassinated/assasinated
+2/assassinates/assasinates
+2/assassination/assasination
+2/assassinations/assasinations
+2/assassins/assasins
+2/assimilate/assemalate
+2/assemble/assemple
+2/assertion/assertation
+2/aside/asside
+2/asymptote/assimtote
+2/assistance/assisstance
+3/assistant/assistent/assitant
+2/associates/assoicates
+3/if/assuming that/in the event that
+2/asymmetric/assymetric
+3/asteroid/asteriod/astroid
+3/asterisk/asterix/astrix
+2/as the/asthe
+3/aesthetic/asthetic/esthetic
+2/aesthetics/asthetics
+2/assume/asume
+2/asymptotic/asumtotic
+2/as well/aswell
+2/after/at the end of
+2/at this time/at this point in time
+4/attendant/atendant/atendent/attendent
+4/attendants/atendants/atendents/attendents
+3/attention/atention/attentioin
+2/attorney/aterny
+2/athlete/athelete
+2/athletes/atheletes
+2/Athenian/Athenean
+2/Athenians/Atheneans
+2/atheist/athiest
+5/atmosphere/athmosphere/atmoshere/atmospher/atomsphere
+2/at least/atleast
+3/ATM/ATM machine/automatic ATM machine
+2/at the moment/atm
+2/atoll/atol
+2/atolls/atols
+2/attractions/atractions
+2/attribute/atribute
+2/attributed/atributed
+2/attributes/atributes
+3/attach/attach together/attatch
+3/attempt/attemp/attemt
+2/attempted/attemted
+2/attempting/attemting
+2/attempts/attemts
+2/attendance/attendence
+2/attend/attened
+2/attended/attented
+2/attending/attenting
+2/at the/atthe
+2/attitude/attitide
+3/audience/audeince/audiance
+3/August/Aug/Aug.
+2/austere/austeer
+2/Australia/austrailia
+2/Australian/austrailian
+2/autobiographic/authobiographic
+6/autobiography/authobiography/autobiography of her life/autobiography of his life/autobiography of my life/autobiography of your life
+3/authoritative/authorative/authoritive
+2/authorities/authorites
+3/autochthonous/autochtonous/autoctonous
+2/automatically/automaticly
+2/author/autor
+2/auditorium/autotorium
+2/autumn/autum
+4/auxiliary/auxilary/auxillary/auxilliary
+3/auxiliaries/auxillaries/auxilliaries
+9/available/availabe/availalbe/availble/availiable/availible/avalable/avaliable/avalible
+2/avalanche/avalance
+2/aviation/avation
+2/with me/avec moi
+3/with you/avec vous/witcha
+2/averaged/averageed
+2/awesome/awsome
+2/azure/azur
+2/![)]be/b
+3/became/bacame/becamae
+3/bachelor/bachler/unmarried bachelor
+3/back and forth/back and fourth/back in forth
+3/baccalaureate/backaloriette/baclaureate
+3/bakery/backerie/backery
+2/bakeries/backeries
+2/backpedal/backpeddle
+2/evil/bad evil
+2/bated breath/baited breath
+3/back/bakc/bcak
+2/ballast/balast
+3/balcony/balcon/balconey
+2/balconies/balcons
+2/balance/balence
+2/bologna/balona
+2/band composed of/band comprised of
+2/bandwidth/bandwith
+2/banquet/bangquit
+2/bankruptcy/bankrupcy
+2/bayonet/bannet
+2/beret/baray
+2/bargaining/barganing
+2/bargain/bargin
+3/baroque/baroke/barroque
+4/essentials/basic essentials/important essentials/necessary essentials
+3/fundamentals/basic fundamentals/fundametals
+2/battalion/batallion
+2/beige/bayge
+2/bazaar/bazare
+2/best boyfriend/bbf
+2/beware/be ware
+6/breakfast/beakfast/bekfast/breakfeast/breakfest/brekfast
+2/barely/bearly
+2/bestiality/beastiality
+2/bestiary/beastiary
+7/beautiful/beatiful/beatifull/beautifull/beautyfull/beutiful/butiful
+3/bouquet/beauquet/boquet
+2/bureaucratic/beauracratic
+2/bureaucracy/beaurocracy
+2/vista/beautiful vista to look out upon
+2/because a/becausea
+2/because of/becauseof
+2/because the/becausethe
+2/because you/becauseyou
+3/becoming/becomeing/becomming
+2/being/beeing
+2/beforehand/before hand
+2/beggar/begger
+2/beggars/beggers
+4/begin/beggin/biggin/bigin
+7/beginner/begginer/beginer/bigginer/bigginner/biginer/biginner
+2/beginners/begginers
+10/beginning/beggining/begginings/begining/beginining/beginnig/biggining/bigginning/bigining/biginning
+4/behavior/behaviour/behavoir/behavour
+2/behemoth/behemouth
+2/beleaguered/beleagured
+5/believe/beleave/beleiev/beleieve/beleive
+2/belief/beleif
+2/believed/beleived
+2/believes/beleives
+2/believing/beleiving
+2/Belgium/Belguim
+2/believable/believeable
+3/beyond/bellond/belond
+2/bellwether/bellweather
+2/belie/belye
+3/beneficial/benefical/benificial
+2/beneficiary/beneficary
+2/benefiting/benefitting
+3/benefit/benifit/good benefit
+2/benefits/benifits
+2/benign/benine
+2/bergamot/bergamont
+2/Bernoulli/Bernouilli
+2/besiege/beseige
+2/besieged/beseiged
+2/besieging/beseiging
+2/bet you/betcha
+2/better than/better then
+2/better not/bettern't
+2/beautifully/beutifully
+2/best female friend/bff
+3/bitch/bichth/bicth
+5/bicycle/bicykle/bicyle/bycicle/bycycle
+4/bicycles/bicykles/bicyles/bycycles
+2/big-time/big time
+2/bilaterally/bilateraly
+2/billion/bilion
+2/billions/bilions
+3/built/bilt/builded
+2/bound/binded
+2/binomial/binominal
+5/biography/biography of her life/biography of his life/biography of my life/biography of your life
+2/biscuit/biscut
+2/bit/bited
+2/bivouacking/bivouacing
+2/bivouac/bivwack
+2/bayou/biyou
+7/business/bizness/buisness/busines/busness/bussines/bussiness
+2/blame/blaim
+2/blamed/blaimed
+2/bled/bleeded
+2/blitzkrieg/blitzkreig
+4/hemorrhage/blood hemorrhage/hemmorhage/hemorage
+4/blossom/bloosom/blossem/blosum
+2/marina/boat marina
+2/bougainvillea/boganveelia
+4/boundary/bondary/boundrie/boundry
+2/bona fide/bonified
+2/Bonanno/Bonnano
+6/Buddhist/boodist/Buddhust/Buddist/Budhist/Budist
+3/buoy/booe/bouy
+8/buffet/boofay/bufet/bufete/bufette/buffete/buffett/buffette
+3/bourgeoisie/boorjwazee/borgwasy
+2/boutique/booteek
+2/boo-yah/booyah
+4/boundaries/boundarys/boundries/boundrys
+2/buoyancy/bouyancy
+3/buoyant/bouyant/boyant
+2/boxes/boxs
+2/boycott/boycot
+3/Brazilian/Brasillian/Brazillian
+2/be right back/brb
+3/breakthrough/breakthough/major breakthrough
+2/bred/breeded
+2/brief/breif
+2/briefly/breifly
+2/brouhaha/brew haha
+2/bridge/brigde
+2/bridges/brigdes
+3/brilliant/briliant/brillant
+3/Britain/Britian/Brittain
+2/British/Brittish
+2/broadly/broady
+2/brochure/brocher
+2/broccoli/brocolee
+2/broadcast/brodcast
+2/brogue/broge
+3/bruise/brooz/bruse
+2/brother-in-law/brother in law
+2/brothers-in-law/brothers in law
+2/Brussels/Brussells
+2/by the way/btw
+2/Buddha/Buddah
+5/Buddhists/Buddhusts/Buddists/Budhists/Budists
+4/Buddhism/Buddism/Budhism/Budism
+4/building/buidling/bulding/buliding
+4/buildings/buidlings/buldings/bulidings
+2/boulevard/bullevard
+2/bulletin/bulliten
+2/bouillon/bullyan
+2/bungalow/bungalo
+2/bungalows/bungalos
+2/bourbon/burbon
+2/burrito/buritto
+2/burritos/burittos
+2/burgeon/burjun
+2/bureau/buro
+2/bourgeois/burzwah
+2/but the/butthe
+2/be/bve
+7/through/by means of/throgh/throug/throuhg/thru/thro'
+2/biased/byast
+2/by-product/byproduct
+2/by the/byt he
+2/come on/c'mon
+2/CPlusPlus/C
+2/see/c
+3/California/CA/Califronia
+2/cabinet/cabnet
+2/cacophony/cacaphony
+2/catchup/cachup
+2/CAD/CAD design
+3/cease/caese/cease and desist
+4/Caesar/caeser/ceasar/ceaser
+2/calf/caf
+2/cafe/cafay
+2/cafeteria/cafeteiria
+3/caffeine/caffiene/cafine
+7/character/caharcter/carachter/charachter/charactor/charecter/charector
+3/calendar/calandar/calander
+3/calendars/calandars/calanders
+5/calculated/calcullated/caluclated/caluculated/calulated
+2/cul-de-sac/caldesack
+3/calves/calfes/calfs
+2/Californian/Califronian
+2/calligraphy/caligraphy
+2/calligraphic/calliagraphic
+2/cauliflower/calliflower
+2/callus/callis
+2/calluses/callouses
+4/calculate/caluclate/caluculate/calulate
+2/Camembert/camabert
+2/Cambodian/Cambodain
+2/Cambridge/Cambrige
+2/chameleon/camelion
+2/camouflage/camoflage
+2/campaign/campain
+2/campaigns/campains
+5/can not/can't/canna/cannot/cant
+2/can not have/can't 've
+4/candidate/candadate/candidtae/canidate
+2/candidates/candidtaes
+2/canoe/canew
+2/canisters/cannisters
+2/canonical/cannonical
+3/connotation/cannotation/conotation
+2/connotations/cannotations
+2/cantaloupe/cantalope
+2/canteen/cantine
+2/coast/caost
+4/captain/cap'n/captian/captin
+2/capability/caperbility
+2/Cape Town/Capetown
+4/cappuccino/cappucino/capuccino/capucino
+2/captor/capter
+2/capital/captial
+2/capitalize/captialize
+2/capitals/captials
+2/caribou/caraboo
+2/characteristic/caracteristic
+3/characteristics/caracteristics/charistics
+2/caravan/caraven
+2/caravans/caravens
+2/carcass/carcus
+2/caring/careing
+4/Caribbean/Caribean/Carribbean/Carribean
+2/charismatic/carismatic
+2/Carmelite/Carmalite
+2/carnival/carnaval
+2/carnivorous/carniverous
+2/carousel/carosel
+2/carriage/carrage
+3/career/carrear/carreer
+2/evaluate/carry out an evaluation of
+2/Carthaginian/Carthagian
+2/cartographer/carthographer
+4/cartilage/cartilege/cartilidge/cartledge
+2/cartridge/cartrige
+3/cassette/casette/cassete
+2/cash/cash money
+2/caisson/casion
+3/cassowary/cassawory/cassowarry
+2/chasm/cassim
+2/cast/casted
+2/castle/castel
+2/casualties/casulaties
+2/casualty/casulaty
+2/cataclysm/cataclism
+2/categories/catagories
+4/category/catagory/categiory/ctaegory
+3/caterpillar/catapiller/catterpilar
+2/catastrophe/catastrofy
+3/ketchup/catchip/kethup
+4/cathedral/catedral/cathederal/catherdral
+2/catholic/cathlic
+2/Catholicism/catholicsm
+2/caterpillars/catterpilars
+2/Caucasus/caucusus
+2/cavern/cavren
+3/kayak/cayak/kiyack
+2/Celsius/celcius
+2/celebration/cellabration
+13/cemetery/cematary/cematery/cematry/cememtery/cementary/cementery/cemetarey/cemetary/cemetry/cemitary/cemitery/cemitry
+2/cemeteries/cemetaries
+2/census/cencus
+2/centennial/centenial
+2/center/centre
+2/centuries/centruies
+3/century/centrury/centruy
+2/circumstance/cercomstance
+2/ceremonial/cerimonial
+2/ceremonies/cerimonies
+2/ceremonious/cerimonious
+2/ceremony/cerimony
+2/certainty/certainity
+2/certain/certian
+4/challenge/chalange/chalenge/challange
+4/challenging/chalanging/chalenging/challanging
+2/chock-full/chalk full
+2/challenged/challanged
+2/challenger/challanger
+2/challenges/challanges
+2/champagne/champain
+2/Champagne/Champange
+3/chandelier/chandeleer/shandeleer
+3/change/chaneg/chnage
+2/changes/chanegs
+2/changeable/changable
+3/changing/changeing/changng
+2/characters/charachters
+2/characterized/charaterized
+2/chairman/chariman
+3/charisma/charizma/karisma
+2/chartreuse/chartroose
+2/chassis/chassy
+2/chalk/chawk
+3/cheetah/cheatta/cheeta
+2/Czechoslovakia/Checkoslovakia
+2/cheesy/cheezy
+2/chief/cheif
+2/check/chekc
+2/cello/chello
+2/chemical/chemcial
+3/chemically/chemcially/chemicaly
+2/chemistry/chemestry
+2/childbirth/childbird
+2/children/childern
+2/children 's/childrens
+2/chimney/chimmeny
+3/chisel/chisle/chizzel
+3/chocolate/chocalate/chocolot
+2/choice/choise
+2/champing at the bit/chomping at the bit
+2/chosen/choosen
+2/choosing/chosing
+2/ceiling/cieling
+2/ceilings/cielings
+2/cinnamon/cinamon
+3/Cincinnati/Cincinatti/Cincinnatti
+2/coyote/ciotee
+5/circuit/circit/circiut/circut/ciricuit
+3/circle/circle around/round circle
+2/circulated/circulated around
+2/curriculum/ciriculum
+2/certificate/cirtificate
+2/civilian/civillian
+3/clad/cladded/claded
+2/clear/claer
+2/cleared/claered
+2/clearer/claerer
+2/claims/claimes
+3/clairvoyant/clairvoiant/claravoyant
+2/classic/clasic
+2/classical/clasical
+2/classically/clasically
+2/classified/clasified
+3/tradition/classic tradition/past tradition
+2/classify/classify into groups
+2/claustrophobia/claustraphobia
+2/cleanliness/cleanlyness
+3/clearance/cleareance/clearence
+2/clerestory/clearstory
+3/cliche/cleeshay/overused cliche
+2/client/cliant
+2/climb/climb up
+2/clinical/clincial
+2/clinically/clinicaly
+2/clipart/clip-art
+2/cloisonne/cloisonay
+5/proximity/close proximity/near proximity/proximaty/proximety
+2/scrutiny/close scrutiny
+5/computer/cmptr/computor/computre/comupter
+2/CNN/CNN news network
+2/coalesce/coaless
+2/coalescence/coalessense
+2/cockles/cockels
+2/cocktail/coctail
+2/coerce/coerse
+2/coercion/coersion
+3/coffee/cofee/coffe
+2/conform/coform
+2/cognizant/cogniscent
+2/cohabiting/cohabitating
+3/coincide/coinside/concide
+2/coincidence/coinsidence
+3/collaboration/colaboration/joint collaboration
+2/collapse/colapse
+2/collapsing/colapsing
+2/collateral/colateral
+2/frost/cold frost
+3/ice/cold ice/frozen ice
+3/collection/colection/collction
+4/colleague/coleeg/colleage/collegue
+2/cholera/colera
+2/collaborate/collaborate together
+2/collectibles/collectables
+2/collegiate/collegate
+2/colleagues/collegues
+2/colonnade/collonade
+2/cologne/collone
+2/colonies/collonies
+2/colony/collony
+2/colossal/collosal
+4/column/collum/collumn/colum
+2/Colorado/colo.
+2/colosseum/coloseum
+2/colorful/colourful
+2/colorize/colourize
+2/commando/comando
+2/commandos/comandos
+3/companies/comanies/comapnies
+3/company/comany/comapny
+2/comeback/comback
+2/combined/combined together
+2/combination/combintation
+3/coming/comeing/comming
+5/commemorate/comemmorate/comemorate/commemmorate/commerate
+4/commemorated/comemmorated/comemorated/commemmorated
+4/commemorates/comemmorates/comemorates/commemmorates
+5/commemorating/comemmorating/comemorating/commemmorating/commerating
+5/commemoration/comemmoration/comemoration/commemmoration/commeration
+6/commemorative/comemmorative/comemorative/commemerative/commemmorative/commerative
+2/commencement/comencement
+2/cormorant/comerant
+7/commercial/comercail/comercial/comerical/commercail/commerical/commericial
+11/commercially/comercailly/comercaily/comerically/comericaly/commecially/commercailly/commercaily/commerically/commericaly/commericially
+2/commerce/comerce
+4/comfortable/comforable/comfrotable/confortable
+4/commission/comision/comission/commision
+4/commissioned/comisioned/comissioned/commisioned
+4/commissioner/comisioner/comissioner/commisioner
+4/commissioning/comisioning/comissioning/commisioning
+4/commissions/comisions/comissions/commisions
+4/committed/comited/comitted/commited
+6/committee/comitee/comittee/commitee/committe/committy
+4/committing/comiting/comitting/commiting
+2/command/commadn
+2/commitment/committment
+2/commitments/committments
+2/commonly/commongly
+2/communication/communciation
+2/communique/communikay
+2/commuting/commuting back and forth
+3/contain/comntain/comtain
+6/contains/comntains/comtains/containes/contiains/countains
+2/compare/compair
+2/compared/compaired
+3/comparison/compairison/comparision
+2/comparable/compareable
+2/comparative/comparitive
+2/comparatively/comparitively
+4/compatibilities/compatabilities/compatablities/compatiblities
+4/compatibility/compatability/compatablity/compatiblity
+2/compatible/compatable
+2/compete/compeat
+2/competing/compeeting
+2/competence/competance
+3/competent/competant/compitent
+2/competitive/competative
+2/competitively/competively
+2/comprehensive/comphrehensive
+2/complicated/complcated
+2/completed/compleated
+3/completeness/compleatness/completness
+3/unanimous/completely unanimous/unannomus
+2/complexion/complextion
+2/compiler/complier
+3/obey/comply with/obay
+2/parts/component
+2/composite/composate
+2/compressive/compresive
+4/compromise/comprimise/comprimize/compromize
+2/computers/computors
+2/communicate/comunicate
+2/community/comunity
+2/concatenate/concatinate
+2/consecutive/concecutive
+3/conceit/conceet/conseat
+2/concierge/conceirge
+3/consensus/concensus/consensus of opinion
+4/conscious/conceous/conchus/concious
+3/consider/concider/consdider
+4/considered/concidered/consdidered/considerd
+2/considers/conciders
+2/conscience/concience
+2/conscientious/concientious
+2/consciously/conciously
+2/consciousness/conciousness
+2/conquer/concur
+2/condemn/condem
+2/condemned/condemmed
+2/condition/condidtion
+2/conditions/condidtions
+2/condolences/condolances
+3/review/conduct a review of/reveiw
+3/connect/conect/connect up together
+2/connected/conected
+2/confectionery/confectionary
+3/conference/conferance/confrence
+2/confidential/confidental
+2/confidentially/confidentally
+2/confirmation/confirmmation
+2/confused/confsued
+2/congratulations/congradulations
+2/congressional/congresional
+2/connived/conived
+2/conjecture/conjecutre
+2/Connecticut/Conneticut
+2/conniption/conniption fit
+2/connoisseur/conosuer
+2/conqueror/conquerer
+2/conquerors/conquerers
+2/consent/conscent
+2/concentrate/consentrate
+2/concentrated/consentrated
+2/concentrates/consentrates
+2/concept/consept
+2/concern/consern
+2/concerned/conserned
+2/concerning/conserning
+2/conservative/conservitive
+2/concession/consession
+2/concessions/consessions
+2/conceivable/consevible
+3/considerate/considerit/considerite
+2/consistency/consistancy
+2/consistent/consistant
+2/consistently/consistantly
+2/constituencies/consituencies
+2/constituency/consituency
+4/constitution/consitution/constituion/costitution
+3/constitutional/consitutional/constituional
+2/consolidate/consolodate
+2/consolidated/consolodated
+2/consonant/consonent
+2/consonants/consonents
+2/consortium/consorcium
+2/conspicuous/conspicious
+2/conspicuously/conspiciously
+2/conspiracy/conspiricy
+2/constraints/constaints
+2/constantly/constanly
+2/nagging/constant nagging
+2/constant/constatn
+2/constituent/constituant
+2/constituents/constituants
+2/construction site/construction sight
+2/construction/constuction
+2/consulate/consulat
+2/consultant/consultent
+2/consummate/consumate
+2/consummated/consumated
+2/contagion/contagen
+2/contaminate/contaiminate
+2/contemporaries/contamporaries
+4/contemporary/contamporary/contempory/contemprary
+2/contemporaneous/contemporaneus
+4/counterfeit/conterfeit/counterfiet/counterfit
+2/continuous/continous
+2/continuously/continously
+2/continually/continualy
+3/continuing/continueing/continuing on
+2/continuum/continuem
+2/contractor/contracter
+4/controversial/contravercial/contraversial/controvercial
+4/controversy/contraversy/controvercy/controvery
+2/contributor/contributer
+2/contributors/contributers
+2/controlled/controled
+2/controlling/controling
+2/control/controll
+2/controls/controlls
+2/controversies/controveries
+5/convenient/conveinent/convienent/convienient/convinient
+2/covenant/convenant
+2/convince/convense
+3/conventional/convential/convetional
+2/convertible/convertable
+2/conversion/convertion
+2/converters/convertors
+5/conveniently/convienently/convieniently/conviently/conviniently
+3/conversation/convo/oral conversation
+2/cognac/conyak
+2/coup/coo
+2/cougar/cooger
+2/cuckoo/cookoo
+3/culottes/coolot/koolot
+2/conservation/coonservation
+4/cooperate/cooparate/cooperate together/cooporate
+2/coordinate/coordanate
+2/coordination/coordiantion
+2/chorale/corale
+2/corduroy/cordoroy
+2/corrugated/coregated
+5/correspondent/corespondant/corespondent/correspondant/corrispondant
+5/correspondents/corespondants/corespondents/correspondants/corrispondants
+2/corrosion/corosion
+3/corporate/corparate/corperate
+4/corporation/corparation/corperation/corproation
+2/corporations/corproations
+2/correlate/correllate
+2/choreograph/correograph
+4/corresponding/correponding/correposding/corrisponding
+2/correspond/corrispond
+2/corresponded/corrisponded
+2/corresponds/corrisponds
+2/corruptible/corruptable
+3/course/corse/cource
+2/kosher/cosher
+2/cosmopolitan/cosmipolitian
+2/cotton/cotten
+5/could/coud/coudl/my question is could/the question is could
+2/caught/cought
+2/could not care less/could care less
+2/could have been/could of been
+2/could have had/could of had
+3/could not/couldn't/couldnt
+2/could not have/couldn't 've
+2/could the/couldthe
+3/counseling/counceling/councelling
+2/counterfeits/counterfiets
+2/countermeasure/countermessure
+2/countermeasures/countermessures
+2/curtain/courtain
+2/couture/couture fashion
+2/convenience/covenience
+2/copy/cpoy
+2/curmudgeon/cramugin
+2/cretaceous/cratashous
+2/created/creaeted
+2/creosote/creasoat
+2/creator/creater
+2/Christian/cristian
+2/critique/criteak
+2/criterion/critereon
+2/critics/criticists
+2/criticism/critisism
+2/criticisms/critisisms
+2/criticize/critisize
+2/crotch/croch
+2/crocodile/crockadile
+2/chronological/cronological
+2/croquet/crowkay
+2/crochet/crowshay
+2/crucifixion/crucifiction
+2/crunchy/cruncy
+3/cruise/cruse/cruze
+2/cruiser/cruser
+2/cruises/crusies
+3/cause/cuase/root cause
+2/cupboard/cubburd
+2/culminating/culiminating
+2/compass/cumpus
+2/cumulative/cumulatative
+2/couple/cuple
+2/coupon/cupon
+2/courage/curage
+2/church/curch
+3/curiosity/curiocity/curiousity
+2/colonel/curnel
+2/currently/currenly
+4/current/current flowing/current passing/flow of current
+4/incumbent/current incumbent/incumbant/present incumbent
+2/courtesy/curtesy
+2/courteous/curteus
+2/curvaceous/curvasious
+2/cushion/cushin
+3/cuisine/cusine/kwuzine
+3/customer/cusotmer/cutsomer
+3/customers/cusotmers/cutsomers
+2/costumes/customes
+2/cut/cutted
+2/debris/dabree
+3/debut/dabue/daybue
+2/daiquiri/dackery
+2/dial/dail
+2/dalmatian/dalmation
+3/demeanor/damenor/demenor
+3/damn it/dammit/damnit
+2/dancing/danceing
+2/Dardanelles/Dardenelles
+2/dare not/daren't
+2/correct/darn tootin
+3/daughters-in-law/daughter in law/daughters in law
+7/document/dcument/doccument/docuement/docuemnt/documetn/documnet
+2/corpse/dead corpse
+2/dealt/dealed
+2/details/deatils
+2/debatable/debateable
+4/December/Dec/Dec./Desember
+2/decathlon/decathalon
+3/descend/decend/descend down
+4/descendant/decendant/decendent/descendent
+4/descendants/decendants/decendents/descendents
+2/descended/decended
+2/descending/decending
+2/descends/decends
+2/decidable/decideable
+2/decidedly/decidely
+2/deceive/decieve
+2/deceived/decieved
+2/disciple/deciple
+8/decision/decison/decission/definite decision/descision/desicion/desision/dicision
+5/decisions/decisons/descisions/desicions/desisions
+2/decompose/decomposit
+2/decomposed/decomposited
+2/decomposing/decompositing
+2/decomposes/decomposits
+2/decor/decour
+4/describe/decribe/discribe/talk to me about
+3/described/decribed/discribed
+3/describes/decribes/discribes
+3/describing/decribing/discribing
+2/deep-seated/deep-seeded
+2/depot/deepo
+2/deficit/defecit
+2/defensive/defencive
+2/defendant/defendent
+3/define/deffine/defince
+2/defined/deffined
+5/definite/deffinite/definate/definete/definit
+2/defiance/definance
+2/definable/defineable
+2/deficient/defishant
+2/degradation/degredation
+2/degrees/degress
+3/dilapidated/delapidated/dilipidated
+2/declared/delcared
+3/delicious/delicios/delicius
+2/delineation/delienation
+2/delimiter/delimeter
+2/dilemma/delimma
+2/deluxe/delux
+2/demarcation/demarkation
+2/diminish/deminish
+2/demographic/demographical
+2/denigrating/denegrating
+2/densely/densly
+4/department/deparment/departement/deptartment
+3/departments/deparments/departements
+2/dependency/dependancy
+2/dependent/dependant
+2/deposit/deposite
+2/dirigible/derageable
+2/derriere/deriair
+4/derived/derivated/deriviated/dirived
+2/derivative/deriviative
+2/derogatory/derogitory
+2/derogative/derrogative
+2/dearth/derth
+3/disguise/descize/deskys
+2/discuss/descuss
+3/design/desgin/disign
+2/designate/desginate
+3/designed/desgined/dessigned
+2/decide/deside
+2/decided/desided
+2/disintegrated/desintegrated
+2/disintegration/desintegration
+2/desirable/desireable
+2/dissolve/desolve
+2/desperate/desparate
+3/desperation/desparation/despiration
+3/desiccated/dessicated/dissecated
+2/desiccation/dessication
+3/destination/destintation/destionation
+2/destinations/destionations
+2/destroying/destorying
+2/destroy/destoy
+2/destroyed/destoyed
+2/detailed/detailled
+2/detach/detatch
+2/detached/detatched
+2/detachment/detatchment
+2/determining/determinining
+2/detrimental/detremental
+2/detour/detur
+2/deterrence/deturance
+2/Germany/Deutschland
+4/devastating/devasting/devestating/devistating
+4/developers/develeoprs/devellopers/developors
+4/develop/devellop/devellops/develope
+3/developed/develloped/developped
+3/developer/develloper/developor
+2/developing/develloping
+6/development/devellopment/developement/developemet/develpment/devolopement
+3/developments/devellopments/developements
+2/divide/devide
+2/divided/devided
+4/division/devision/divison/divsion
+2/devastate/devistate
+2/devastated/devistated
+2/devastation/devistation
+2/dessert/dezert
+2/dyad/diad
+2/dyadic/diadic
+2/diagonal/diagnol
+2/dilate/dialate
+2/dilated/dialated
+2/dilation/dialation
+2/opposed/diametrically opposed
+3/display/diaplay/dispaly
+3/diarrhea/diarea/dioreha
+2/disaster/diaster
+3/discipline/dicipline/disapline
+2/dichotomy/dicotomy
+2/discover/dicover
+3/discovered/dicovered/discoverd
+2/discovering/dicovering
+2/discovers/dicovers
+3/discovery/dicovery/new discovery
+6/did not/did'nt/diden't/didn't/didnot/didnt
+2/dying/dieing
+2/diesel/diesal
+2/deities/dieties
+2/deity/diety
+11/different/difefrent/diferent/difernt/diferrent/differant/differemt/differnt/diffrent/difrent/not the same
+3/differences/diferences/differances
+3/difference/differance/diffrence
+2/different tack/different tact
+3/variation/different variation/veriasion
+2/difficulties/dificulties
+2/difficulty/dificulty
+2/dug/digged
+2/diamond/dimand
+3/dimensions/dimenions/dimentions
+2/dimension/dimention
+2/dimensional/dimentional
+3/diminution/diminuation/diminuition
+3/diminutive/diminuative/diminuitive
+3/diphthong/diphtong/dipthong
+3/diphthongs/diphtongs/dipthongs
+2/diphtheria/diptheria
+2/director/directer
+2/directors/directers
+3/direction/directiosn/directoin
+3/directly/directlty/driectly
+2/directions/directoins
+2/dissipate/disapait
+4/disappear/disapear/dissapear/dissappear
+4/disappoint/disapoint/dissapoint/dissappoint
+4/disappointed/disapointed/dissapointed/dissappointed
+2/disapproval/disaproval
+2/disastrous/disasterous
+2/dissatisfaction/disatisfaction
+2/dissatisfied/disatisfied
+2/disc brakes/disc breaks
+3/dissemination/discimenation/disemination
+2/description/discription
+2/distinction/disctinction
+2/distinctive/disctinctive
+2/disgusting/discusting
+2/dissection/disection
+2/disenchanted/disenchanged
+2/dissertation/disertation
+4/disobedience/disobediance/dissobediance/dissobedience
+4/disobedient/disobediant/dissobediant/dissobedient
+2/dissolved/disolved
+2/disoriented/disorientated
+2/despair/dispair
+2/disparagingly/disparingly
+2/dispense/dispence
+2/dispensed/dispenced
+2/dispensing/dispencing
+2/despicable/dispicable
+2/despite/dispite
+2/disposable/disposible
+2/disagreement/dissagreement
+2/disappearance/dissapearance
+2/disappeared/dissapeared
+3/disappearing/dissapearing/dissepearing
+3/disappears/dissapears/dissappears
+2/disappointing/dissapointing
+3/disappointment/dissapointment/dissappointment
+2/disarray/dissarray
+2/dissonant/dissonent
+2/distinguish/distingish
+3/distinguished/distingished/distingushed
+2/distinguishes/distingishes
+2/distinguishing/distingishing
+2/distribution/distribusion
+3/destruction/distruction/total destruction
+2/destructive/distructive
+2/device/divice
+2/divisions/divisons
+2/DMZ/DMZ zone
+2/are not you/do not you feel you
+3/did not you do/do not you feel you did/do not you think you did
+3/did not you have/do not you feel you had/do not you think you had
+3/will not you/do not you feel you might/do not you think you might
+7/should not you/do not you feel you must/do not you feel you ought to/do not you feel you should/do not you think you must/do not you think you ought to/do not you think you should
+3/do not you/do not you think you/dontcha
+4/are you/do you feel you/do you feel you are/do you think you are
+3/can you/do you feel you can/do you think you can
+3/did you do/do you feel you did/do you think you did
+3/did you have/do you feel you had/do you think you had
+2/documented/doccumented
+4/documents/doccuments/docuements/documnets
+3/dachshund/dockson/docsund
+2/doctorate/doctorate degree
+3/does/doens/doese
+2/do they/does they
+2/vicious world/dog-eat-dog world
+6/doing/doign/doimg/doin/doind/donig
+2/dollar/dolar
+3/dollars/dolars/dollers
+2/dominant player/dominate player
+2/dominant role/dominate role
+3/dominant/dominent/dominiant
+2/dungeon/donejun
+2/dude/dood
+2/door jamb/door jam
+2/doorjamb/doorjam
+2/dolphinarium/dophinarium
+2/dormant/dorment
+2/DOS/DOS operating system
+2/doubly/doublely
+2/doubtful/doubtfull
+2/doubt/dout
+2/descent/downward descent
+2/dozen/dozend
+2/dramatic/dramtic
+2/draughtsman/draughtman
+2/Dravidian/Dravadian
+2/dreams/dreasm
+2/drank/drinked
+2/driving/driveing
+2/drink/drnik
+2/dropping/droping
+2/drought/drowt
+2/druggist/drugist
+2/druggists/drugists
+2/drummer/drumer
+2/drumming/druming
+2/double/duble
+2/dukedom/dukeship
+2/dumb/dum
+2/do not know/dunno
+3/during/durring/over the duration of
+2/dryas/dyas
+2/each/each and every
+2/each has its/each has their
+2/each other/eachother
+2/eerie/eary
+4/easily/easeily/easly/easyly
+2/easier than/easier then
+3/eclectic/ecclectic/ecletic
+2/deciduous/ecidious
+2/eclipse/eclispe
+2/etc/ect
+2/executive/eczecutive
+3/etiquette/edeycat/ettiquette
+2/edifice/edfice
+2/editing/editting
+3/education/educatin/eduction
+2/eager/eeger
+2/aegis/eejus
+2/eked/eeked
+2/ekes/eeks
+2/feel/efel
+3/efficiency/effeciency/efficency
+3/efficient/effecient/efficent
+3/efficiently/effeciently/efficently
+2/effluence/effulence
+2/effort/efort
+2/efforts/eforts
+2/egg yolk/egg yoke
+2/her/ehr
+2/8-letter/eight-letter
+2/eighth/eigth
+4/Ekamai/Ekammai/Ekkamai/Ekkammai
+2/elegant/elagant
+3/elementary/elamentry/elimentary
+2/electoral/electorial
+2/electrical/electrial
+2/electric current/electrical current
+2/electrically/electricly
+2/electricity/electricty
+2/elegance/elegence
+2/eliminated/eleminated
+3/eliminating/eleminating/entirely eliminating
+2/eels/eles
+2/elicited/elicided
+2/eligibility/eligability
+2/eligible/eligable
+2/eliminate/eliminate altogether
+2/elephant/elphant
+6/tell/elucidate for/explain to/say to/shout at/thell
+2/alluded to/eluded to
+3/imbalance/embalance/inbalance
+10/embarrass/embaras/embarass/embaress/embarras/embbaras/embbarass/embbarras/embbarrass/imbaress
+8/embarrassed/embarased/embarassed/embarrased/embbarased/embbarassed/embbarrased/embbarrassed
+8/embarrassing/embarasing/embarassing/embarrasing/embbarasing/embbarassing/embbarrasing/embbarrassing
+8/embarrassment/embarasment/embarassment/embarrasment/embbarasment/embbarassment/embbarrasment/embbarrassment
+2/embedded/embeded
+2/embezzled/embezelled
+3/immense/emense/imense
+2/emanate/eminate
+4/emission/emision/emmision/emmission
+4/emitted/emited/emmited/emmitted
+4/emitting/emiting/emmiting/emmitting
+10/immediately/emmediately/imediately/imediatly/immediatelly/immediatley/immediatly/immedietely/immidately/immidiately
+2/emigrated/emmigrated
+2/emigration/emmigration
+3/eminently/emminently/immenantly
+3/emissaries/emmisaries/emmisarries
+3/emissary/emmisarry/emmisary
+2/enmity/emnity
+2/emphasis/empahsis
+2/emphasize/empahsize
+2/impasse/empass
+2/impede/empede
+2/empirical/emperical
+2/emphysema/emphysyma
+2/jobs/employment opportunities
+2/impound/empound
+2/impoundment/empoundment
+2/impressed/empressed
+2/hole/empty hole
+2/en masse/en mass
+2/enamored/enamoured
+2/enhancement/enchancement
+2/enclosed/enclosed herewith
+2/encompass/encompus
+4/incorporate/encorperate/encorporate/incorperate
+2/encryption/encryptiion
+4/endeavor/endever/indever/try hard
+2/endoliths/endolithes
+3/endure/endur/indure
+2/need/ened
+2/enforcement/enforcment
+3/engineer/engeneer/engieneer
+2/engineering/engeneering
+2/engineers/engieneers
+2/enemies/enimies
+2/enlargement/enlargment
+2/enlargements/enlargments
+3/enormous/enormass/enourmous
+2/enormously/enourmously
+2/en route/enroute
+2/intent/entent
+4/entrance/enterance/enterence/entrace
+3/entrances/enterences/entraces
+2/enthusiastic/enthuseastic
+2/enthusiast/enthusiest
+2/enthusiasts/enthusiests
+2/entrepreneurial/entrepeneurial
+2/entrepreneurs/entrepeneurs
+4/environment/enviorment/enviornment/enviroment
+4/environmental/enviormental/enviornmental/enviromental
+4/environmentally/enviormentally/enviornmentally/enviromentally
+4/environments/enviorments/enviornments/enviroments
+3/environmentalist/enviornmentalist/enviromentalist
+2/invoke/envoke
+2/next/enxt
+4/equipped/eqiped/eqipped/equiped
+12/equivalent/eqivalant/eqivalent/eqivelant/eqivelent/eqivilant/eqivilent/equivalant/equivelant/equivelent/equivilant/equivilent
+12/equivalents/eqivalants/eqivalents/eqivelants/eqivelents/eqivilants/eqivilents/equivalants/equivelants/equivelents/equivilants/equivilents
+3/equilibrium/equilibium/equilibrum
+2/equipment/equippment
+2/equatorial/equitorial
+2/erratic/eratic
+2/erratically/eraticly
+2/erosion/errosion
+3/ecstasy/esctasy/exstacy
+3/essence/esence/essense
+5/essential/esential/essencial/essentual/essesital
+2/else/esle
+2/especially for/esp for
+2/especially in/esp in
+7/especially/especally/especialy/especialyl/espescially/espesially/expecially
+5/necessity/essential necessity/neccesity/neccessity/necesity
+2/established/estalbished
+2/estuary/estuwarry
+2/and others/et al
+2/euphemism/euphamism
+4/European/Europian/Eurpean/Eurpoean
+2/Europeans/Europians
+2/eventful/eventfull
+2/everybody is/everybody 's
+2/everything/everythign
+2/everything is/everything 's
+3/eavesdrop/evesdrop/ezdrop
+2/every/eveyr
+2/evidently/evidentally
+2/replica/exact replica
+3/same/exact same/smae
+5/the same/exactly the same/one and the same/one in the same/thesame
+3/exaggerate/exagerate/exagerrate
+3/exaggerated/exagerated/exagerrated
+3/exaggerates/exagerates/exagerrates
+3/exaggerating/exagerating/exagerrating
+2/examine/examin
+2/exempt/exampt
+2/exasperated/exasparated
+2/escape/excape
+2/execute/excecute
+2/executed/excecuted
+2/executes/excecutes
+2/executing/excecuting
+2/execution/excecution
+2/exceeded/excedded
+5/excellent/excelent/excellant/exelent/exellent
+2/excel/excell
+2/excels/excells
+2/exercise/excercise
+2/exercised/excercised
+2/exercises/excercises
+2/exercising/excercising
+4/exchange/exchagne/exchhange/exhcange
+3/exchanges/exchagnes/exhcanges
+2/excitement/excitment
+3/example/exemple/exmaple
+2/exceptional/exeptional
+2/exacerbate/exerbate
+2/exacerbated/exerbated
+3/excerpt/exerpt/exurpt
+2/excerpts/exerpts
+3/external/exerternal/extenal
+2/exalted/exhalted
+3/exhibition/exhibiton/exibition
+3/exhibitions/exhibitons/exibitions
+3/exhilarate/exhilerate/exilerate
+2/exhibit/exibit
+2/exhibits/exibits
+2/existing/exisiting
+4/existence/existance/exsistance/exsistence
+2/existent/existant
+2/exoskeleton/exoskelaton
+3/explain/expalin/spell out
+2/expatriate/expatriot
+2/expelled/expeled
+2/expel/expell
+2/expels/expells
+2/expensive/expencive
+6/experience/experiance/experienc/experince/exprience/past experience
+4/experienced/experianced/experinced/exprienced
+2/expect/expext
+3/explanation/explaination/explination
+2/explanations/explainations
+2/exploit/exploitate
+2/exploitative/exploititive
+2/exquisite/exquisit
+2/exist/exsist
+2/invite/extend an invitation
+2/extension/extention
+2/exerted/extered
+2/extraterrestrial/extraterrestial
+2/extraterrestrials/extraterrestials
+2/extravagant/extravagent
+3/extreme/extream/extreame
+3/hazard/extreme hazard/hazerd
+2/extremophile/extremeophile
+3/extraordinary/extrodinary/extrordinary
+2/extraordinarily/extrordinarily
+2/eyebrow/eye brow
+2/eyelash/eye lash
+2/eyelid/eye lid
+2/eyesight/eye sight
+2/eyesore/eye sore
+2/eyes/eyse
+2/yet/eyt
+4/facilities/facilaties/facilites/facilties
+2/facility/facilaty
+2/facilitate/faciliate
+2/facilitated/faciliated
+2/fascinated/facinated
+2/fascination/facination
+2/feature/faeture
+2/fared badly/faired badly
+2/fared better/faired better
+2/fared poorly/faired poorly
+2/fared well/faired well
+2/fared worse/faired worse
+3/pharaoh/fairoh/pharoh
+2/farewell/fairwell
+4/phallic/falic/fallic/phalic
+2/fault/falt
+5/familiar/familair/familar/familliar/fammiliar
+3/famous/famoust/faymus
+2/feign/fane
+2/Fahrenheit/farenheit
+3/pharmaceutical/farmasudical/pharmasudical
+2/farce/farse
+2/farther than/farther then
+3/facade/fascade/fasodd
+2/facades/fascades
+3/facetious/fascitious/faseeshus
+2/fasten/fasen
+2/fastened/fasend
+2/fascism/fashism
+2/fashion/fashon
+2/fascinate/fassinate
+2/faster than/faster then
+2/father-in-law/father in law
+2/fathers-in-law/fathers in law
+2/fatigue/fatig
+4/fought/faught/fighted/fougth
+7/favorite/fav/fave/favorirte/favorit/favortie/favourite
+2/approval/favorable approval
+2/favor/favour
+2/favors/favours
+2/feasibility/feasability
+2/feasible/feasable
+2/birds/feathered friends
+6/February/Feb/Feb./Febewary/Febrary/Febuary
+2/field/feild
+2/fields/feilds
+2/fiancee/feonsay
+2/pheromone/feromone
+2/fertile/fertil
+3/fettuccini/fettucini/fetuccini
+3/feud/fewd/fued
+3/fuchsia/fewsha/fusha
+2/pheasant/fezent
+2/for fucks sake/ffs
+4/finally/fianlly/finaly/finalyl
+2/fairy/fiary
+2/vibrant/fibrant
+2/fix/ficks
+3/fictitious/ficticious/fictious
+2/find/fidn
+2/figure/figuer
+2/figures/figuers
+2/figurehead/figure head
+3/filament/filiament/fillement
+2/filmmaker/filmaker
+2/filmmaking/filmaking
+2/phyllo/filo
+2/completion/final completion
+2/end/final end
+2/showdown/final showdown
+2/financially/financialy
+3/finesse/finess/finness
+2/finely/finly
+5/friends/firends/freinds/frends/frinds
+2/fiery/firey
+2/conceived/first conceived
+3/first/firts/frist
+2/fistful/fistfull
+2/fistfuls/fistfulls
+2/5-letter/five-letter
+2/physique/fizeek
+2/Florida/fla.
+2/flagship/flag ship
+2/flat/flat as a pancake
+2/flavor/flavour
+2/flavors/flavours
+3/phlegm/flem/phlem
+2/Flemish/Flemmish
+2/flexible/flexable
+2/flotation/floatation
+4/fluorescent/florescent/floresent/flourescent
+3/fluoride/floride/flouride
+2/fluorine/flourine
+2/flood/flud
+2/flourish/fluorish
+2/focus/focuse
+2/focuses/focusses
+2/foliage/foilage
+2/below/following below
+2/follow/follwo
+2/following/follwoing
+2/phonetic/fonetic
+2/fountain/fontain
+2/for a long time/for along time
+3/for a while/for awhile/for quite awhile
+2/for/for the purpose of
+2/for a/fora
+2/forbade/forbad
+3/verbatim/forbatum/verbatum
+2/foreboding/forboding
+4/forecast/forcast/forcasted/forecasted
+2/forecasts/forcasts
+2/forcibly/forceably
+2/compulsion/forced compulsion
+2/foreclosure/forclosure
+2/forbid/forebid
+4/forfeit/forefiet/forfiet/forfit
+3/forfeiture/forefieture/forfieture
+2/imports/foreign imports
+2/forehead/forhead
+3/foreign/foriegn/forin
+2/foreigner/foriegner
+2/Fomalhaut/Formalhaut
+2/formalize/formallize
+2/formalized/formallized
+2/foreman/forman
+2/formerly/formely
+2/graduate/former graduate
+3/veteran/former veteran/vetran
+2/foremost/formost
+2/forest/forrest
+2/forests/forrests
+2/foresee/forsee
+2/foreseeability/forseeability
+2/foreseeable/forseeable
+2/foreseen/forseen
+2/foresight/forsight
+2/foretell/fortell
+2/fourth place/forth place
+2/for the/forthe
+2/fortress/fortrice
+2/fortunately/fortunatly
+2/forerunner/forunner
+3/forwards/forwrds/fowards
+2/found/foudn
+2/foundries/foundaries
+2/foundry/foundary
+2/Newfoundland/Foundland
+2/4-letter/four-letter
+2/forty/fourty
+2/frank exchange/frank and honest exchange
+2/candor/frank candor
+2/Franciscan/Fransiscan
+2/Franciscans/Fransiscans
+2/gift/free gift
+2/gratis/free gratis
+2/free rein/free reign
+5/friend/freind/frend/frind/personal friend
+4/friendly/freindly/frendly/frindly
+3/frequent/freqent/many frequent
+2/frequently/freqently
+2/friendliness/friendlyness
+2/frolic/frolick
+3/from the/fromt he/fromthe
+2/frontier/fronteir
+2/tundra/frozen tundra
+2/full complement of/full compliment of
+2/satisfaction/full satisfaction
+2/fulfill/fullfill
+2/funerary/funary
+2/fundamental/fundametal
+2/fungi/fungii
+3/funeral/funrel/furneral
+4/further/furhter/furuther/futher
+2/furniture/furnature
+2/futile/futal
+2/furthermore/futhermore
+3/few/fwe/not many
+2/for what it is worth/fwiw
+2/good day/g'day
+2/good night/g'night
+2/god/G-d
+3/gauge/gage/guage
+2/giant/gaint
+2/giants/gaints
+2/galactic/galatic
+2/Galatians/Galations
+2/gallery/galery
+2/Game Boy/Gameboy
+2/gangster/ganster
+8/guarantee/garantee/garentee/garuantee/gaurantee/gaurentee/guarentee/gurantee
+6/guaranteed/garanteed/gauranteed/gaurenteed/guarenteed/guranteed
+6/guarantees/garantees/gaurantees/gaurentees/guarentees/gurantees
+3/guard/gard/gaurd
+2/ghastly/gastly
+2/guarded/gaurded
+2/guardian/gaurdian
+2/gaiety/gayity
+2/geisha/gaysha
+2/get it/geddit
+3/guillotine/geeotine/gilotine
+2/general/gemeral
+2/genealogical/geneological
+2/genealogies/geneologies
+2/genealogy/geneology
+2/generally/generaly
+2/genitalia/genialia
+3/genuine/geniune/genuin
+2/gentlemen 's/gentlemens
+2/geographically/geografically
+2/geometers/geometricians
+3/great/gerat/graet
+3/guerrilla/gerilla/guerilla
+3/gherkin/gerkin/gurkin
+2/gherkins/gerkins
+2/get you/getcha
+3/getting/geting/gettin
+2/ghetto/getoe
+2/Gandhi/Ghandi
+2/Gibraltar/Gibralter
+2/given/gievn
+2/guilty/gilty
+2/guinea/ginee
+2/gingham/gingam
+2/gyrate/girate
+2/gyrated/girated
+2/gyrates/girates
+2/gyrating/girating
+2/gyration/giration
+3/geyser/giser/guyzer
+2/guitar/gitar
+2/counsel/give advice to
+2/bequeath/give and bequeath
+2/giving/giveing
+2/glacier/glaciar
+2/glaciers/glaciars
+2/gladiatorial/gladiatiorial
+2/glamorous/glamourous
+2/glass/glas
+2/glasses/glases
+2/global/gloabl
+2/glycerin/glyserin
+3/goddess/goddes/godess
+2/goddesses/godesses
+2/Godunov/Godounov
+4/going/goign/gonig/oging
+3/she had/she'd/she would
+3/he had/he'd/he would
+5/they had/they'd/the had/they would/theyd
+2/going to/gonna
+2/good riddance/good riddens
+4/success/good success/succes/sucess
+2/ghoul/gool
+3/grocery/gorcery/groshury
+2/gourd/gord
+2/gourmet/gormay
+2/gossip/gossipp
+2/gossiping/gossipping
+2/ghost/gost
+2/got run/got ran
+2/got set up/got setup
+2/got shut down/got shutdown
+2/got shut out/got shutout
+2/I understand/gotcha
+2/goatee/gotee
+2/Gothenburg/Gothenberg
+3/have to/gotta/hafta
+2/Gottlieb/Gottleib
+4/governor/gouvener/governer/govoner
+7/government/gov't/govenment/goverment/governement/governent/govorment
+3/governmental/govermental/govormental
+2/governments/goverments
+2/government composed of/government comprised of
+4/graffiti/graffitti/graffity/grafitti
+2/granary/grainery
+3/grammatically/gramatically/grammaticaly
+2/grammar/grammer
+3/total/grand total/sum total
+2/grandiose/grandeeos
+2/grandeur/granjure
+2/gratuitous/gratuitious
+2/grateful/greatful
+2/gratefully/greatfully
+2/Grecian/Greecian
+2/grief/greif
+2/grimy/grimey
+3/gruesome/groosome/groosum
+3/group/gropu/gruop
+2/groceries/groseries
+2/growth/groth
+2/growing/growing greater
+2/grotesque/growtesk
+2/groups/gruops
+2/grow/grwo
+2/Guatemala/Guatamala
+2/Guatemalan/Guatamalan
+2/gubernatorial/gubnatorial
+2/guerrillas/guerillas
+2/guest-starred/guest stared
+2/guidance/guidence
+2/guidelines/guidlines
+2/Giulia/Guilia
+2/Giuliani/Guiliani
+2/Giulio/Guilio
+3/Guinness/Guiness/Guinnes
+2/Giuseppe/Guiseppe
+2/guanine/gunanine
+3/guttural/guttaral/gutteral
+2/guava/gwava
+2/gymnast/gymnist
+4/sexy/h4wt/hawt/hott
+2/habeas/habaeus
+2/habeas corpus/habeus corpus
+3/inhabitants/habitants/inhabitents
+3/custom/habitual custom/usual custom
+2/Habsburg/Habsbourg
+2/hare/hace
+2/had arisen/had arose
+2/had become/had became
+2/had begun/had began
+2/had borne/had bore
+2/had broken/had broke
+2/had come/had came
+2/had chosen/had chose
+2/had come back/had comeback
+2/had done/had did
+2/had driven/had drove
+2/had fallen/had fell
+3/had forbidden/had forbad/had forbade
+2/had given/had gave
+2/had pled/had plead
+2/had run/had ran
+2/had rung/had rang
+2/had ridden/had rode
+2/had risen/had rose
+2/had seen/had saw
+2/had set up/had setup
+2/had shaken/had shook
+2/had thrown/had threw
+2/had taken/had took
+2/had undergone/had underwent
+2/had gone/had went
+2/had written/had wrote
+2/had been/hadbeen
+3/had not/hadn't/hadnt
+2/haggis/hagas
+2/haggle/haggel
+2/halfway/halfways
+3/hallelujah/hallaluja/hallaluya
+2/halted/haltet
+2/hand the reins/hand the reigns
+2/handful/handfull
+2/handfuls/handfulls
+3/manuscript/handwritten manuscript/manuscrip
+2/handiwork/handywork
+2/heinous/haneous
+2/handkerchief/hankerchif
+2/handsome/hansome
+4/happened/hapened/happend/happended
+2/happening/hapening
+2/happens/hapens
+5/harass/haras/harras/harrass/harrassing
+5/harassed/harased/harrased/harrassed/harrasses
+3/harasses/harases/harrases
+4/harassment/harasment/harrasment/harrassment
+4/harassments/harasments/harrasments/harrassments
+2/harbor/harbour
+2/harbors/harbours
+2/harassing/harrasing
+2/hearth/harth
+2/hearty/harty
+2/lacks/has no
+2/has run/has ran
+2/has been/hasbeen
+3/has not/hasn't/hasnt
+2/haughty/hauty
+2/have run/have ran
+2/have been/havebeen
+3/having/haveing/hvaing
+2/Hawaiian/Hawai'ian
+2/hazardous/hazerdous
+2/how about you/hbu
+2/had/hda
+3/he will/he'll/he will
+2/he is/he 's
+2/headquarter/headquater
+2/headquartered/headquatered
+2/headquarters/headquaters
+2/heard/heared
+2/hearing/hearign
+2/heifer/hefer
+2/Heidelberg/Heidelburg
+3/higher/heigher/higer
+7/height/heighth/heigth/heigtht/heitht/hieght/hight
+6/heighten/heigthen/heigthten/heithten/hieghten/highten
+6/heightened/heigthened/heigthtened/heithtened/hieghtened/highteneded
+5/heights/heigths/heigthts/heithts/hieghts
+5/hierarchy/heirarchy/hierachy/hierarcy/hirearcy
+2/hieroglyphics/heiroglyphics
+2/held the reins/held the reigns
+3/helpful/helpfull/heplful
+2/hemisphere/hemiphere
+5/hindrance/henderence/hinderance/hinderence/hindrence
+2/heptathlon/heptathalon
+2/heart/herat
+2/here is/here 's
+2/hero/heroe
+2/heroes/heros
+4/hirsute/hersuit/hersute/hirsuit
+2/he said/hesaid
+2/heavy/hevy
+2/he was/hewas
+2/hyena/hiena
+3/hierarchical/hierachical/hierarcical
+2/hierarchies/hierachies
+2/hieroglyph/hieroglph
+2/hieroglyphs/hieroglphs
+3/hiatus/hietus/hyatus
+2/highest/higest
+2/high-rise/highrise
+2/hippopotamus/hipopotamus
+2/himself/hismelf
+2/histocompatibility/histocompatability
+2/historically/historicaly
+3/history/histry/past history
+2/hitchhike/hitchike
+2/hitchhiker/hitchiker
+2/hitchhikers/hitchikers
+2/hitchhiking/hitchiking
+2/hit/hitted
+2/help/hlep
+2/hobbyist/hobbiest
+2/hoax/hoeks
+2/hold the reins/hold the reigns
+2/holds the reins/holds the reigns
+3/holistic/hollistic/wholistic
+2/holiday/holyday
+2/Hollywood/holywood
+2/homogenize/homogeneize
+2/homogenized/homogeneized
+2/homogeneity/homogenity
+2/honorable/honarable
+2/home in on/hone in on
+3/honorary/honory/honourary
+2/honorarium/honourarium
+2/honorific/honourific
+2/hooker/hoocker
+2/chutzpah/hootsbah
+2/horrible/horrable
+2/horrifying/horrifing
+2/household/hosehold
+2/water heater/hot water heater
+2/how did/how'd
+2/how are/how're
+4/how is/how 's/hows/how's
+4/how are you doing/how 's tricks/how ya doin'/how ya doing
+2/how have/how've
+3/how is it/how do you believe it is/how do you think it is
+3/how will it/how do you believe it will/how do you think it will
+5/however/how ever/howerver/howver/howwever
+2/has/hsa
+4/pineapple/pinneaple/pinapple/pinnaple
+2/pussie/pusse
+2/toilet/toilett
+2/fooled/foolded
+2/cheeseburger/cheezburger
+2/veganism/veganisim
+3/his/hsi/ihs
+9/the/hte/teh/tghe/th '/thge/tje/tjhe/tthe
+4/there/htere/theer/ther
+3/these/htese/theese
+2/personal/peronal
+7/think/htikn/htink/thikn/thimk/thiunk/tihkn
+3/propensity/prpensity/porpensity
+8/thing/hting/thign/thingamajig/thingie/thingy/thnig/whatsit
+5/this/htis/tghis/thsi/tihs
+2/A.L.I.C.E./A.L.I.C.E
+2/http/htp
+2/see you/c u
+2/tamagotchi/tamacoochi
+35/restaurant/restraurant/restarant/restaraunt/restarent/restaront/restauant/restauraunt/restaurent/restauront/restautant/resterant/resteraunt/resterent/resteront/restorant/restoraunt/restorent/restoront/restourant/restouraunt/restourent/restouront/restrant/restraunt/restrent/restront/restuarant/restuaraunt/restuarent/restuaront/resturant/resturaunt/resturent/resturont
+2/humor/humour
+2/labor/labour
+2/leet speak/leetspeek
+5/tomorrow/tmr/tommorow/tommorrow/tomorow
+2/humoral/humoural
+2/heuristic/huristic
+9/which/hwich/hwihc/whcih/whic/whihc/whitch/wich/wihch
+3/while/hwile/whilst
+3/whole/hwole/wohle
+2/hydraulics/hydrolics
+2/hydrophilic/hydropilic
+2/hydrophobe/hydropobe
+2/hydrophobic/hydropobic
+4/hygiene/hygeine/hygene/hygine
+4/hygienic/hygeinic/hygenic/hyginic
+4/hygienically/hygeinically/hygenically/hyginically
+4/hypocrisy/hypocracy/hypocrasy/hypocricy
+2/hypocrite/hypocrit
+2/hypocrites/hypocrits
+3/I had/i'd/I'd
+3/I would have/i'd 've/I'd 've
+3/I will/i'll/I'll
+4/I have/i've/I've/ive
+3/I think/i reckon/it 's my opinion that
+2/why does he/i wonder why he
+2/why does it/i wonder why it
+2/why does she/i wonder why she
+2/why does that/I wonder why that
+2/why do they/i wonder why they
+2/I see/ic
+2/icicle/icesickle
+2/iconoclastic/iconclastic
+3/idea/idae/idae idae
+2/ideas/idaes
+2/I do not care/idc
+2/ideologies/idealogies
+2/ideology/idealogy
+2/identical/identicial
+2/identify/identofy
+2/idiosyncrasy/ideosincracy
+2/idiosyncratic/ideosyncratic
+2/Ithaca/Ihaca
+3/in/iin/in the field of
+2/I know/ik
+3/illegal/ileagle/ilegle
+2/illegitimacy/illegimacy
+3/illegitimate/illegitmate/illigitament
+2/illustrate/illistrate
+2/illusion/illution
+2/illogical/ilogical
+2/illumination/ilumination
+2/imaginary/imagenary
+2/imagine/imagin
+2/immaturity/imaturity
+4/immediate/imediate/immediete/immidiate
+2/infamous/imfamus
+3/immigrant/imigrant/inmigrant
+3/immigrants/imigrants/inmigrants
+2/imminent/imminent at any moment
+2/imitate/immitate
+2/imitated/immitated
+2/imitating/immitating
+2/imitation/immitation
+2/imitator/immitator
+2/immortality/immortlity
+4/impeccable/immpecable/impecable/impeccible
+2/immunosuppressant/immunosupressant
+2/immutable/immuntable
+2/impedance/impedence
+2/empiric/imperic
+2/empirically/imperically
+2/impression/impession
+3/important/importent/importnat
+3/impossible/impossable/not possible
+2/impromptu/impromtu
+3/improvement/improvemnt/improvment
+2/improvisation/improvision
+2/impugn/impune
+2/is it not/in't
+2/in effect/in affect
+2/to/in an effort to
+3/in a while/in awhile/in quite awhile
+2/behind/in back of
+2/in parentheses/in parenthesis
+2/in principle/in principal
+2/instead of/in stead of
+2/intact/in tact
+3/without/in the absence of/with out
+2/in vain/in vein
+48/inaccessible/inaccesabel/inaccesabele/inaccesable/inaccesibel/inaccesibele/inaccesible/inaccessabel/inaccessabele/inaccessable/inaccessibel/inaccessibele/inacesabel/inacesabele/inacesable/inacesibel/inacesibele/inacesible/inacessabel/inacessabele/inacessable/inacessibel/inacessibele/inacessible/unaccesabel/unaccesabele/unaccesable/unaccesibel/unaccesibele/unaccesible/unaccessabel/unaccessabele/unaccessable/unaccessibel/unaccessibele/unaccessible/unacesabel/unacesabele/unacesable/unacesibel/unacesibele/unacesible/unacessabel/unacessabele/unacessable/unacessibel/unacessibele/unacessible
+2/inappropriate/inappropiate
+2/in as much/inasmuch
+2/inaugurates/inaugures
+2/imbalanced/inbalanced
+2/embankment/inbankment
+2/in case of/incase of
+2/incidentally/incidently
+4/include/includ/inlcude/inlude
+4/including/includeing/incuding/inlcuding
+4/incompatibilities/incompatabilities/incompatablities/incompatiblities
+4/incompatibility/incompatability/incompatablity/incompatiblity
+2/incompatible/incompatable
+2/incompetence/incompetance
+2/incompetent/incompetant
+2/incommunicative/incomunicative
+2/inconsistency/inconsistancy
+2/inconsistent/inconsistant
+2/incorporation/incorperation
+2/incorruptible/incorruptable
+2/encourage/incourage
+4/incredible/increadible/incredable/incrediable
+2/incredibly/incredably
+2/introduce/inctroduce
+2/introduced/inctroduced
+2/incumbency/incumbancy
+2/Incunabula/incunabla
+2/indicate/indecate
+3/indefinitely/indefinately/indefinitly
+5/independence/indenpendence/indepedence/independance/independece
+7/independent/indenpendent/indepedent/independant/independet/indipendent/indpendent
+5/independently/indepedantly/independantly/indipendently/indpendently
+2/indicative/indicitive
+2/indispensable/indispensible
+2/indisputable/indisputible
+2/indisputably/indisputibly
+4/individual/individual person/individule/personal individual
+2/patience/indulgent patience
+2/indulge/indulgue
+2/endurance/indurance
+2/industrial/indutrial
+3/inevitable/inevatible/inevitible
+2/inexhaustible/inexhaustable
+2/infantry/infanty
+2/infectious/infectuous
+2/inferred/infered
+2/inferable/inferrable
+2/infiltrate/infilitrate
+2/infiltrated/infilitrated
+2/infinite/infinit
+2/inflammation/inflamation
+2/influence/influance
+2/influential/influencial
+2/influenced/influented
+3/information/infomation/informatoin
+2/infrastructure/infrastucture
+2/in front/infront
+2/ignorance/ingorance
+2/ingredient/ingrediant
+3/ingredients/ingrediants/ingreediants
+3/inhabitant/inhabbitant/inhabitent
+2/inheritance/inheratance
+2/indian/Inidan
+4/initial/inital/intial/ititial
+2/initiation/initation
+2/includes/inlcudes
+2/inoculate/innoculate
+3/innocence/innosense/inocence
+2/inundate/innundate
+2/inundated/innundated
+2/inundation/innundation
+2/into/inot
+2/impeach/inpeach
+2/impolite/inpolite
+2/imprisonment/inprisonment
+2/inspiring/inpsiring
+2/inquirer/inquierer
+2/busybody/inquisitive busybody
+2/inseparable/inseperable
+2/inception/insepsion
+2/insistence/insistance
+2/insistent/insistant
+2/insisting/insiting
+2/institution/insitution
+2/institutions/insitutions
+3/instead/instade/insted
+2/installation/instalation
+2/installations/instalations
+2/installed/instaleld
+3/instantiation/instanciation/instanseation
+2/instance/instatance
+2/instinct/instict
+2/instructor/instuctor
+2/instructors/instuctors
+2/instrument/insturment
+2/ensue/insue
+3/insufficient/insufficent/not sufficient enough
+2/insufficiently/insufficently
+2/insurance/insurence
+5/international/int'l/intenational/internation/internationnal
+4/in the/int he/inteh/inthe
+2/intellectual/intelectual
+2/intelligible/inteligable
+3/intelligence/inteligance/inteligence
+2/intelligent/inteligent
+2/intelligentsia/intelligensia
+3/planning/intentional planning/pre planning
+2/interchangeable/interchangable
+2/interchangeably/interchangably
+2/interrelated/interelated
+2/interfere/interfear
+3/interference/interfearance/interferance
+2/interfering/interfearing
+2/integral/intergral
+2/integrate/intergrate
+2/integrated/intergrated
+2/integration/intergration
+3/interior/interiour/interor
+2/internationally/internationaly
+4/interpret/interpet/interpretate/inturprett
+5/interest/interrest/intrest/itnerest/particular interest
+2/interregnum/interrugum
+3/interim/interrum/interum
+2/interruptible/interruptable
+2/entertaining/intertaining
+3/interrupt/interupt/inturrupt
+2/interrupted/interupted
+2/interruption/interuption
+2/interval/intervall
+2/intervals/intervalls
+2/intersection/intesection
+2/intersections/intesections
+2/initially/intially
+2/into effect/into affect
+2/intrigue/intreeg
+3/interpretation/intrepetation/inturpratasion
+2/instruction/intruction
+2/intriguing/intruiging
+3/intuitive/intuative/intutive
+2/intuitively/intutively
+2/inventor/inventer
+2/invertebrates/invertibrates
+2/guests/invited guests
+2/invitation/invitiation
+2/invocation/invokation
+2/involvement/involvment
+2/in which/inwhich
+2/in other words/iow
+2/Ireland/Irelend
+2/irrelevant/irelevent
+4/irresistible/iresistable/iresistible/irresistable
+4/irresistibly/iresistably/iresistibly/irresistably
+2/irritable/iritable
+2/irritated/iritated
+2/in real life/irl
+2/ironically/ironicly
+2/comprises/is comprised of
+2/is led/is lead
+2/is run/is ran
+2/is renowned/is renown
+2/is set up/is setup
+2/is your/is ya
+4/Isaan/Isan/Issan/Esam
+2/ISDN/ISDN network
+2/aisle/isle
+2/isthmus/ismas
+2/israelis/Israelies
+4/let us/let's/let 's/lets
+2/is the/isthe
+6/probably/it is probable that/probabaly/probablly/probaly/propably
+3/itself/it self/itsself
+2/it was fun/it was a lark
+2/I could not understand it/it was Greek to me
+2/itinerant/itenerant
+10/itineraries/itinaries/itinarys/itinerarys/itineries/itineriries/itinerirys/itinerys/itiniraries/itinirarys
+5/itinerary/itinary/itineriry/itinery/itinirary
+2/interested/itnerested
+2/interests/itnerests
+2/I think you mean/itym
+9/with/iwth/whiht/whit/whith/wiht/withe/witht/wtih
+2/jagged/jagid
+2/jaguar/jagwar
+2/jalousie/jalusey
+6/never/jamais/ne'er/never ever/neverever/nver
+3/January/Jan/Jan.
+4/Japanese/japaneese/Japanes/japenese
+2/I do no know/je ne sais pas
+2/jeopardy/jeapardy
+2/jealous/jelous
+2/jealousy/jelusey
+2/jeopardize/jepordize
+5/jewelry/jewelery/jewellery/jewellry/jewlery
+2/jewel/jewl
+2/jeweler/jewler
+2/jibe with/jive with
+2/just kidding/jk
+2/job/job functions
+2/jodhpurs/jodpers
+2/Johannine/Johanine
+2/join/join together
+3/cooperation/joint cooperation/mutual cooperation
+2/jokes/jokles
+2/Joseph/Jospeh
+2/jostle/jossle
+4/journey/journie/journy/jurny
+2/journeys/journies
+3/just/jstu/jsut
+3/Judaism/Juadaism/Juadism
+3/junction/juction/juntion
+3/judgment/judgement/jugment
+2/judicial/judical
+2/judiciary/judisuary
+3/July/Jul/Jul.
+3/June/Jun/Jun.
+2/junior/junoir
+2/journal/jurnal
+2/ok/k
+2/khaki/kackie
+2/kaleidoscope/kalidescope
+2/quiche/keesh
+2/catsup/ketsup
+2/kiosk/keyosk
+2/kibbutz/kibutz
+2/killer whale/killerwhale
+2/killer whales/killerwhales
+2/kilometer/kilometre
+2/kilometers/kilometres
+2/kilohm/kiloohm
+2/kilohms/kiloohms
+2/kind of/kinda
+2/kindergarten/kindergarden
+2/kittens/kitties
+2/kitten/kitty
+2/OK/kk
+2/Ku Klux Klan/Klu Klux Klan
+2/knives/knifes
+2/nitpick/knitpick
+2/noxious/knockous
+3/knowledge/knowldge/knowlege
+2/experts/knowledgeable experts
+3/knowledgeable/knowlegable/knowlegeable
+3/known/knwon/konwn
+3/knows/knwos/konws
+2/creche/kresh
+2/chronicle/kronicle
+3/labeled/labelled/labled
+2/label/lable
+2/laborious/labourious
+2/laboratory/labratory
+2/labyrinth/labrynth
+2/lacquer/lacker
+2/lacklustre/lackluster
+2/laugh/laf
+2/language/laguage
+2/languages/laguages
+4/liaise/laise/liais/liase
+2/llama/lama
+2/lambaste/lambast
+3/lingerie/langerie/langerray
+2/landscape/lanscape
+2/landscapes/lanscapes
+2/large/large in size
+3/largest/larggest/largst
+2/larynx/larnyx
+3/lasagna/lasonya/lozonya
+3/last/last but not least/lsat
+4/testament/last will and testament/testement/testiment
+2/last year/lastyear
+2/lantern/latern
+2/lanterns/laterns
+2/laughingstock/laughing stock
+2/launch pad/launchpad
+2/larvae/lavae
+2/lawsuit/law suite
+3/lie low/lay low/layed low
+2/laid/layed
+2/lying around/laying around
+2/lying low/laying low
+2/lies low/lays low
+2/laser/lazer
+2/lasers/lazers
+2/LCD/LCD display
+2/led by/lead by
+2/leading role/leading roll
+2/lenient/leaneant
+2/learning/learnign
+2/LED/LED diode
+2/league/leeg
+2/legion/leegun
+3/leisure/leesure/liesure
+2/let go/leggo
+2/legionnaire/legionair
+5/legitimate/legitamate/ligitamate/ligitimate/perfectly legitimate
+2/leisurely/leisurly
+2/let me/lemme
+3/limousine/lemosine/limosine
+2/length/lenght
+2/leopard/lepard
+2/leprechaun/leprecan
+2/learn/leran
+2/learns/lerans
+2/lesbians/lesbian women
+3/less than/less that/less then
+4/lieutenant/leutenant/lewtenant/lieutenent
+2/levitate/levetate
+2/levitated/levetated
+2/levitates/levetates
+2/levitating/levetating
+2/level/levle
+2/lieu/lew
+2/leukemia/lewchemia
+2/luau/lewow
+2/lexicon/Lexion
+3/little/li'l/littel
+2/liaison/liason
+4/library/libary/librarry/librery
+2/libel/libell
+2/linguistic/libguistic
+2/linguistics/libguistics
+3/liquor/licker/liqour
+2/lying/lieing
+2/liked/liekd
+2/live/liev
+2/lightning/lightening
+2/lighter than/lighter then
+2/legitimacy/ligitamassy
+2/rapidly/like greased lightning
+3/likelihood/likelyhood/liklihood
+2/likely/likly
+2/limited/limitated
+2/liqueur/liqeur
+3/liquors/liqours/liquers
+2/licence/liscence
+3/license/liscense/lisense
+5/literature/litature/literture/litterature/liturature
+2/light/lite
+2/literally/literaly
+2/readers/literate readers
+2/baby/little baby
+2/living/liveing
+2/lively/livley
+2/liveliest/livliest
+2/located/loacted
+2/locomotive/locamotive
+5/love/loev/luv/lveo/lvoe
+2/loneliness/lonelyness
+2/litany/long litany
+2/longer/longer in length
+2/long-tail/longtail
+2/long-tailed/longtailed
+2/long-tails/longtails
+3/lonely/lonley/lonly
+2/looking/lookign
+2/lose to/loose to
+2/losing streak/loosing streak
+2/losing the/loosing the
+2/losing to/loosing to
+2/loosely/loosly
+2/Los Angeles/Los Angles
+2/Louisiana/Lousiana
+2/lovely/lovley
+3/lower than/lower that/lower then
+2/lucrative/lucatrative
+2/luggage/lugage
+2/luscious/lushis
+2/Libya/Lybia
+2/my ladies/m'ladies
+2/my lady/m'lady
+2/my lord/m'lord
+2/my lords/m'lords
+2/madam/ma'am
+2/macaque/macack
+2/moccasin/macason
+3/machete/machettie/mashetty
+2/mackerel/mackeral
+2/said/made a statement
+2/referred to/made reference to
+2/majestic/magestic
+2/magically/magicaly
+4/magnificent/magnficent/magnificant/magnificient
+2/magnolia/magolia
+2/maelstrom/mailstrum
+6/maintenance/maintainance/maintainence/maintance/maintenence/maintinance
+2/mentioned/maintioned
+2/majuscule/majiscule
+3/malice/malace/malless
+2/malign/maline
+2/Maltese/maltesian
+2/mammal/mamal
+2/mammalian/mamalian
+2/mammoth/mamuth
+2/managed/managged
+2/management/managment
+4/mayonnaise/manaise/manaze/mayonase
+3/maintain/manetain/mantain
+2/Manhattan/Manhatten
+2/mannequin/manikin
+2/maintained/mantained
+2/manually/manually by hand
+2/manufacture/manufature
+2/manufactured/manufatured
+2/manufacturing/manufaturing
+2/manuscripts/manuscrips
+2/maneuver/manuver
+2/March/Mar.
+2/spouse/marital spouse
+2/Marxist/Marixist
+2/majority/marjority
+2/marketing/marketting
+2/marquee/markey
+2/Moroccan/Maroccan
+4/marriage/marrage/marraige/marrige
+3/married/marryed/marryied
+2/marshmallow/marshmellow
+2/Marseille/Marsielle
+2/martyr/marter
+2/Mars/marz
+2/masochist/masakist
+2/messiah/masia
+2/massacre/masicer
+2/masquerade/maskeraid
+3/Massachusetts/Massachussets/Massachussetts
+2/mastectomy/massectomy
+2/masseur/massewer
+2/massive/massiv
+2/mass media/massmedia
+2/masseuse/massoose
+2/masturbation/masterbation
+2/matches/matchs
+2/mathematics/mathamatics
+3/mathematicians/matheticians/mathmaticians
+2/mathematician/mathmatician
+2/matinee/matinay
+3/mattress/matress/mattres
+3/mattresses/matresses/mattreses
+3/mausoleum/mausolem/mawsoleum
+2/may have been/may of been
+2/may have had/may of had
+2/may/may possibly
+2/may not/mayn't
+2/mayoral/mayorial
+2/me too/me 2
+2/meanwhile/mean while
+2/dialogue/meaningful dialogue
+2/merely/mearly
+2/mechanism/mechanisim
+2/medicine/medacine
+3/meadow/meddo/medow
+2/mediciny/mediciney
+2/mediocre/medioker
+2/meditation/meditaton
+6/Mediterranean/Mediteranean/Mediterranian/Mediterrannean/Meditteranean/Meditterranean
+2/meerkat/meerkrat
+2/megohm/megaohm
+2/megohms/megaohms
+3/millennium/melineum/milennium
+2/membranophone/membranaphone
+2/member/memeber
+3/memorabilia/memorabelia/memorobilia
+2/memoirs/memwars
+2/mention/mension
+4/thought/mental thought/thoguht/thougth
+2/menus/menues
+2/meringue/merang
+2/merchant/merchent
+2/merge/merge together
+2/message/mesage
+2/messages/mesages
+3/mosquito/meskeeto/misquito
+2/messenger/messanger
+2/measure/mesure
+2/measures/mesures
+2/metallic/metalic
+2/metallurgic/metalurgic
+2/metallurgical/metalurgical
+2/metallurgy/metalurgy
+2/metamorphosis/metamorphysis
+2/meter/metre
+2/meters/metres
+2/mesmerize/mezmorize
+4/Michigan/mich./Michagan/Michgian
+2/medieval/midevil
+2/mid-range/midrange
+2/midwives/midwifes
+2/might have/might've
+2/might have been/might of been
+2/might have had/might of had
+3/might not/mightn't/mightnt
+2/mileage/milage
+3/milieu/mileau/mileu
+2/malicious/milicous
+2/million/milion
+2/millions/milions
+2/millennia/millenia
+3/military/millitary/miltary
+3/miniature/minature/miniture
+2/minefields/minfields
+4/municipal/minicipal/municipial/municiple
+2/minuscule/miniscule
+2/ministry/ministery
+2/Minnesota/minn.
+2/mining/minning
+2/minute/minut
+2/minutes/minuts
+3/myriad/miriad/myraid
+2/miracle/miricle
+5/miscellaneous/miscelaneous/miscellanious/miscellanous/miselaneous
+6/mischievous/mischeivous/mischevious/mischevus/mischieveous/mischievious
+3/misdemeanor/misdameanor/misdemenor
+3/misdemeanors/misdameanors/misdemenors
+3/missile/misile/missle
+2/Missouri/Misouri
+2/misspell/mispell
+2/misspelled/mispelled
+2/misspelling/mispelling
+2/misspellings/mispellings
+2/mizzen/missen
+2/gaps/missing gaps
+4/Mississippi/Missisipi/Missisippi/Mississipi
+2/misleading/missleading
+2/mistletoe/missletow
+2/misunderstood/missunderstood
+2/mystique/misteak
+4/mysterious/misterious/misteryous/mysterous
+3/mystery/mistery/unsolved mystery
+2/mystic/mistic
+2/blend/mix together
+2/mixed/mixted
+2/model/modle
+2/moment/moent
+2/money/moeny
+2/me/moi
+2/monument/momument
+4/monastery/monastary/monastry/monestary
+2/monasteries/monestaries
+2/monitor/moniter
+2/monolithic/monolite
+2/Montserrat/Monserrat
+5/mountainous/montainous/mountaineous/mountainus/mountianous
+2/months/monthes
+2/monotypic/montypic
+4/more than/more'n/more that/more then
+2/easier/more easier
+2/better/more optimal
+2/more so/moreso
+2/mortgage/morgage
+2/morgue/morge
+3/Morissette/Morisette/Morrisette
+2/mosaic/mosiac
+2/mosaics/mosiacs
+2/mosquitoes/mosquitos
+2/motif/moteef
+2/mother/motha
+2/mother-in-law/mother in law
+2/mothers-in-law/mothers in law
+2/motivated/motiviated
+2/mountaineering/mountainering
+3/mountain/mountian/moutain
+3/mountains/mountians/moutains
+2/mouthful/mouthfull
+2/mouthfuls/mouthfulls
+2/movie/movei
+2/Mr./Mr
+3/more/mroe/omre
+2/Mrs./Mrs
+2/mucous/mucuous
+2/murder/muder
+2/murdering/mudering
+3/multi-storey/multistorey/multistory
+2/municipalities/muncipalities
+2/municipality/muncipality
+2/myrrh/murr
+3/museum/museaum/musuem
+3/museums/museaums/musuems
+2/muscle/mussil
+3/must have/must've/must of
+2/must have been/must of been
+2/must have had/must of had
+2/mustache/mustash
+3/must not/mustn't/mustnt
+2/confidence/mutual confidence
+5/should/my question is should/shoudl/sould/the question is should
+3/myself/mysef/mysefl
+2/misogynist/mysogynist
+2/misogyny/mysogyny
+2/maestro/mystrow
+2/Mithraic/Mythraic
+2/my/myu
+3/not/n't/nto
+2/Napoleon/Napolean
+2/Napoleonic/Napoleonian
+2/gnarled/narled
+2/nasturtium/nastershum
+2/NATO/NATO organization
+2/natural/naturual
+3/nauseous/nawseous/nawshus
+4/neighbor/naybor/neigbor/neighbour
+2/Nazareth/Nazereth
+34/necessarily/necasarilly/necasarily/necaserilly/necaserily/necassarilly/necassarily/necasserilly/necasserily/neccasarilly/neccasarily/neccaserilly/neccaserily/neccassarilly/neccassarily/neccasserilly/neccasserily/neccesarilly/neccesarily/necceserilly/necceserily/neccessarilly/neccessarily/neccesserilly/neccesserily/necesarilly/necesarily/neceserilly/neceserily/necessarally/necessarilly/necesserilly/necesserily/nessasarily
+19/necessary/necasary/necasery/necassary/necassery/neccasary/neccasery/neccassary/neccassery/neccesary/neccesery/neccessary/neccessery/neceesary/necesary/necesery/necessery/nessacary/nessecary
+4/necessities/neccesities/neccessities/necesities
+3/need not/needn't/neednt
+2/misfortune/negative misfortune
+2/negative/negitive
+2/negativity/negitivity
+3/negligible/neglible/negligable
+2/negotiate/negociate
+2/negotiated/negociated
+3/negotiating/negociating/negotiaing
+3/negotiation/negociation/negotation
+2/negotiable/negotable
+3/neighbors/neigbors/neighbours
+2/neighboring/neighbouring
+2/neighborhoods/neihborhoods
+2/neural/neral
+2/nirvana/nervana
+3/nostalgia/nestolgia/nostalgia for the past
+3/mnemonic/neumonic/pneumonic
+2/Nevada/nev.
+3/nevermind/nevemind/nvm
+2/innovations/new innovations
+2/neophyte/new neophyte
+3/recruit/new recruit/recroot
+2/nuance/newance
+2/newly/newely
+2/pneumatic/newmatic
+2/pneumonia/newmonia
+4/nuisance/newsans/nuisanse/nusance
+2/New Yorker/Newyorker
+2/next-door/next store
+2/nickel/nickle
+2/neither/niether
+2/naive/nieve
+2/naivete/nieveatay
+2/knife/nife
+2/nightclub/nighclub
+2/nightclubs/nighclubs
+2/nightspot/nighspot
+2/nightspots/nighspots
+2/nymph/nimph
+2/9-letter/nine-letter
+2/ninth/nineth
+2/ninthly/ninethly
+2/nineteen/ninteen
+2/nineteenth/ninteenth
+2/ninety/ninty
+2/niche/nitch
+2/night/nite
+2/name/nme
+2/nowhere to/no where to
+2/nobody is/nobody 's
+2/noisy/noisey
+2/gnome/nome
+2/nomenclature/nomenclature terms
+2/none/none at all
+2/illiterates/nonreading illiterates
+2/nonetheless/nontheless
+2/no one/noone
+2/northernmost/norhernmost
+2/everyday/normal everyday
+3/northern/northen/nothern
+2/northeastern/northereastern
+2/not at the moment/not atm
+2/too young/not old enough
+2/not sure/not sur
+2/notable/noteable
+2/notably/noteably
+2/notoriety/noteriety
+2/north/noth
+2/nothing is/nothing 's
+3/noticeable/noticable/noticible
+2/noticeably/noticably
+2/noticing/noticeing
+2/notorious/notoreous
+2/noteworthy/notworthy
+3/numerous/noumerous/numberous
+3/November/Nov/Nov.
+2/nouveau/noveau
+4/nowadays/now a days/now adays/nowdays
+2/none of your business/noyb
+2/no problem/np
+3/nuclear/nucular/nuculear
+3/neutral/nuetral/nutral
+2/neutrality/nuetrality
+2/void/null and void
+2/Nullarbor/Nullabour
+2/numbers/numers
+2/nuptial/nuptual
+2/Nuremberg/Nuremburg
+2/nourishment/nurishment
+2/nutritious/nutrieous
+2/nutrient/nutritent
+2/nutrients/nutritents
+2/nuts/nutz
+2/what about you/wbu
+3/new/nwe/recently new
+2/New York/ny
+2/New York City/nyc
+2/of/o'
+2/ovation/obation
+2/obedience/obediance
+2/obedient/obediant
+2/observation/obervation
+2/oblique/obleek
+2/obelisk/oblisk
+5/obsolescence/obsolecence/obsolecense/obsolesence/obsolesense
+3/obstacle/obstacal/obsticle
+2/obvious/obviuos
+2/a cappella/ocapella
+5/occasion/ocasion/ocassion/occassion/occation
+4/occasional/ocasional/ocassional/occassional
+9/occasionally/ocasionally/ocasionaly/ocassionally/occaisionally/occasionaly/occassionally/occassionaly/occationally
+4/occasioned/ocasioned/ocassioned/occassioned
+4/occasions/ocasions/ocassions/occassions
+6/occurrence/occurance/occurence/occurrance/ocurrance/ocurrence
+4/occurrences/occurances/occurences/occurrances
+3/occurred/occured/ocurred
+2/occurring/occuring
+4/occur/occurr/ocur/ocurr
+2/oceanarium/ocenarium
+2/oscillate/ocilate
+3/October/Oct/Oct.
+2/octagonal/octogonal
+2/octahedra/octohedra
+2/octahedral/octohedral
+2/octahedron/octohedron
+2/countries/ocuntries
+2/country/ocuntry
+2/odyssey/odessy
+2/odor/odoer
+2/odoriferous/odouriferous
+2/odorous/odourous
+2/operator/oeprator
+2/offering/ofering
+2/offerings/oferings
+3/often/offen/oftenly
+2/offered/offerd
+2/official/offical
+4/officially/offically/officaly/officialy
+2/offshoot/offshot
+2/of its/ofits
+3/of the/oft he/ofthe
+3/other/ohter/otehr
+2/Oklahoma/okla.
+2/adage/old adage
+2/customs/old customs
+2/senior citizens/old senior citizens
+2/olympic/olimpic
+2/homage/omage
+5/omelette/omelet/omelete/omlet/omlette
+4/omelettes/omeletes/omelets/omlettes
+3/omission/omision/ommision
+4/omitted/omited/ommited/ommitted
+4/omitting/omiting/ommiting/ommitting
+2/omniscience/omnishints
+2/omnivorous/omniverous
+2/omnivorously/omniverously
+2/ongoing/on going
+5/usually/on most occasions/usally/usualy/usualyl
+2/1-letter/one-letter
+2/one and done/one in done
+2/one of/oneof
+2/one point/onepoint
+2/one-way/oneway
+2/onomatopoeia/onomonopea
+3/on the/ont he/onthe
+2/only/onyl
+2/opaque/opayk
+3/opened/openend/oppened
+5/opportunity/opertunity/oportunity/oppertunity/oppotunity
+4/opinion/opinyon/oppinion/personal opinion
+2/opponent/oponent
+5/opposite/oposite/oppasite/opposate/opposit
+3/opposites/oposites/polar opposites
+2/opposition/oposition
+2/opening/oppening
+2/operate/opperate
+2/operation/opperation
+2/opposable/opposible
+2/opportunities/oppotunities
+2/oppression/opression
+2/oppressive/opressive
+2/choose/opt for
+2/chose/opted for
+3/ophthalmologist/opthalmologist/opthamologist
+2/ophthalmology/opthalmology
+2/optimism/optomism
+2/optimist/optomist
+2/optimistic/optomistic
+2/opulent/opulant
+2/orangutan/orangatang
+2/orchestrate/orcestrate
+2/ordinance/ordanance
+2/hors d'oeuvre/orderves
+2/oregano/oregeno
+2/organism/organim
+4/original/orginal/origional/origonal
+2/originated/orginated
+2/organization/orginization
+2/organise/orginize
+2/organized/orginized
+2/oracle/oricle
+2/oriental/orietal
+2/founder/original founder
+2/source/original source
+4/originally/originaly/originnally/orignally
+2/orchid/orkid
+2/orthogonal/orthagonal
+2/orthogonally/orthagonally
+2/oscilloscope/oscilliscope
+2/ostrich/ostridge
+2/other than/other then
+2/out/otu
+2/oeuvre/ouevre
+3/ought not/oughtn't/oughtnt
+2/out loud/outloud
+2/output/outputted
+2/overlooked/over looked
+2/overlooking/over looking
+2/overshadowed/overshaddowed
+2/over the/overthe
+2/overrun/overun
+2/overwhelm/overwelm
+2/overwhelming/overwelming
+4/work/owrk/wokr/wrok
+2/oxidant/oxident
+3/oxygen/oxigen/oxyen
+2/oxymoron/oximoron
+2/policeman/p'liceman
+2/P.M./P.M. in the evening
+3/paid/paide/payed
+2/pageant/pajent
+3/parliamentarian/paliamentarian/parlimentarian
+3/Palestinian/Palistian/Palistinian
+2/Palestinians/Palistinians
+2/palate/pallate
+2/palette/pallette
+2/player/palyer
+3/pamphlet/pamflet/pamplet
+2/panorama/panarama
+2/pantomime/pantomine
+2/paper/papaer
+2/Papanicolaou/Papanicalou
+3/paradigm/paradime/paradym
+8/parallel/paralel/paralell/parallell/parralel/parralell/parrallel/parrallell
+6/parallelly/paralelly/paralely/parallely/parrallelly/parrallely
+2/parallels/paralels
+2/paramilitary/paramilitarie
+2/piranha/parana
+2/paranoia/paranoya
+2/parenthesis/paranthesis
+3/paraphernalia/paraphanalia/paraphenalia
+2/park/parc
+2/parfait/parfay
+2/particular/parituclar
+2/parquet/parkay
+5/parliament/parlaiment/parlament/parliamint/parliment
+4/parliaments/parlaiments/parliamints/parliments
+2/parliamentary/parlimentary
+2/parakeets/parrakeets
+3/partially/parshally/partialy
+2/participant/particpant
+2/participated/particpated
+6/particularly/particularily/particulary/particullarly/particullary/paticularly
+2/part of/partof
+2/pasteurize/paschurize
+2/passenger/passanger
+2/passengers/passangers
+3/pastime/passtime/pasttime
+3/pastoral/pastorial/pastural
+2/patented/pattented
+2/pavilion/pavillion
+2/pavilions/pavillions
+2/payment/paymetn
+2/payments/paymetns
+2/picture/pciture
+2/peaceful/peacefull
+2/pinochle/peanuckle
+2/peace/pease
+2/peculiar/peculure
+2/pedestal/pedistal
+2/piedmont/peedmont
+2/pirouette/peerowet
+2/piece/peice
+2/pieces/peices
+2/pierce/peirce
+2/piercing/peircing
+2/peloton/peleton
+2/Peloponnesus/Peloponnes
+2/penitentiary/penatentury
+2/penalty/penatly
+2/penitence/penetence
+5/peninsula/peninnsula/penisula/penninsula/pennisula
+3/peninsular/penisular/penninsular
+3/Pennsylvania/Pennsilvania/Pensylvania
+2/peignoir/penwar
+2/poem/peom
+2/poems/peoms
+2/poetry/peotry
+3/per se/per say/persay
+2/percent of/percentof
+2/percent to/percentto
+3/perceived/percepted/percieved
+2/perceive/percieve
+2/assess/perform an assessment of
+3/performance/performace/performence
+4/preferred/perfurd/prefered/preffered
+7/perhaps/perhasp/perheaps/perhpas/perphas/peut-etre/prehaps
+2/peripatetic/peripathetic
+2/perjury/perjery
+2/pejorative/perjorative
+2/proliferate/perliferate
+5/permanent/permanant/permantent/permenant/perminent
+2/permissible/permissable
+2/prerogative/perogative
+2/period/peroid
+2/periods/peroids
+3/prepare/perpare/prepair
+2/perpendicular/perpindicular
+2/perennial/perrenial
+3/precede/perseed/preceed
+2/preserve/perserve
+4/perseverance/perserverance/perserverence/perseverence
+2/persevere/perservere
+2/perseverant/perseverent
+3/pursue/persew/persue
+2/persistence/persistance
+2/persistent/persistant
+2/obsession/persistent obsession
+2/friendship/personal friendship
+2/personally/personalyl
+4/personnel/personel/personell/personnell
+2/persona/personna
+2/pursuing/persuing
+2/pursuit/persuit
+2/participate/perticipate
+2/pertinent/pertinate
+2/perturbation/pertubation
+2/perturbations/pertubations
+2/purview/perview
+2/pessary/pessiary
+2/petition/petetion
+2/pewter/pewder
+2/Pharaoh/Pharoah
+3/phenomenal/phenomenonal/phenominal
+2/phenomenally/phenomenonly
+2/phenomenon/phenomonenon
+2/phenomena/phenonmena
+2/Phoenix/Pheonix
+2/Philadelphia/Philedelphia
+3/Philippines/Philipines/Phillippines
+2/philosopher/philisopher
+2/philosophical/philisophical
+3/philosophy/philisophy/philsophy
+3/Philippine/Phillipine/Phillippine
+2/Phoenician/Phonecian
+2/phonograph/phongraph
+2/photo/photoe
+2/photos/photoes
+2/physician/physision
+2/physicist/physisist
+2/pitch/pich
+3/pickled/pickeled/pikled
+2/picnic/picknick
+2/picayune/pickyune
+2/picnicking/picnicing
+2/picturesque/picturesk
+2/pigeon pilon pylon/pijun
+2/pilgrimage/pilgrimmage
+2/pilgrimages/pilgrimmages
+2/PIN/PIN number
+2/Pyrrhic/pirric
+2/pizzeria/pizeria
+2/pizza/pizza pie
+2/submerge/place under water
+2/plaque/plack
+2/plaid/plad
+2/plagiarism/plagerism
+2/planned/planed
+2/plaintiff/plantiff
+2/plateau/plattoe
+2/plague/playge
+2/plagiarize/playgerise
+2/playground/playgrand
+2/playgrounds/playgrands
+2/playoff berth/playoff birth
+3/playwright/playright/playwrite
+2/playwrights/playwrites
+2/RSVP/please RSVP
+4/pleasant/pleaseant/pleasent/plesant
+2/plebiscite/plebicite
+2/pleiotropy/pliotropy
+2/please/plz
+4/possession/pocession/posession/possesion
+3/poinsettia/poinsetta/pointseta
+2/poignant/poinyent
+2/poison/poisin
+2/venoms/poisonous venoms
+2/polite/poliet
+2/pollinator/polinator
+2/pollinators/polinators
+2/politicking/politicing
+2/pollinate/pollenate
+3/poultry/polltry/poltry
+2/popular/polular
+2/pollute/polute
+2/polluted/poluted
+2/pollutes/polutes
+2/polluting/poluting
+2/pollution/polution
+3/polysaccharide/polysaccaride/polysaccharid
+3/pomegranate/pomegranite/pommegranate
+2/poor/poore
+2/potpourri/poperee
+2/population/populaion
+2/popularity/popularaty
+4/problem/porblem/probelm/problen
+4/problems/porblems/probelms/problens
+2/peripheral/poriferal
+2/porcelain/porsalin
+2/portrayal/portrail
+3/Portuguese/Portugeese/Portugese
+2/provide/porvide
+3/possess/posess/posses
+2/possessed/posessed
+3/possesses/posesses/posseses
+3/possessing/posessing/possesing
+3/possessions/posessions/possesions
+6/position/posistion/possition/postion/postition/psoition
+2/postpone/pospone
+2/possible/possable
+3/possibly/possably/possibily
+2/possibility/possibilty
+2/Potsdam/Postdam
+2/postponed/postponed until later
+3/posthumous/postuminus/postumus
+2/potatoes/potates
+2/capable/potentially capable
+2/potentially/potentialy
+2/powerful/powerfull
+2/practical/practial
+4/practically/practially/practicaly/practicly
+4/practitioner/practicianer/practicioner/practioner
+3/practitioners/practicioners/practioners
+4/prairie/prairy/prarie/prayry
+2/practice/pratice
+2/pre-Columbian/pre-Colombian
+2/preamble/preample
+2/predecessor/precedessor
+2/preceded/preceeded
+2/preceding/preceeding
+2/precedes/preceeds
+2/precinct/precint
+2/precincts/precints
+2/precursor/precurser
+3/predominantly/predomiantly/predominately
+2/prefecture/prefacture
+2/preference/preferance
+2/preferring/prefering
+2/preferable/preferrable
+2/preferably/preferrably
+2/proficiency/preficiency
+3/proficient/preficient/profecient
+2/perform/preform
+2/pregnancies/pregancies
+2/pregnancy/pregancy
+2/pregnant/pregnent
+2/prejudice/prejudgudice
+2/premiered/premeired
+2/premillennial/premillenial
+2/premises/premisis
+2/permission/premission
+2/Premonstratensians/Premonasterians
+3/preparation/prepartion/preperation
+3/preparatory/prepatory/preperatory
+2/preparations/preperations
+3/presence/presance/presense
+2/Presbyterian/Presbaterian
+2/precious/preshus
+2/presidential/presidental
+3/prestigious/prestigeous/prestigous
+3/pristine/prestine/pristene
+2/presumably/presumibly
+2/prevalence/prevelance
+2/prevalent/prevelant
+2/prevention/preventation
+2/previously listed/previously listed above
+2/previous/previvous
+4/program/prgram/programme/programm
+2/programming/prgrmmng
+2/Priscilla/Pricilla
+4/principal/pricipal/principial/prinicipal
+2/principle/priciple
+2/primarily/primarly
+2/primitive/primative
+2/primitively/primatively
+2/primitives/primatives
+2/primeval/primevil
+2/primordial/primordal
+2/principal activity/principle activity
+2/principal source/principle source
+2/principal use/principle use
+2/principally/principly
+2/Princeton/Princton
+2/private/privat
+10/privilege/priveledge/privelege/privelidge/privelige/privilage/priviledge/privilidge/privilige/privledge
+5/privileges/priveledges/priveleges/priveliges/priviledges
+3/privileged/priveleged/priveliged
+2/probability/probalibity
+2/process/proccess
+2/processing/proccessing
+2/proceed/procede
+3/procedure/procedger/proceedure
+2/proceeding/proceding
+2/proceedings/procedings
+2/proclaimed/proclamed
+2/proclaiming/proclaming
+3/proclamation/proclimation/proclomation
+2/product/produc
+2/products/producs
+3/professor/profesor/proffesor
+2/profession/proffesion
+2/professional/proffesional
+2/prolific/profilic
+2/programmable/programable
+2/prohibition/prohabition
+2/prohibitive/prohibative
+2/prolix/prolicks
+2/prolegomena/prologomena
+2/prominence/prominance
+3/prominent/prominant/prominate
+2/prominently/prominantly
+2/promiscuous/promiscous
+2/promised land/promise land
+2/pronominal/pronomial
+2/pronunciation/pronounciation
+2/pronunciations/pronounciations
+2/prophecy/prophacy
+5/proprietary/propietary/propreitory/propriatery/proprietory
+2/propaganda/propoganda
+2/propagate/propogate
+2/propagated/propogated
+2/propagates/propogates
+2/propagating/propogating
+2/propagation/propogation
+2/propagator/propogator
+2/proportions/propotions
+2/proper/propper
+2/proprietor/proprieter
+2/proselytizing/proseletyzing
+2/protagonist/protaganist
+2/protagonists/protaganists
+2/protein/proteen
+3/protocol/protocal/protocall
+2/portrayed/protrayed
+2/protuberance/protruberance
+2/protuberances/protruberances
+2/provided/provded
+2/province/provice
+2/provincial/provinicial
+2/pruned/pruned out
+2/pseudonymous/pseudononymous
+5/pseudonym/pseudonyn/psydonym/sewdonim/soodonim
+2/pseudo/psuedo
+2/psychology/psycology
+3/psychic/psyhic/pyscic
+2/progress/ptogress
+2/Puccini/Pucini
+2/Puerto Rican/Puertorrican
+2/pumpkin/pumkin
+2/pundit/pundent
+2/purchase/purchace
+2/purchases/purchaces
+2/purchasing/purchacing
+2/purposely/purposedly
+2/persuade/pursuade
+2/persuaded/pursuaded
+2/persuades/pursuades
+2/pertain/purtain
+2/persuading/pususading
+2/put forth/put fourth
+2/condense it/put it in a nutshell
+2/putting/puting
+2/puzzling/puzzling in nature
+2/power/pwoer
+2/quadruple/quadroople
+2/coiffure/quafeur
+2/quandary/quandry
+4/quantity/quanity/quantaty/quantitiy
+2/quarantine/quarantaine
+2/quarterfinal/quater-final
+2/quarter/quater
+2/quarterback/quaterback
+2/quarterly/quaterly
+2/quartermaster/quatermaster
+2/quarters/quaters
+2/queue/que
+4/question/quesion/questoin/quetion
+5/questions/quesions/questioms/questiosn/quetions
+3/questionnaire/questionaire/questionare
+2/quietude/quietitude
+2/choir/quire
+2/quietly/quitely
+3/quizzes/quizes/quizs
+2/quotient/quotion
+2/rabbinical/rabinnical
+2/rabbit/rabit
+2/raccoon/racoon
+2/radius/radeus
+2/ratify/radify
+2/raining/rainning
+2/rancorous/rancourous
+4/rendezvous/randayvoo/rendevous/rondayvoo
+2/rhapsody/rapsady
+2/rarely/rarley
+2/raspberry/rasberry
+2/rather than/rather then
+2/re-released/re-realeased
+2/recall/reacll
+2/actual/real actual
+2/release/realease
+2/released/realeased
+2/realistically/realisticaly
+2/related/realted
+2/relative/realtive
+4/relatively/realtively/relativly/relitively
+2/relativistic/realtivistic
+2/rebuttal/rebuttle
+6/recommend/reccomend/reccommend/recomend/recommand/reommend
+3/recommendation/reccomendation/recomendation
+3/recommendations/reccomendations/recomendations
+5/recommended/reccomended/reccommended/recomended/recommented
+4/recommending/reccomending/reccommending/recomending
+4/recommends/reccomends/recomends/recommands
+2/recurring/reccuring
+3/receded/receded back/receeded
+2/recede/receed
+2/receding/receeding
+3/receipt/receet/reciept
+3/receive/receieve/recieve
+3/recipient/recepient/recipiant
+3/recipients/recepients/recipiants
+2/receptacle/receptical
+2/reside/recide
+2/resided/recided
+3/resident/recident/residant
+3/residents/recidents/residants
+2/residing/reciding
+2/receipts/reciepts
+2/received/recieved
+2/receiver/reciever
+2/receivers/recievers
+2/receives/recieves
+2/receiving/recieving
+2/recipes/recipies
+2/recognise/recogise
+3/recognize/recogize/reconize
+2/recommendable/recomendable
+4/reconnaissance/reconaissance/reconasence/reconnaissence
+2/reconciliation/reconcilation
+2/required/recquired
+2/recreational/recrational
+2/record/recrod
+2/recruited/recruted
+2/rectangular/rectangular in shape
+2/reckoned/recund
+2/recurrence/recurrance
+2/recurrent/recurrant
+2/ridicule/redicule
+2/ridiculous/rediculous
+2/reducible/reduceable
+2/refer/refer back
+2/referral/referal
+3/referred/refered/reffered
+2/referring/refering
+2/refers/referrs
+2/reference/refference
+2/refrigeration/refridgeration
+2/refrigerator/refridgerator
+2/refusal/refusla
+2/regular/regluar
+2/regardless/reguardless
+4/regularly/reguarly/regularily/regulary
+2/routine/regular routine
+3/rehearsal/rehearsel/rehersal
+2/rein in/reign in
+2/reined in/reigned in
+2/reins of power/reigns of power
+3/renown/reknown/renoun
+2/renowned/reknowned
+2/real/rela
+2/relegate/relagate
+2/relegated/relagated
+2/relationship/relatiopnship
+5/relevant/relavant/relavent/relevent/revelant
+2/relief/releaf
+4/religious/relegious/religeous/religous
+2/relieve/releive
+2/relieved/releived
+3/relevance/relevence/revelance
+2/relic/relict
+2/relics/relicts
+2/religion/religeon
+2/realization/relization
+2/realize/relize
+2/realm/relm
+2/reluctant/reluctent
+2/remainder/remainer
+4/remaining/remaing/remainging/remaning
+5/remnant/remanant/remenant/remenent/reminent
+5/remnants/remanants/remenants/remenents/remnance
+2/remain/remane
+3/remember/rember/remeber
+3/remembrance/rememberance/remembrence
+3/reminisce/remeniss/rimaniss
+5/reminiscent/reminescent/reminicent/reminisent/riminicent
+3/renaissance/renisance/rennaisance
+4/repertoire/repatwar/repertwar/repetoire
+2/repeat/repeat again
+3/repellent/repelant/repellant
+2/repentance/repentence
+2/repentant/repentent
+2/repetition/repetion
+2/replenish/replentish
+4/response/reponse/respomse/responce
+5/responsible/reponsible/responsable/responsibile/resposible
+2/rapport/repore
+3/representatives/representativs/representives
+2/representative/representive
+2/represented/represetned
+2/represent/represnt
+2/republic/repubic
+2/requiem/requeum
+5/resemblance/resembelance/resemblence/ressemblance/ressemblence
+2/research/reserach
+6/reservoir/reservior/reservor/resevior/resevoir/resivwar
+4/reservoirs/reserviors/reseviors/resevoirs
+2/residence/residance
+2/resistible/resistable
+2/resistance/resistence
+2/resistant/resistent
+2/resolution/resollution
+2/reason/reson
+2/reasonable/resonable
+2/resources/resorces
+2/recourses/resourses
+2/respond/respomd
+4/responsibility/responnsibilty/responsability/responsiblity
+2/recipe/ressapee
+2/resemble/ressemble
+2/resembled/ressembled
+2/resort/ressort
+2/resurrection/ressurection
+34/restaurants/restarants/restaraunts/restarents/restaronts/restauants/restauraunts/restaurents/restauronts/restautants/resterants/resteraunts/resterents/resteronts/restorants/restoraunts/restorents/restoronts/restourants/restouraunts/restourents/restouronts/restrants/restraunts/restrents/restronts/restuarants/restuaraunts/restuarents/restuaronts/resturants/resturaunts/resturents/resturonts
+3/restaurateur/restaraunteur/restauranteur
+2/restaurateurs/restaraunteurs
+2/restoration/restauration
+2/effects/resulting effects
+2/resurrecting/resurecting
+2/resurgence/resurgance
+2/retaliated/retalitated
+2/retaliation/retalitation
+2/rather/rether
+2/retinue/retinew
+2/rhetoric/retoric
+2/rhetorical/retorical
+2/retreating/retreating back
+3/return/return again/return back
+2/result/reult
+2/reevaluated/revaluated
+2/reviewing/reveiwing
+2/reverence/reverance
+2/reverend/reverand
+2/reverent/reverant
+2/reversible/reversable
+2/revert/revert back
+2/revolutionary/revolutionar
+2/rewrite/rewriet
+3/rhinoceros/rhinosarus/rinosarus
+2/rhyme/rhymme
+9/rhythm/rhythem/rhythim/rhythym/rithm/rythem/rythim/rythm/rythym
+2/ricochet/rickoshay
+2/reindeer/riendeer
+2/ridge/rige
+2/rigueur/rigeur
+2/rigorous/rigourous
+2/rigorously/rigourously
+3/rickshaw/riksha/rikshaw
+3/rickshaws/rikshas/rikshaws
+2/ringing/rininging
+4/risotto/risoto/rissoto/rissotto
+2/right/rite
+2/riddled/rittled
+2/riverside/riveside
+2/Rockefeller/Rockerfeller
+2/rococo/rococco
+2/role player/roll player
+2/Romanesque/romansque
+2/roughly/rougly
+2/round/round in shape
+2/wheels/round wheels
+2/rhubarb/rubarb
+2/rudimentary/rudimentry
+2/ruin/ruine
+2/ruins/ruines
+2/junta/ruling junta
+2/rule/rulle
+2/rheumatic/rumatic
+2/rumors/rumers
+3/write/rwite/wriet
+2/saboteur/sabotour
+3/saccharin/sacarin/sacrin
+3/second/sacond/seond
+2/sacrifice/sacrafice
+3/sacrilegious/sacreligious/sacrilegeous
+2/haven/safe haven
+2/sanctuary/safe sanctuary
+3/safety/saftey/safty
+2/sir/sah
+2/said he/saidhe
+2/said it/saidit
+3/said the/saidt he/saidthe
+2/said that/saidthat
+2/salad/salat
+2/salaries/saleries
+2/salary/salery
+2/saltpeter/salpeter
+2/salmon/sammon
+2/samurai/samori
+6/sandwich/samwich/sandwhich/sandwidch/sandwitch/sanwich
+2/sanity/sanaty
+4/sandwiches/sandwhiches/sandwidches/sandwitches
+2/Sanhedrin/Sanhedrim
+2/sapphire/saphire
+3/sergeant/sargant/sargent
+5/satellite/satelite/satilite/sattelite/sattellite
+3/satellites/satelites/sattelites
+2/saturday/saterday
+2/saturdays/saterdays
+2/satiric/satric
+2/satirical/satrical
+2/satirically/satrically
+2/severe/savere
+2/salve/savve
+2/savvy/savy
+2/saxophone/saxaphone
+2/say/sayeth
+2/scaffolding/scafolding
+2/scalable/scaleable
+3/Scandinavia/Scandanavia/Skandinavia
+3/schedule/scedule/schedual
+2/scheduled/sceduled
+5/scenario/scenaireo/senaireo/senarreo/staged scenario
+2/scenery/scenary
+3/sense/scence/sence
+2/script/scirpt
+2/scroll/scoll
+2/SCSI/SCSI Interface
+2/sculpture/scupture
+2/sculptures/scuptures
+2/seaboard/seabord
+3/search/seach/serach
+2/searched/seached
+2/searches/seaches
+2/sea lion/sealion
+2/sea lions/sealions
+2/secondary/seconday
+3/secretary/secratary/secretery
+2/section/sectino
+2/sedentary/sedantary
+3/sidereal/sedereal/sideral
+2/seedling/seedling plant
+3/siege/seege/seige
+3/seizure/seezure/siezure
+2/segue/segway
+2/sieges/seiges
+2/sienna/seina
+2/salacious/selacious
+3/selection/selction/selectoin
+2/scenic/senic
+2/senior/senoir
+2/sensible/sensable
+2/censure/sensure
+2/sentence/sentance
+5/September/Sep/sep./Sept/Sept.
+3/separate/separeate/seperate
+2/separated/seperated
+2/separately/seperately
+2/separates/seperates
+2/separating/seperating
+2/separation/seperation
+2/separatism/seperatism
+2/separatist/seperatist
+2/separatists/seperatists
+3/subpoena/sepina/supeena
+2/sepulchral/seplicural
+3/circumstances/sercumstances/surrounding circumstances
+3/serious/sereous/sirious
+2/surgeon/sergon
+2/series/serieses
+2/danger/serious danger
+2/service/serivce
+2/serviced/serivced
+3/several/serveral/severeal
+2/7-letter/seven-letter
+2/sexual/sexul
+2/shadow/shaddow
+2/shall/shalt
+2/chenille/shaneal
+2/shape/shape and form
+2/charlatan/sharlaton
+2/point/sharp point
+2/charades/sharraids
+2/chateaux/shatow
+3/school/shcool/skool
+3/she will/she'll/she will
+2/she is/she 's
+2/shield/sheild
+2/shepherd/shepard
+2/sheriff/sherif
+2/she said/shesaid
+2/shining/shineing
+2/shipped/shiped
+2/shoo-in/shoe-in
+2/shoulder/sholder
+2/shopping/shoping
+2/shortcut/short cut
+2/shorter/shorter in length
+2/shorter than/shorter then
+2/should have been/should of been
+2/should have had/should of had
+3/should not/shouldn't/shouldnt
+2/chauffeur/showfer
+2/showing/showinf
+2/chauvinism/showvinism
+2/shriek/shreak
+2/shredded/shreded
+3/succinctly/sicinctly/susincly
+2/since/sicne
+2/side effect/side affect
+2/sidekick/side kick
+2/seduction/siduction
+2/seizures/siezures
+2/syringe/sighrynge
+2/scythe/sighth
+3/significant/signifacnt/signifigant
+3/significantly/signifantly/significently
+2/signatories/signitories
+2/signatory/signitory
+2/signature/signiture
+2/sight/sigth
+2/sights/sigths
+2/cigarette/siguret
+2/syllabus/sillybus
+2/silhouette/silowet
+5/similar/simalar/similiar/simmilar/simular
+4/symmetric/simetric/symetric/symmetral
+3/similarly/similarily/simmilarly
+2/similarity/similiarity
+3/simply/simpley/simpyl
+2/simpler/simplier
+2/simulcast/simulcasted
+2/simultaneous/simultanous
+3/synagogue/sinagogue/sinegog
+2/synagogues/sinagogues
+3/sincerely/sincerley/sincerly
+2/single-handedly/single-handily
+2/singsong/singsog
+2/sink/sink down
+2/Zionist/Sionist
+2/Zionists/Sionists
+2/surveillance/sirvaylence
+2/cyst/sist
+2/sister-in-law/sister in law
+2/sisters-in-law/sisters in law
+2/situate/sitaute
+2/situated/sitauted
+2/still/sitll
+2/sieve/sive
+2/6-letter/six-letter
+2/Sistine/Sixtin
+2/scissors/sizors
+2/skills/skillz
+2/schizophrenic/skitsofrinic
+2/scourge/skurge
+2/sleeve/sleave
+2/sledding/sleding
+3/sleuth/slewth/slooth
+2/slid/slided
+2/slippery/slipperly
+2/slogan/sloagen
+2/slumbering/slumb'ring
+2/small/small in size
+3/speck/small speck/tiny speck
+2/smaller than/smaller then
+2/smarter than/smarter then
+2/smitten/smittn
+2/smooth/smoothe
+2/smooths/smoothes
+2/sneak peek/sneak peak
+3/suspicion/sneaking suspicion/suspision
+2/sneeze/snese
+3/snorkeling/snorkelling/snorkling
+2/solder/sodder
+3/sophomore/sofmore/sophmore
+2/software/sofware
+2/show/sohw
+2/social/soical
+2/solitary/solatary
+3/soldier/soldger/solger
+2/solely/soley
+2/soldiers/soliders
+2/soliloquy/soliliquy
+2/solitaire/solitare
+2/soluble/soluable
+2/solemn/solum
+3/somewhat/some what/somewaht
+2/somebody is/somebody 's
+2/some kind of/somekinda
+2/someone is/someone 's
+2/something is/something 's
+2/sometimes/somtimes
+2/somewhere/somwhere
+2/son-in-law/son in law
+2/sons-in-law/sons in law
+3/suicide/sooaside/sucide
+2/suet/sooit
+3/soup/soop/suop
+4/sophisticated/sophicated/suffisticated/suphisticated
+2/sorcerer/sorceror
+2/sword/sord
+2/sort of/sorta
+2/same old shit/sos
+2/hat so that/sot
+5/story/sotry/stopry/stoyr/stroy
+2/sound/soudn
+2/sounds/soudns
+2/sauerbraten/sourbraten
+6/surround/sourond/sourrond/surond/suround/surrond
+7/surrounding/souronding/sourronding/sourrounding/suronding/surounding/surronding
+2/south/sourth
+2/southern/sourthern
+3/southeast/southest/southheast
+6/souvenir/souveneir/souvenier/souvernir/suvenear/suvenior
+6/souvenirs/souveneirs/souveniers/souvernirs/souvineers/suveniors
+3/sovereignty/sovereignity/soverignity
+3/sovereign/soverign/sovren
+2/sorry/soz
+2/speak/sp34k
+2/spatial/spacial
+3/spaghetti/spageti/spagetti
+2/sphagnum/spagnum
+2/Spanish/spainish
+2/space/spase
+2/speech/speach
+2/examples/specific examples
+3/specifically/specificaly/specificalyl
+2/specimen/speciman
+2/specter/specktor
+3/spectacular/spectactular/spectauclar
+2/spermatozoa/spermatazoa
+2/special/speshal
+2/spicy/spicey
+2/specific/spicific
+2/splendid/splended
+2/split/splitted
+2/sponsor/sponser
+3/spontaneous/spontanious/spontanous
+2/sponsored/sponzored
+2/sports car/sportscar
+3/suppose/spose/supose
+2/spread rapidly/spread like wildfire
+2/spread/spreaded
+2/spun off/spunoff
+3/square/sqaure/square in shape
+3/squirrel/squirel/squirl
+2/seriously/srsly
+2/stalactite/stalagtite
+2/standards/standars
+2/Stansted/Standsted
+2/strange/stange
+2/strategic/startegic
+3/strategies/startegies/stradegies
+3/strategy/startegy/stradegy
+2/statement/statment
+2/statements/statments
+2/stylus/stilus
+2/stringent/stingent
+2/stand/stnad
+2/stochastic/stocastic
+3/stories/storeis/storise
+2/strongest/stornegst
+3/stop/stpo/whoa
+2/Strait of/straight of
+3/strand/stran/strnad
+2/streets/streest
+3/strengthen/strenghen/strenghten
+3/strengthened/strenghened/strenghtened
+3/strengthening/strenghening/strenghtening
+3/strength/strenght/strentgh
+2/strenuous/strenous
+2/strictest/strictist
+2/struck/striked
+2/stronger than/stronger then
+4/structure/structer/structue/stucture
+3/struggle/struggel/strugle
+2/stubbornness/stubborness
+2/structured/stuctured
+2/study/studdy
+2/studying/studing
+3/student/studnet/undergraduate student
+2/stunning/stuning
+2/subcategories/subcatagories
+2/subcategory/subcatagory
+2/subject/subjetc
+2/subsequent/subseqent
+3/subsidiary/subsidary/subsiduary
+2/substance/substace
+3/substantial/substancial/substatial
+2/substitute/substitude
+2/subtract/substract
+2/subtracted/substracted
+2/subtracting/substracting
+2/subtraction/substraction
+2/subtracts/substracts
+2/subterranean/subterranian
+2/subterfuge/subtrafuge
+3/succeeded/succeded/suceeded
+6/successful/succesful/successfull/sucesful/sucessful/sucessfull
+9/successfully/succesfully/succesfuly/successfuly/successfulyl/sucesfully/sucesfuly/sucessfully/sucessfuly
+4/succession/succesion/sucesion/sucession
+3/successive/succesive/sucessive
+3/succeed/suceed/sucsede
+2/succeeding/suceeding
+2/succeeds/suceeds
+2/successes/sucesses
+2/succumb/sucome
+2/impulse/sudden impulse
+4/sufficient/suffcient/sufficent/sufficiant
+3/sufficiently/suffciently/sufficently
+2/suffrage/sufferage
+2/suffered/suffered poorly
+2/sugar/suggar
+2/summary/sumary
+2/summarize/summarize briefly
+3/superseded/superceded/superceeded
+2/supersedes/supercedes
+2/superseding/superceding
+3/supersede/superceed/superseed
+2/supersession/supercession
+2/superfluous/superfulous
+2/superintendent/superintendant
+3/supplement/suplement/suppliment
+3/supposed/suposed/suppossed
+2/supposedly/suposedly
+2/supposes/suposes
+2/supposing/suposing
+2/supposed to/suppose to
+2/supply/suppy
+3/suppress/supress/surpress
+3/suppressed/supressed/surpressed
+2/suppresses/supresses
+2/suppressing/supressing
+5/surprise/suprise/suprize/surprize/unexpected surprise
+4/surprised/suprised/suprized/surprized
+4/surprising/suprising/suprizing/surprizing
+4/surprisingly/suprisingly/suprizingly/surprizingly
+2/sherbet/surbert
+2/suburb/surburb
+2/suburbs/surburbs
+2/surname/surename
+3/surrounded/surounded/surrounded on all sides
+2/surroundings/suroundings
+2/surrounds/surounds
+2/supplanted/surplanted
+3/surreptitious/surrepetitious/surreptious
+3/surreptitiously/surrepetitiously/surreptiously
+2/surrendering/surrundering
+2/surveil/surveill
+2/surveyor/surveyer
+2/survivor/surviver
+2/survivors/survivers
+3/susceptible/suseptable/suseptible
+3/succinct/susinkt/sussinct
+2/subtle/suttle
+2/swear/swaer
+2/swears/swaers
+3/swept/sweeped/sweept
+2/swine/swein
+2/swimming/swiming
+2/Switzerland/Switerland
+2/says/syas
+2/style/syle
+2/syllable/sylibol
+3/symmetrically/symetrically/symmetricaly
+2/symmetry/symetry
+2/synonymous/synonomous
+2/syphilis/syphyllis
+2/syrup/syrap
+2/seismograph/sysmograph
+2/the other/t'other
+3/tobacco/tabacco/tobbaco
+2/tableau/tabblow
+3/than/tahn/thna
+7/that/taht/tath/thgat/thta/thyat/tyhat
+2/snooze/take a nap
+2/take effect/take affect
+2/take the reins/take the reigns
+2/taking the reins/taking the reigns
+2/talked/talekd
+3/talking/talkign/tlaking
+2/Tandoori/tandori
+2/targeted/targetted
+2/targeting/targetting
+2/ptarmigan/tarmigan
+2/tarpaulin/tarpolin
+2/tartan/tarten
+2/tartans/tartens
+2/taste/tast
+2/tasteful/tastful
+2/tattoo/tatoo
+2/tattoos/tattooes
+2/talk/tawk
+2/taxonomic/taxanomic
+2/taxonomy/taxanomy
+2/taught/teached
+2/team composed of/team comprised of
+2/teammate/teamate
+3/technician/techician/technition
+2/technicians/techicians
+2/technique/techneek
+2/jargon/technical jargon
+2/technical/tecnical
+2/tedious/tedeous
+2/telepathy/telepatrhy
+2/televise/televize
+3/what do you/tell me what you/whaddya
+4/what is your/tell me what your/what is u/whats your
+2/tell the/tellt he
+2/telephone/telphone
+5/temperature/temerature/temperture/tempoerature/tempurture
+2/temperatures/temeratures
+3/temple/tempale/tempel
+3/temples/tempales/tempels
+2/temperate/temparate
+2/temporary/temperary
+2/temperament/temperment
+2/temperamental/tempermental
+2/reprieve/temporary reprieve
+2/temptation/temtation
+2/tentacle/tenacle
+2/tentacles/tenacles
+2/tendencies/tendancies
+2/tendency/tendancy
+2/Tennessee/tenn.
+2/tennis player/tennisplayer
+2/tequila/tequial
+4/terrace/terace/terrase/terrasse
+2/terrific/terific
+3/territory/teritory/terriory
+2/turmoil/termoil
+3/tournament/ternament/tornament
+2/terrible/terrable
+2/terraces/terrases
+2/terrestrial/terrestial
+2/territories/terriories
+2/terrorist/territorist
+2/testimonial/testamonial
+2/testimony/testamony
+2/testicle/testical
+3/Tuesday/Teusday/Tusday
+3/that would/that'd/that would
+2/that will/that'll
+2/that will have/that'll 've
+2/that may be/that maybe
+2/he that the/thatt
+2/that the/thatthe
+2/Africa/the african continent
+3/they are/the are/they're
+2/Asia/the asian continent
+2/Central America/the central american continent
+2/dawn/the crack of dawn
+2/Europe/the european continent
+2/the future/the future to come
+2/north america/the north american continent
+2/south america/the south american continent
+3/they were/the were/they where
+2/the company/thecompany
+3/thief/theef/theif
+2/thereafter/theerafter
+2/theory/theery
+2/the first/thefirst
+2/the government/thegovernment
+4/thieves/theifs/theives/theves
+3/there are/their are/there're
+4/there is/their is/there 's/theres
+3/themselves/themself/themselfs
+2/the new/thenew
+2/therapeutic/theraputic
+2/thereby/therby
+2/there would/there'd
+2/there will/there'll
+2/no doubt/there is no doubt but that
+2/theorem/therem
+3/their/theri/thier
+2/theoretical/theroretical
+2/the two/thetwo
+2/they will/they'll
+2/they have/they've
+4/things/thigns/thigsn/thnigs
+2/thinks/thikns
+2/thinking/thingking
+2/thirtieth/thirtyth
+2/thistle/thisle
+2/this year/thisyear
+2/then/thne
+2/threatened/threatend
+2/3-letter/three-letter
+3/threshold/threshhold/treshold
+2/thresholds/threshholds
+2/third/thrid
+3/throughout/through out/throughtout
+2/thoroughfare/throughfare
+2/thoroughly/throughly
+2/thrust/thrusted
+2/those/thsoe
+2/your/thy
+2/timeouts/time outs
+2/your time is up/times up
+3/together/tiogether/togehter
+6/typical/tipic/tipical/tipycal/typcial/typic
+2/take/tkae
+2/takes/tkaes
+2/taking/tkaing
+2/to summarize/to make a long story short
+2/to set up/to setup
+3/toxin/tocksen/toxen
+2/today 's/todays
+2/today/todya
+2/told the/toldt he
+2/tolerance/tolerence
+2/Tolkien/Tolkein
+2/Tolstoy/tolstoi
+2/tomato/tomatoe
+2/tomatoes/tomatos
+3/tonight/tongiht/tonihgt
+2/took effect/took affect
+2/took the reins/took the reigns
+2/took over/tookover
+2/tomb/toom
+2/Teutonic/Tootonic
+2/toroidal/toriodal
+2/torque/tork
+2/tornadoes/tornados
+2/torpedoes/torpedos
+2/tortellini/tortilini
+2/tortoise/tortise
+3/to the/tot he/tothe
+3/tongue/tounge/tung
+3/tourist/tourit/turist
+4/tourists/tourits/toursists/turists
+3/toward/towards/towrad
+2/tragedy/tradgedy
+2/tragic/tradgic
+3/traditionally/traditionaly/traditionalyl
+2/traditional/traditionnal
+2/trafficked/trafficed
+2/trafficking/trafficing
+3/traffic/traffick/trafic
+2/trauma/trama
+3/transcendent/trancendent/transcendant
+3/transcending/trancending/transending
+2/transform/tranform
+2/transformed/tranformed
+3/transport/tranport/trasport
+2/transcendence/transcendance
+2/transcendental/transcendentational
+2/transept/transcept
+2/transferred/transfered
+2/transferring/transfering
+3/transistor/transister/transitor
+2/transition/transistion
+2/translator/translater
+2/translators/translaters
+2/transmission/transmision
+2/transmissible/transmissable
+2/transparent/transparenet
+2/transcend/transsend
+2/translate/traslate
+2/translated/traslated
+2/transportation/trasportation
+2/traveling/travelling
+2/traveler/travler
+2/travelers/travlers
+2/tremolo/tremelo
+2/tremolos/tremelos
+2/true/trew
+2/triathlon/triathalon
+2/proven/tried and true
+2/trigonometric/trignametric
+2/trinket/tringket
+2/trilogy/triology
+2/troglodyte/troglodite
+3/trolley/troley/trolly
+2/troubadour/trubador
+2/facts/true facts
+3/truly/truely/truley
+2/trudging/truging
+2/trustworthiness/trustworthyness
+2/try to find/try and find
+2/try to get/try and get
+2/try to see/try and see
+2/tried/tryed
+2/tries/trys
+2/toucan/tucan
+2/terrain/turain
+2/turkeys/turkies
+3/turquoise/turkoise/turqoise
+2/Turing/Turring
+2/Tucson/Tuscon
+2/twelfth/twelth
+2/2-letter/two-letter
+3/tandem/two-man tandem/two-person tandem
+2/town/twon
+2/typically/typicaly
+3/tyrannies/tyranies/tyrranies
+3/tyranny/tyrany/tyrrany
+2/U.S./u s a
+3/ubiquitous/ubiqitous/ubiquitious
+4/understand/udnerstand/understnad/undertand
+2/use/uise
+2/Ukraine/Ukrane
+2/goal/ultimate goal
+2/incautious/uncautious
+2/uncertainty/uncertainity
+2/unconscious/unconcious
+2/unconsciousness/unconciousness
+2/unconventional/unconvential
+2/undecidable/undecideable
+3/underwear/under wear/underware
+2/underground/undergound
+2/under the/undert he
+2/undesirable/undesireable
+2/underdevelopment/undevelopment
+2/unduly/unduely
+6/unnecessary/unecessary/unneccesary/unneccessary/unnecesary/useless and unnecessary
+2/unaffected/uneffected
+2/unexceptional/unexeceptional
+2/emergency/unexpected emergency
+2/unfeasible/unfeasable
+2/unforgettable/unforgetable
+2/sickness/unhealthy sickness
+2/unilateral/unilatreal
+2/unilaterally/unilatreally
+3/United States/UnitedStates/Unites States
+5/universities/univeristies/universties/univesities/unviersities
+5/university/univeristy/univesity/unviersity/unviersty
+2/university students/university college students
+2/unlabeled/unlabled
+2/unlike/unliek
+2/unlikely/unlikley
+2/old maid/unmarried old maid
+2/unmistakably/unmistakeably
+4/unnecessarily/unneccesarily/unneccessarily/unnecesarily
+2/redundancies/unnecessary redundancies
+2/unemployment/unnemployment
+2/unnoticeable/unoticeable
+2/unfazed/unphased
+3/unpleasant/unpleasent/unplesant
+2/unpleasantly/unpleasently
+2/unrepentant/unrepentent
+2/unsubstantiated/unsubstanciated
+4/unsuccessful/unsuccessfull/unsucesful/unsucessfull
+3/unsuccessfully/unsucesfuly/unsucessfully
+4/unsurprised/unsuprised/unsuprized/unsurprized
+4/unsurprising/unsuprising/unsuprizing/unsurprizing
+4/unsurprisingly/unsuprisingly/unsuprizingly/unsurprizingly
+2/untranslatable/untranslateable
+3/unwieldy/unweildly/unwieldly
+2/uphill/uphil
+2/U.S.A./USA
+2/usage/useage
+2/useful/usefull
+2/usefully/usefuly
+2/using/useing
+2/usability/usibility
+2/usual/usuall
+2/utilized/utilizied
+4/vacuum/vaccum/vaccume/vacume
+2/vacillating/vacillating back and forth
+3/vicinity/vacinity/vincinity
+2/valet/vallay
+4/valuable/valuble/valueable/worth its weight in gold
+3/valuables/valubles/valueables
+2/Vancouver/Vancover
+5/want/vant/watn/whant/wnat
+5/varieties/variaties/variatys/varietys/varities
+3/variety/variaty/varity
+2/variant/varient
+3/verification/varification/verfication
+2/varsity/varisty
+2/various/varous
+3/vassal/vasal/vasall
+3/vassals/vasalls/vasals
+2/vaudeville/vaudville
+2/vehement/veamant
+4/vegetable/vegatable/vegitable/vegtable
+3/vegetables/vegatables/vegitables
+4/vegetarian/vegatarian/vegitarian/vegitarion
+3/vegetarians/vegatarians/vegitarians
+2/vehicle/veicle
+2/view/veiw
+2/views/veiws
+2/vendor/vender
+2/vendors/venders
+2/venomous/venemous
+3/vengeance/vengance/vengence
+2/ventilate/ventillate
+3/vignette/venyet/vinyet
+2/variegated/veragated
+2/verbiage/verbage
+2/virtue/verchew
+2/version/verison
+2/versions/verisons
+2/vermin/vermen
+2/vermilion/vermillion
+2/vermouth/vermuth
+2/verisimilitude/versimilitude
+3/versatile/versital/versitle
+2/veterinarian/vetinarian
+2/veterans/vetrans
+2/victim/victum
+2/vigilante/vigilanty
+2/vigilance/vigilence
+2/vigilant/vigilent
+2/vigorous/vigourous
+2/village/vilage
+2/villain/villian
+2/vilified/villified
+2/vilify/villify
+2/VIN/VIN number
+4/vinaigrette/vinagrette/vinagrettes/vinigarette
+2/vinyl/vinal
+2/vinegar/vinigar
+4/vineyard/vinyard/wineyard/winyard
+4/vineyards/vinyards/wineyards/winyards
+2/Virginia/Virgina
+2/viruses/virii
+3/virtually/virtualyl/vitually
+2/vice-versa/visa versa
+2/visibility/visability
+3/visible/visable/visible with your own eyes
+2/visibly/visably
+2/vitiate/visheate
+2/vicious/vishus
+2/visit/vist
+2/visitation/vistation
+2/visiting/visting
+2/visitor/vistor
+2/visitors/vistors
+2/visualization/visualisation
+4/volcano/volcan/volcanoe/vulcano
+4/volcanoes/volcanos/vulcanoes/vulcanos
+4/volunteer/volentier/volonteer/volounteer
+2/Volkswagen/Volkswagon
+2/voluntary/volontary
+3/volunteered/volonteered/volounteered
+3/volunteering/volonteering/volounteering
+3/volunteers/volonteers/volounteers
+3/versus/v./vs.
+2/over/o'er
+2/in reference to/in re
+3/vulnerable/vulnerible/vunerable
+5/was not/wa snot/was'nt/wasn't/wasnt
+4/wallet/walet/walett/wallett
+2/stagger/walk clumsily
+2/mural/wall mural
+2/meander/wander back and forth
+2/want to/wanna
+2/wary/warey
+2/warfare/warfarre
+2/warrant/warrent
+2/was allowed/was aloud
+3/was/wass/ws
+2/watching/watching and observing
+2/hydrant/water hydrant
+2/waterfall/waterfal
+2/waterfalls/waterfals
+2/we would/we'd
+2/we will/we'll
+2/we are/we're
+2/we have/we've
+2/we have received/we are in receipt of
+2/weaponry/weaponary
+2/wealthy/weathly
+2/weave/weev
+2/wield/weild
+2/wielded/weilded
+2/wielding/weilding
+4/Wednesday/wendsay/wendsday/wensday
+2/weapon/weppon
+2/weasel/wesal
+2/water/wet water
+3/wants/whants/wnats
+2/what did/what'd
+2/what will/what'll
+2/why are you here/what brings you here
+2/why are you at/what brings you to
+2/why are you out/what brings you out
+2/why are you in/what brings you in
+2/why are you into/what brings you into
+3/what is new/what 's up/whazzup
+3/who is your/who is u/whos your
+2/how is your/how is u
+2/where is your/where is u
+2/watch/whatch
+2/him/whatsisname
+2/when is/when 's
+3/when is it/when do you believe it is/when do you think it is
+3/when will it/when do you believe it will/when do you think it will
+2/went on to/when on to
+2/whenever/whene'er
+2/went/whent
+2/when the/whent he
+3/whereas/wheras/where as
+2/where did/where'd
+2/where is/where 's
+2/whereby/where by
+3/where is it/where do you believe it is/where do you think it is
+3/where will it/where do you believe it will/where do you think it will
+2/whereupon/where upon
+2/wherever/whereever
+2/which consisted of/which comprised of
+2/which ones/whichones
+2/which the/whicht he
+2/who would/who'd
+2/who will/who'll
+4/who is/who 's/who id/who's
+2/who have/who've
+2/who were/who where
+2/where am/where'm
+2/whose/whoes
+4/wholly/wholely/wholey/wholley
+3/whom/whom do you believe/whom do you think
+3/why is/why's/why 's
+2/why did/why'd
+3/why is it/why do you believe it is/why do you think it is
+3/why will it/why do you believe it will/why do you think it will
+2/why is he/why do you think he is
+2/why am i/why do you think i am
+2/widow/widow woman
+2/widower/widower man
+2/wife/wief
+2/weird/wierd
+3/will be/wilbe/willbe
+2/wildebeest/wildebeast
+2/will consist of/will comprise of
+2/will have been/will of been
+2/will have had/will of had
+3/winery/winarie/winary
+3/wineries/winarys/winerys
+2/windows/windoes
+3/writing/wirting/writting
+2/Wisconsin/Wisconson
+2/whisper/wisper
+2/whistle/wissle
+2/au jus/with au jus
+2/with a/witha
+2/withdrawal/withdrawl
+2/within/withing
+2/withhold/withold
+2/with regards/withregards
+3/with the/witht he/withthe
+2/whizzing/wizzing
+2/wanted/wnated
+4/would not/wo'n't/wouldn't/wouldnt
+2/wooden/wodden
+3/working/wokring/wroking
+2/wolverine/wolwerine
+2/women 's/womens
+5/wonderful/wonderfull/worderful/worderfull/wunderful
+2/wondrous/wonderous
+2/verbose/wordy and verbose
+2/works hard/works like a dog
+2/worst-case scenario/worse-case scenario
+2/worse than/worse then
+2/worsened/worstened
+2/worsening/worstening
+3/worthwhile/worth while/worthwile
+2/what have you/wotcha
+3/would have/would've/would of
+2/would consist of/would comprise of
+2/would have been/would of been
+2/would have had/would of had
+2/would be/wouldbe
+2/would not have/wouldn't 've
+2/wreak havoc/wreck havoc
+2/wrestle/wressel
+2/writable/writeable
+3/written/writen/wroten
+2/worldwide/wrldwide
+2/word/wrod
+2/wrote/wroet
+2/support/wupport
+2/way/wya
+2/Xbox/X-Box
+2/Christmas/xmas
+2/you all/y'all
+2/you all are/y'all 's
+2/you could have/y'could've
+2/you know/y'know
+2/carbohydrates/carbs
+2/masturbate/masterbate
+2/yarmulke/yamaka
+2/a.m./a.m
+2/p.m./p.m
+3/yacht/yatch/yot
+3/years/yeasr/yeras
+2/yield/yeild
+3/yellow/yello/yelow
+2/medicines/meds
+4/year/yera/yr/yr.
+2/yes Madam/yessum
+3/your mother/yo mamm/yo momma
+2/yeoman/yoman
+2/you would have/you'da
+3/you have/you'v/you've
+2/you would/you'd
+3/you will/you'l/you'll
+2/you think/you reckon
+3/euphoric/youforic/yuforic
+2/eulogy/youlogy
+2/younger than/younger then
+2/teenagers/youthful teenagers
+2/euthanasia/youthinasia
+2/younger/yuonger
+2/czar/zar
+2/zebra/zeebra
+2/zephyr/zefer
+2/zealot/zellot
+2/zinc/zink
+2/zucchini/zookeenee
+2/xylophone/zylophone
