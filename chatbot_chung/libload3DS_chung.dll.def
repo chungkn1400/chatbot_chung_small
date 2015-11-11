@@ -1,0 +1,17 @@
+EXPORTS
+    _ZN8DllClassC1Ev @1
+    _ZN8DllClassC2Ev @2
+    _ZN8DllClassD0Ev @3
+    _ZN8DllClassD1Ev @4
+    _ZN8DllClassD2Ev @5
+    _ZTV8DllClass @6 DATA
+    draw3DSptr @7
+    draw3DSptrsmooth @8
+    load3DS @9
+    load3DS1 @10
+    load3DS2 @11
+    load3DSmap @12
+    load3DSsize @13
+    load3DSsizeptr @14
+    load3DSsizesmooth @15
+    testload3DS @16
