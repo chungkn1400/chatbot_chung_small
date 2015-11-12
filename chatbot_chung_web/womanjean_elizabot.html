@@ -1,0 +1,624 @@
+<!DOCTYPE HTML>
+<HTML>
+ <HEAD>
+  <TITLE> JSC3D - Face3D - elizabot </TITLE>
+ </HEAD>
+
+ <BODY   onmousemove="mousemove(event);" onunload="close();" >
+<a href="https://drive.google.com/?tab=wo&authuser=0#folders/0B6GM9ay7ImZLM0xQVjFWSkliS0U">https://drive.google.com/? open source eliza</a> 
+	<div style="width:800px; height:500px; font-size: 9pt; color: #F77777;">
+		<canvas id="cv" style="border: 1px solid;" width="400" height="400" ></canvas>
+		<div style="left:0px; ">
+		<button id="reset"  onclick="reset2();">reset</button>
+		<input type="text" onKeyUp="mykeypress(event);" id="intext" maxlength="95" size="45" value=""/>
+		<button id="say"  onclick="say();">say</button>
+		</div>
+		<div style="left:410px; top:30px; position:absolute;">
+		<textarea id="msg" rows="24" cols="40" type="text">msg</textarea>
+		</div>
+	</div>
+    <script type="text/javascript">
+ 	var myvbuff=new Array(100000);
+	var mynvert=0;var auxvar="";
+	var test=112;var mymesh=null;var dataobj="";var myscene=null,mytexture=null;
+	var imagesrc="";var mymesh1=null,mymesh2=null,mymesh3=null,mymesh4=null,bodytext=null;
+	var eliza=null;var elizawords=[],elizamem=new Array(400),ielizamem=0;
+	var crlf="\r\n",elizaintext="",elizarule="",elizaverbs=[],elizaadjs=[];
+	var elizaredir="";//resubmit
+	var v=[];//vars
+	function addelizamem(txt){
+	  var txts=txt.split(" ");
+	  for(var i=0;i<txts.length;i++){
+	     var txti=txts[i];
+		 for(j=0;j<400;j++){if(txti==elizamem[j]){txti="";break;};};
+		 if(txti.length>2){elizamem[ielizamem]=txti;
+		              ielizamem+=1;if(ielizamem>=400){ielizamem=0};
+					  }
+	  }
+	}
+	</script>
+	<script type="text/javascript" src="womanjean_obj.js"></script>
+	<script type="text/javascript" src="womanjeaneye_obj.js"></script>
+	<script type="text/javascript" src="womanjeanmouth_obj.js"></script>
+	<script type="text/javascript" src="womanjeanmoutho_obj.js"></script>
+	<script type="text/javascript" src="womanjean_jpg.js"></script>
+	<!--script type="text/javascript" src="alexiabody2_obj.js"></script>
+	<script type="text/javascript" src="alexiabody2_jpg.js"></script-->
+	<script type="text/javascript" src="myjsc3d.js"></script>
+	<script type="text/javascript" src="myelizabot.js"></script>
+	<script type="text/javascript" src="myelizadata.js"></script>
+	<script type="text/javascript" src="myelizaverb.js"></script>
+	<script type="text/javascript" src="myelizaadj.js"></script>
+	<script type="text/javascript">
+	function close(){
+	  audio.pause();audio.src="";
+	}	
+	var canvas;
+	var viewer;
+    var vbuff0=[];var vbuff1=[];
+	var vbuff2=[];var vbuff3=[];var nvbuff=0;
+	var myimage=new Image;
+	myimage.width=512;myimage.height=512;
+	myimage.src=womanjeanjpg;
+	/*var myimage2=new Image;
+	myimage2.width=512;myimage2.height=512;
+	myimage2.src=alexiabody2jpg;*/
+	function printmsg(txt){document.getElementById("msg").value=txt;}
+	function init() {
+		canvas = document.getElementById('cv');
+		viewer = new JSC3D.Viewer(canvas);
+	    //viewer.setParameter('SceneUrl', '../demos/models/womanjean.obj');
+		viewer.setParameter('SceneUrl', '');
+		viewer.setParameter('InitRotationX', -90);
+		viewer.setParameter('InitRotationY', -5);
+		viewer.setParameter('InitRotationZ', 0);
+		viewer.setParameter('ModelColor', '#FFFFFF');
+		viewer.setParameter('BackgroundColor1', '#AFAFFF');
+		viewer.setParameter('BackgroundColor2', '#8FAFAF');
+		viewer.setParameter('RenderMode', 'texturesmooth');
+		viewer.setParameter('MipMapping', 'on');
+		viewer.setParameter('Definiton', 'standard');
+		viewer.setParameter('Renderer', '');
+		viewer.init();
+		viewer.update();
+		//alert(womanjeanmouthobj.length);
+		mymesh=new JSC3D.Mesh;
+		mymesh.name='mymesh';
+		mymesh.vertexBuffer=[];
+		mymesh.indexBuffer=[];
+		mymesh.texCoordBuffer=[];
+		mymesh.texCoordIndexBuffer=[];
+		mymesh.isDoubleSided=true;
+		var mtllibs=viewer.parseObj(mymesh,womanjeanobj);
+		mymesh.init();
+		//alert("mtl="+mtllibs.length);
+		/*mymesh4=new JSC3D.Mesh;
+		mymesh4.name='mymesh';
+		mymesh4.vertexBuffer=[];
+		mymesh4.indexBuffer=[];
+		mymesh4.texCoordBuffer=[];
+		mymesh4.texCoordIndexBuffer=[];
+		var mtllibs4=viewer.parseObj(mymesh4,alexiabody2obj);
+		mymesh4.init();*/
+		myscene=new JSC3D.Scene;
+	    myscene.addChild(mymesh);
+	    //myscene.addChild(mymesh4);
+		viewer.replaceScene(myscene);
+		viewer.update();
+        //alert("addmesh");
+		
+		mymesh1=new JSC3D.Mesh;
+		mymesh1.name='mymesh1';
+		mymesh1.vertexBuffer=[];
+		mymesh1.indexBuffer=[];
+		mymesh1.texCoordBuffer=[];
+		mymesh1.texCoordIndexBuffer=[];
+		var mtllibs1=viewer.parseObj(mymesh1,womanjeaneyeobj);
+		mymesh1.init();
+
+		mymesh2=new JSC3D.Mesh;
+		mymesh2.name='mymesh2';
+		mymesh2.vertexBuffer=[];
+		mymesh2.indexBuffer=[];
+		mymesh2.texCoordBuffer=[];
+		mymesh2.texCoordIndexBuffer=[];
+		var mtllibs2=viewer.parseObj(mymesh2,womanjeanmouthobj);
+		mymesh2.init();
+
+		mymesh3=new JSC3D.Mesh;
+		mymesh3.name='mymesh3';
+		mymesh3.vertexBuffer=[];
+		mymesh3.indexBuffer=[];
+		mymesh3.texCoordBuffer=[];
+		mymesh3.texCoordIndexBuffer=[];
+		var mtllibs3=viewer.parseObj(mymesh3,womanjeanmouthoobj);
+		mymesh3.init();
+		
+		setTimeout("init0();",50);
+	}
+	function init0(){
+		//mymesh=myscene.children[0];
+		mytexture=new JSC3D.Texture;
+	    mytexture.onready = function() {
+		 mymesh.setTexture(this);
+		 viewer.update();
+		};
+	    //mytexture.createFromUrl('https://sites.google.com/site/chungkn1400/myjava/womanjean.jpg?attredirects=0');
+		//alert(document.images.img.src);
+		mytexture.createFromImage(myimage);
+		//mymesh.setTexture(mytexture);
+	    mymesh.setRenderMode('texturesmooth');
+		//if(mymesh.hasTexture()){alert("mytexture");}
+		//canvas.width=canvas.height=512;
+		//var ctx = document.getElementById('cv').getContext('2d');
+		//var image=document.images.img;
+		//ctx.drawImage(myimage, 0, 0,400,400);
+		//alert("testcanvas");
+		/*bodytext=new JSC3D.Texture;
+	    bodytext.onready = function() {
+		 mymesh4.setTexture(this);
+		 viewer.update();
+		};
+		bodytext.createFromImage(myimage2);
+		//mymesh4.setTexture(bodytext);
+	    mymesh4.setRenderMode('texturesmooth');
+		for(var i=0;i<(mymesh4.vertexBuffer.length-2);i+=3){
+		   mymesh4.vertexBuffer[i]*=18.0;
+		   mymesh4.vertexBuffer[i+1]*=18.0;
+		   mymesh4.vertexBuffer[i+2]*=18.0;
+		   mymesh4.vertexBuffer[i]+=-1.2;
+		   mymesh4.vertexBuffer[i+1]+=22.0;
+		   mymesh4.vertexBuffer[i+2]+=13.0;
+		}*/
+	    mynvert=mymesh.vertexBuffer.length;
+		//viewer.update(); 
+		if (mynvert>mymesh1.vertexBuffer.length){mynvert=mesh1.vertexBuffer.length;}
+		if (mynvert>mymesh2.vertexBuffer.length){mynvert=mesh2.vertexBuffer.length;}
+		if (mynvert>mymesh3.vertexBuffer.length){mynvert=mesh3.vertexBuffer.length;}
+		if (mynvert>100000){mynvert=100000;}
+		//alert("init0 nvert="+mynvert);
+		setTimeout("init2();",50);
+    }
+    function init2(){
+		nvbuff=mynvert;
+		for(var i=0; i<nvbuff; i++){
+		   vbuff0.push(mymesh.vertexBuffer[i]);
+		   vbuff1.push(mymesh1.vertexBuffer[i]-mymesh.vertexBuffer[i]);
+		   vbuff2.push(mymesh2.vertexBuffer[i]-mymesh.vertexBuffer[i]);
+		   vbuff3.push(mymesh3.vertexBuffer[i]-mymesh.vertexBuffer[i]);
+		}
+		mymesh1.vertexBuffer=[];
+		mymesh1.indexBuffer=[];
+		mymesh1.texCoordBuffer=[];
+		mymesh1.texCoordIndexBuffer=[];
+		mymesh2.vertexBuffer=[];
+		mymesh2.indexBuffer=[];
+		mymesh2.texCoordBuffer=[];
+		mymesh2.texCoordIndexBuffer=[];
+		mymesh3.vertexBuffer=[];
+		mymesh3.indexBuffer=[];
+		mymesh3.texCoordBuffer=[];
+		mymesh3.texCoordIndexBuffer=[];
+    	delete womanjeaneyeobj;
+	    delete womanjeanmouthobj;
+		delete womanjeanmouthoobj;
+	    delete womanjeanobj;
+		delete womanjeanjpg;
+		document.getElementById('intext').focus();
+		initelizabot();
+		setTimeout("loop();",50);
+}
+function initelizabot(){
+        //addmyeliza();
+		eliza = new ElizaBot();
+		eliza.reset();
+		resetvars();readcookie();
+		elizaverbs=elizaverb.split(" ");elizaverbs.sort();
+		elizaadjs=elizaadj.split(" ");elizaadjs.sort();
+		elizawords=[ "hi","i","me","my","you","your","he","she","his","her","him","we","us","our","they","them","their","here","there","a","an","the","this","that","at","to","in","into","from","for" ];
+		for(var i=0;i<elizaKeywords.length;i++){elizawords.push(elizaKeywords[i][0]);};
+		for(var i=0;i<elizaPres.length;i++){elizawords.push(elizaPres[i]);};
+		for(var i=0;i<elizaPosts.length;i++){elizawords.push(elizaPosts[i]);};
+		for(var i=0;i<elizaSynons.length;i++){elizawords.push(elizaSynons[i]);};
+		for(var i=0;i<elizaverbs.length;i++){elizawords.push(elizaverbs[i]);};
+		for(var i=0;i<elizaadjs.length;i++){elizawords.push(elizaadjs[i]);};
+		setallwords();		
+	}
+	function setallwords(){
+	for(var i=0;i<elizaKeywords.length;i++){
+	   for(var j=0;j<elizaKeywords[i][2].length;j++){
+	     var decomp=elizaKeywords[i][2][j][0].split(" ");
+		 for(var k=0;k<decomp.length;k++){
+		    var wdecomp=decomp[k];
+			if ((wdecomp.length>2)&&(wdecomp.indexOf("eval(")<0)){
+			   var test=0;
+			   for(var n=0;n<elizawords.length;n++){
+			      if(wdecomp==elizawords[n]){test=1;break;};
+			   }
+			   if(test==0){elizawords.push(wdecomp);if(elizawords.length>4000){return;};};
+			}
+		 }
+	   }
+	}
+	}
+	function getelizaword(txt){
+	   var len=txt.length;
+	   if ((len<2) || (/[A-Z]/.test(txt[0]))){return txt;}; 
+	   var txt2=txt.toLowerCase();
+	   for(var i=0;i<elizawords.length;i++){
+	      if (elizawords[i].length>=len){if(elizawords[i].substr(0,len)==txt2){return elizawords[i];};};
+       }
+	   return txt;
+	}
+	function getelizaadj(txt){
+	   var len=txt.length;
+	   if ((len<2) || (/[A-Z]/.test(txt[0]))){return txt;}; 
+	   var txt2=txt.toLowerCase();
+	   for(var i=0;i<elizaadjs.length;i++){
+	      if (elizaadjs[i].length>=len){if(elizaadjs[i].substr(0,len)==txt2){return elizaadjs[i];};};
+       }
+	   return txt;
+	}
+	function formateval(txt){
+	   var txt1="";
+	   var len=txt.length;
+	   if(len>6){
+	     var itxt=0;
+		 for(itxt=0;itxt<(len-6);itxt++){
+		  var i=itxt;
+	      for(i=itxt;i<(len-6);i++){
+		    if((txt.substr(i,5)=="eval(")||(txt.substr(i,5)=="Eval(")){
+			  var weval="",n=1;
+			  for(var j=i+5;j<len;j++){
+			     var ceval=txt.substr(j,1);
+				 if(ceval=="("){n+=1;}
+				 if(ceval==")"){n-=1;}
+				 if(n>0){weval+=ceval;}else{break;}				 
+			  }
+			  if(n==0){if(weval!=""){
+			     var weval2=eval(weval);
+				 if(weval2){txt1+=weval2;};
+				 //alert("weval="+weval+"/"+weval2);
+				 i+=weval.length+5;};}
+			}
+			else{txt1+=txt.substr(i,1);};
+		  }
+		  itxt=i;if(itxt>0){itxt-=1;};
+		 }
+	   txt1+=txt.substr(itxt,len-itxt);
+	   }
+	   else{txt1=txt;};
+	   return txt1;
+	}
+//alert("/"+formateval("test100")+"/");
+//alert("/"+formateval("eval(elizawords.length)eval(if(1){v['y']=990+1;}).")+"/");
+//alert("/"+formateval("okeval(elizawords.length)eval(v['y'])eval(999).")+"/");
+	var mousex0=0;
+	function mousemove(e){
+    if ((e.clientX - mousex0)>2){
+	mousex0=e.clientX;viewer.rotMatrix.rotateAboutYAxis(5);
+	viewer.update();};
+	if ((mousex0 - e.clientX)>2){
+	mousex0=e.clientX;viewer.rotMatrix.rotateAboutYAxis(-5);
+	viewer.update();};
+	}
+    
+	function gettimer(){
+    return (new Date()).getTime();
+    }
+	var iloop=0,tloop=0,quit=0,tkeye=0;
+	var keye=0,kmouth=0,kmoutho=0;
+	function loop(){
+    testspeak();
+    drawphonemes();
+	iloop +=1;if(iloop>70){iloop=1;};
+	if (iloop<=35){viewer.rotMatrix.rotateAboutYAxis(0.2);}
+	if (iloop>35){viewer.rotMatrix.rotateAboutYAxis(-0.2);}
+    var Timer=gettimer()/1000.0;
+	var ktime=1.5;
+    keye=(Math.sin(Timer*ktime-tkeye)*1.3+0.7)*0.32;
+    var kmouth2=kmoutho;//'(Cos(Timer*ktime*0.75)+1)*0.64
+    var kmouth1=kmouth+(Math.cos(Timer*ktime*0.85)+0.7)*0.15+kmoutho*0.3;
+    var kfps=2.4;
+	if ((Math.random()<0.03*kfps) && (keye>1.45*0.32)){keye=0;tkeye=Timer*ktime;}
+	var vbuf = mymesh.vertexBuffer;
+	var nvbuf=vbuf.length;
+	if (nvbuf>nvbuff){nvbuf=nvbuff;};
+    var sc=0.895;kmouth1*=sc;kmouth2*=sc;
+    for (var i=0;i<nvbuf;i++){
+   	  vbuf[i]=1.38*(vbuff0[i]+keye*vbuff1[i]+(kmouth1*vbuff2[i])+(kmouth2*vbuff3[i]));
+   	} 
+	viewer.update();
+	if (quit==0){tloop=setTimeout("loop();",80);}
+	}
+	function reset(){
+	viewer.resetScene();
+	viewer.update();
+	}
+	function reset2(){
+	reset();
+    if (confirm("Reset?")){eliza.reset();resetvars();}else{savecookie();};
+    intext0="";
+	document.getElementById('intext').focus();
+	}
+	function resetvars(){v=[];v['botname']="Eliza";};
+var phoneme="",phoneme0="",inword="",inword0="";
+var nphoneme=7,iphoneme=0;
+var phonemes=new Array(nphoneme);
+var tphoneme=new Array(nphoneme);
+
+function addphoneme(iphon){
+var Timer=gettimer()/1000.0;
+iphoneme+=1;if(iphoneme>nphoneme){iphoneme=1;};
+phonemes[iphoneme]=iphon;
+tphoneme[iphoneme]=Timer;
+} 
+function drawphoneme(i){
+var ktime,dt,dtt,d1;
+var Timer=gettimer()/1000.0;
+ktime=4.5;//'2.80
+dt=tphoneme[i]-Timer;
+if(dt>999){tphoneme[i]=0;}
+dtt=dt*ktime*0.75;
+if(dtt>3.1416){return;}
+d1=0.82;
+switch(phonemes[i]){
+	case 'o':
+   kmoutho+=(Math.sin(dtt)+d1)*0.64;
+   kmouth+=kmoutho*0.3;break;
+	case 'u':
+   kmoutho+=(Math.sin(dtt)+d1)*0.64;
+   kmouth+=kmoutho*0.3;break;
+	case 'i':
+   kmoutho+=(Math.sin(dtt)+d1)*0.24;
+   kmouth+=kmoutho*0.3;
+   kmouth+=(Math.sin(dtt)+0.7)*0.3;break;
+	case 'e':
+   kmoutho+=(Math.sin(dtt)+d1)*0.24;
+   kmouth+=kmoutho*0.3;
+   kmouth+=(Math.sin(dtt)+0.7)*0.25;break;
+	case 'w':
+   kmoutho+=(Math.sin(dtt)+d1)*0.2;
+   kmouth+=kmoutho*0.3;
+   kmouth+=(Math.sin(dtt)+0.7)*0.3;break;
+	case 'x':
+   kmoutho+=(Math.sin(dtt)+d1)*0.15;
+   kmouth+=kmoutho*0.2;
+   kmouth+=(Math.sin(dtt)+0.7)*0.2;break;
+	case 'r':
+   kmoutho+=(Math.sin(dtt)+d1)*0.18;
+   kmouth+=kmoutho*0.3;
+   kmouth+=(Math.sin(dtt)+0.7)*0.24;break;
+	case 'm':
+   kmoutho+=(Math.sin(dtt)+d1)*0.18;
+   kmouth+=kmoutho*0.3;
+   kmouth+=(Math.sin(dtt)+0.7)*0.27;break;
+	case 't':
+   kmoutho+=(Math.sin(dtt)+d1)*0.18;
+   kmouth+=kmoutho*0.2;
+   kmouth+=(Math.sin(dtt)+0.7)*0.27;break;
+	case 'ch':
+   kmoutho+=(Math.sin(dtt)+d1)*0.18;
+   kmouth+=kmoutho*0.25;
+   kmouth+=(Math.sin(dtt)+0.7)*0.3;break;
+	
+	default: 
+   kmouth+=(Math.sin(dtt)+0.7)*0.4;break;
+		
+   }
+}
+
+function drawphonemes(){
+if (phoneme!=phoneme0){
+	phoneme0=phoneme;
+ 	if (phoneme==" "){
+ 		//inword0=inword;
+ 		for( var i=1;i<=nphoneme;i++){
+ 			tphoneme[i]=0;
+        }
+	}
+ 	if (phoneme!=" "){addphoneme(phoneme);}
+}
+kmoutho=0;
+kmouth=0;
+var Timer=gettimer()/1000.0;
+for (var i=1;i<=nphoneme;i++){
+	if (Timer<(tphoneme[i]+1)){
+		drawphoneme(i);
+	}
+}
+}
+var audiotime0=0,audiotime1=0,textspeak="",text="",audiosrc="",words=[];
+var abc="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890+-*/()[]=.'";
+var audio = new Audio();var tsay=0,vsay=14.0;
+var speechstart=0,speechend=0;
+function speakhtml(){
+if ('speechSynthesis' in window){
+tsay=1;
+//alert(textspeak);
+if(textspeak.length<1){return;}
+var u=null;
+try{
+u = new SpeechSynthesisUtterance(textspeak);
+}
+catch(err){tsay=0;};if(tsay==0){return;}
+textspeak=textspeak+" ";
+u.lang = 'en';
+u.rate = 0.65;
+//var voices = window.speechSynthesis.getVoices();
+//u.voice=voices[0];alert(voices[0].name);
+u.onstart = function(event) { 
+  var Timer=gettimer()/1000.0;
+  //speechstart=Timer;//alert("speechstart="+speechstart);
+  audiotime0=Timer;//speechstart;
+  audiotime1=Timer+(textspeak.length/(vsay+1.0));  
+  };
+u.onend = function(event) { 
+  var Timer=gettimer()/1000.0;
+  //speechend=Timer;alert("speechend="+speechend);
+  var len=textspeak.length;
+  if(len>2){vsay+=(len/(Timer-audiotime0+0.01)-vsay)*0.35;};
+  audiotime1=audiotime0;  
+  //alert(vsay);
+  };
+window.speechSynthesis.speak(u);
+if (eliza.quit){reset2();};
+document.getElementById('intext').value="";
+document.getElementById('intext').focus();
+}
+}
+var intext0="";var vars=[];var icookie=0;
+function say(){
+//alert("/"+formateval("okeval(elizawords.length) eval(v['y'];v['y']+=1)")+"/");
+icookie+=1;if(icookie>11){icookie=0;savecookie();}
+reset();
+var intext=document.getElementById('intext').value;
+if(intext==""){intext=text+" .";};
+if(intext=="*"){intext=intext0;};
+intext0=intext;text="";
+text=eliza.transform(intext);
+//alert(text);
+//text=formateval(text);
+//text=text.toLowerCase();
+//alert(text);
+var msg=elizaintext+crlf+text+crlf+crlf;
+if(auxvar!=""){msg+=crlf+"auxvar="+auxvar;};
+var j=ielizamem;for(var i=0;i<20;i++){j--;if(j<0){j=400-1;};msg+=crlf+elizamem[j];}
+printmsg(msg);
+words = text.split("");
+var words0="";
+textspeak="";
+for(var i=0; i<words.length; i++){
+  if (words[i].length>0){
+  if (abc.indexOf(words[i])>=0){
+  textspeak=textspeak+words[i];};
+  if(words0!=" " && words[i]==" "){textspeak=textspeak+" ";};
+  words0=words[i];
+  ;};};
+if(textspeak.length>90){textspeak=textspeak.substr(0,90);}
+textspeak=textspeak.toLowerCase();
+//auxvar=(window.speechSynthesis)+"/tsay="+tsay;
+if (('speechSynthesis' in window)&&(tsay==1)){
+   speakhtml();if(tsay==1){return;};
+}
+tsay=0;
+//alert(textspeak);
+//audiosrc ='http://translate.google.com/translate_tts?ie=utf-8&tl=en&q='+encodeURIComponent(textspeak);
+audiosrc ='http://translate.google.com/translate_tts?&tl=en&q='+encodeURIComponent(textspeak);
+audiosrc='http://translate.google.com/translate_tts?tl=en&q='+encodeURIComponent(textspeak)+'&ie=UTF-8&total=1&idx=0&client=t';
+//text=encodeURIComponent(textspeak);
+//audiosrc='http://translate.google.com/translate_tts?ie=UTF-8&q='+text+'&tl=en&total=1&idx=0&textlen='+text.length+'&prev=input';
+textspeak=textspeak+" ";
+ 
+audio.type="audio/x-wav" 
+audio.src=audiosrc;
+var Timer=-1;
+//audio.addEventListener('loadedmetadata',function(){
+audio.addEventListener('canplay',function(){
+ tsay=0;
+ if(Timer<0){ Timer=gettimer()/1000.0;
+ audiotime0=Timer;
+ audiotime1=Timer+audio.duration;
+ //alert(audiotime1-audiotime0);
+ audio.play();
+ };
+});
+//audio.addEventListener('ended',function(){audio.src="";});
+tsay=1;
+audio.load();
+//audio.play();//load();
+//alert("say0="+textspeak);
+//alert("$"+vars['_y']);
+//alert("$ "+vars['_x']+eval("if(vars['_x']){alert(vars['_x']);};"));eval("vars['_x']='ok1'");
+if (eliza.quit){reset2();};
+document.getElementById('intext').value="";
+document.getElementById('intext').focus();
+}
+function testspeak(){
+var Timer=gettimer()/1000.0;
+if((Timer>audiotime0) && (Timer<audiotime1) && (textspeak.length>0)){
+  var i=parseInt(textspeak.length*(Timer-audiotime0)/(audiotime1-audiotime0+0.01));
+  phoneme=textspeak.substr(i,1);
+  if((i>0) && (phoneme=="h")){if(textspeak.substr(i-1,1)=="c"){phoneme="ch";};};
+  if ((i<(textspeak.length-1)) && (phoneme=="c")){if(textspeak.substr(i+1,1)=="h"){phoneme="ch";};};
+}else{phoneme=" ";}
+}
+function mykeypress(e) {
+    if (e.which == 13 || e.keyCode == 13) {
+        var Timer=gettimer()/1000.0;
+        if(Timer>audiotime1){say();}
+		//return false;
+    }
+    //left = 37,up = 38,right = 39,down = 40
+    if (e.which == 37 || e.keyCode == 37) {viewer.rotMatrix.rotateAboutYAxis(2);}
+    if (e.which == 39 || e.keyCode == 39) {viewer.rotMatrix.rotateAboutYAxis(-2);}
+    if (e.which == 38 || e.keyCode == 38) {viewer.rotMatrix.rotateAboutXAxis(2);}
+    if (e.which == 40 || e.keyCode == 40) {viewer.rotMatrix.rotateAboutXAxis(-2);}
+	//return true;
+}
+
+function addmyeliza(){
+var myword=
+        ["name", 20, [
+                ["what is your name *", [
+                        "My name is Eliza (1) and (3).",
+                        "Call me Eliza."
+                ]]
+        ]];
+elizaKeywords.push(myword);
+myword=["nam2", 20, [
+                ["what is your nam2 *", [
+                        "My name is Eliza2 (1) and (2).",
+                        "Call me Eliza2."
+                ]]
+        ]];
+elizaKeywords.push(myword);
+alert("ok");
+}
+function readcookie(){
+var mycookie=document.cookie+";";
+//alert("mycookie="+mycookie);
+var pref="html5elizabotchung=";
+//pref="__utma=";
+var i=mycookie.indexOf(pref,0);
+if(i<0){return;}
+i+=pref.length;
+var j=mycookie.indexOf(";",i);
+if(j<i){return;}
+var mycookie=mycookie.substring(i,j);
+//alert(mycookie);
+var wcookie=mycookie.split("//");
+for(var i=0;i<(wcookie.length-1);i+=2){
+    //alert(wcookie[i]+"="+wcookie[i+1]);
+    v[wcookie[i]]=wcookie[i+1];
+	}
+}
+function savecookie(){
+var mycookie="";
+var cookie0=document.cookie;
+for(var x in v){
+  if((x.indexOf('"',0)<0)&&(x.indexOf("/",0)<0)&&(v[x].indexOf('"',0)<0)&&(v[x].indexOf("/",0)<0)){
+  if((x.indexOf('=',0)<0)&&(x.indexOf(";",0)<0)&&(v[x].indexOf('=',0)<0)&&(v[x].indexOf(";",0)<0)){
+    mycookie+=x+"//"+v[x]+"//";
+    if(mycookie.length>1900){break;}	
+  }}
+}
+//alert(mycookie);  
+var pref="html5elizabotchung=";
+mycookie =pref+mycookie+"; expires=Fri, 3 Aug 2100 20:47:11 UTC; path=/";
+if(mycookie.length>(3900-cookie0.length)){alert("could not save, cookie too long");return;}
+document.cookie=mycookie;
+}
+function deletecookie(){
+var pref="html5elizabotchung=";
+document.cookie =pref+";expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/";
+}
+//readcookie();
+//savecookie();
+//deletecookie();
+	init();
+	//alert("okend"); 
+	
+  </script>
+ </BODY>
+</HTML>
