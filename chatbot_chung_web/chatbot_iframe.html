@@ -16,39 +16,40 @@
        <option id="segolene">5</option>
        <option id="marisol">6</option>
        <option id="chung">7</option>
-       <option id="mywebglflightspace">10</option>
+       <!--option id="mywebglflightspace">10</option>
        <option id="json_osmall_webglcarsimheight_shadow">11</option>
        <option id="mywebglflight_srtm">12</option>
-       <option id="forest_chung">13</option>
+       <option id="forest_chung">13</option-->
        <option id="chungkn1400">14</option>
        <option id="off">off</option>
     </select>
 <script>
 //document.getElementById('combo').focus();
 var url="https://836412ca327152736b662add58c465055422599d.googledrive.com/host/0B6GM9ay7ImZLM0xQVjFWSkliS0U/";
-url="https://chungkn1400.github.io/chatbot_chung_small/chatbot_chung_web/";
+//url="https://chungkn1400.github.io/chatbot_chung_small/chatbot_chung_web/";
 var url1="https://chungkn1400.github.io/json_osm_chung/json_osm_chung/";
 var url11="https://chungkn1400.github.io/mywebglflightspace/mywebglflightspace/";
 var url12="https://chungkn1400.github.io/mywebglflight/mywebglflight/";
+var url13="https://chungkn1400.github.io/forest_chung/forest_chung/";
 var url2="https://b3d8783ddc02a86af1ce60266a06c20f1a961f99.googledrive.com/host/0B6GM9ay7ImZLOXpiUkx5bFhacXc/";
 var icombo=4,perso="valerie";
 
 if(localStorage){
 var perso0=localStorage.getItem("chatbot_chung_small_perso");
 if(perso0){perso=perso0;}
-else{perso="chungkn1400";
-     if(localStorage){localStorage.setItem("chatbot_chung_small_perso","valerie");}}
+//else{perso="chungkn1400";
+//     if(localStorage){localStorage.setItem("chatbot_chung_small_perso","valerie");}}
 }
 if(perso=="off"){
    document.getElementById('ifram').src="";}
-else if(perso=="mywebglflightspace"){
+/*else if(perso=="mywebglflightspace"){
    document.getElementById('ifram').src=url11+perso+".html";}
 else if(perso=="json_osmall_webglcarsimheight_shadow"){
    document.getElementById('ifram').src=url1+perso+".html";}
 else if(perso=="mywebglflight_srtm"){
    document.getElementById('ifram').src=url12+perso+".html";}
 else if(perso=="forest_chung"){
-   document.getElementById('ifram').src=url12+perso+".html";}
+   document.getElementById('ifram').src=url13+perso+".html";} */
 else if(perso=="chungkn1400"){
    document.getElementById('ifram').src="https://www.reverbnation.com/widget_code/html_widget/artist_352350?autoplay=true";}//&widget_id=50&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit";}
 else{
