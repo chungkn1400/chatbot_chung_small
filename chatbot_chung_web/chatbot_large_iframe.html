@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<!--chatbot_iframe blogspot a program  by NGUYEN.Chung (freeware 2015) <br /-->
+<head>
+<title></title>
+<meta charset="utf-8">
+</head>
+<body>
+<iframe id="ifram" style="top:0px;left:0px;width:98%;height:600px;" src="" scrolling="no" >
+</iframe>
+    <select id="combo" onChange="subcombo();" onblur="tfocus=1;" onfocus="tfocus=0;">
+       <!--option id="segolene">5</option>
+       <option id="marisol">6</option-->
+       <option id="anne">anne</option>
+       <option id="carole">carole</option>
+       <option id="clementine">clementine</option>
+       <option id="elise">elise</option>
+       <option id="evie">evie</option>
+       <option id="helene">helene</option>
+       <option id="nathalie">nathalie</option>
+       <option id="sasha">sasha</option>
+       <option id="valerie">valerie</option>
+       <!--option id="mywebglflightspace">10</option>
+       <option id="json_olarge_webglcarsimheight_shadow">11</option>
+       <option id="mywebglflight_srtm">12</option>
+       <option id="forest_chung">13</option-->
+       <!--option id="chungkn1400">14</option>
+       <option id="off">off</option-->
+    </select>
+		<button id="quit"  onclick="subquit();">quit</button-->
+<script>
+		var wx= parseInt(window.innerWidth*0.98);
+        var wy= parseInt(window.innerHeight*0.97);
+		//wx=1000;
+		wx=Math.min(wx-330,wy)+230;  
+		wy=Math.min(wx-250,wy); 
+        document.getElementById("ifram").setAttribute("style",
+	         "top:0px;left:0px;width:"+wx+"px;height:"+wy+"px;");
+function subquit(){document.location.href="https://chungswebsite.blogspot.fr/";}
+//document.getElementById('combo').focus();
+var url="https://836412ca327152736b662add58c465055422599d.googledrive.com/host/0B6GM9ay7ImZLM0xQVjFWSkliS0U/";
+url="https://chungkn1400.github.io/chatbot_chung_large/chatbot_chung_web/";
+url="";
+var url1="https://chungkn1400.github.io/json_osm_chung/json_osm_chung/";
+var url11="https://chungkn1400.github.io/mywebglflightspace/mywebglflightspace/";
+var url12="https://chungkn1400.github.io/mywebglflight/mywebglflight/";
+var url13="https://chungkn1400.github.io/forest_chung/forest_chung/";
+var url2="https://b3d8783ddc02a86af1ce60266a06c20f1a961f99.googledrive.com/host/0B6GM9ay7ImZLOXpiUkx5bFhacXc/";
+var icombo=4,perso="valerie";
+
+if(localStorage){
+var perso0=localStorage.getItem("chatbot_chung_large_perso");
+if(perso0){perso=perso0;}
+else{perso="helene";}
+//     if(localStorage){localStorage.setItem("chatbot_chung_large_perso","valerie");}}
+}
+if(perso=="off"){
+   document.getElementById('ifram').src="";}
+/*else if(perso=="mywebglflightspace"){
+   document.getElementById('ifram').src=url11+perso+".html";}
+else if(perso=="json_olarge_webglcarsimheight_shadow"){
+   document.getElementById('ifram').src=url1+perso+".html";}
+else if(perso=="mywebglflight_srtm"){
+   document.getElementById('ifram').src=url12+perso+".html";}
+else if(perso=="forest_chung"){
+   document.getElementById('ifram').src=url13+perso+".html";} */
+else if(perso=="chungkn1400"){
+   document.getElementById('ifram').src="https://www.reverbnation.com/widget_code/html_widget/artist_352350?autoplay=false";}//&widget_id=50&pwc[included_songs]=1&pwc[photo]=0%2C1&pwc[size]=fit";}
+else{
+   document.getElementById('ifram').src=url+"chatbot_chung_large_"+perso+".html";
+}
+//if(localStorage){localStorage.setItem("chatbot_chung_large_perso",perso);}
+for(var i=0;i<20;i++){
+  if(document.getElementById('combo')[i]){
+    if(document.getElementById('combo')[i].id==perso){icombo=i;break;}}
+}
+document.getElementById('combo').selectedIndex=icombo;
+function subcombo(){
+icombo=document.getElementById('combo').selectedIndex;
+perso=document.getElementById('combo')[icombo].id;
+if(perso=="mywebglflightspace"){
+   document.getElementById('ifram').src=url2+"mywebglflightspace.html";}
+else if(perso=="json_olarge_webglcarsimheight_shadow"){
+   document.getElementById('ifram').src=url2+perso+".html";}
+else if(perso=="mywebglflight_srtm"){
+   document.getElementById('ifram').src=url2+perso+".html";}
+else if(perso=="forest_chung"){
+   document.getElementById('ifram').src=url2+perso+".html";}
+else if(perso=="chungkn1400"){
+   document.getElementById('ifram').src="https://www.reverbnation.com/widget_code/html_widget/artist_352350?autoplay=true";}
+else{
+   document.getElementById('ifram').src=url+"chatbot_chung_large_"+perso+".html";
+}
+if(localStorage){localStorage.setItem("chatbot_chung_large_perso",perso);}
+document.getElementById('ifram').focus();
+}
+</script>
+<!--iframe id="ifrm" style="top:0px;left:0px;width:320px;height:380px;" src="https://836412ca327152736b662add58c465055422599d.googledrive.com/host/0B6GM9ay7ImZLM0xQVjFWSkliS0U/chatbot_chung_large.html" ></iframe-->
+</body>
+</html>
