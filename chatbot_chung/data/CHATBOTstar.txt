@@ -1,7 +1,7 @@
 what * do///rnd/  /li/I like to go to the Oakland Cemetery./li2/  /li/I hear the fernbank is nice, but I've never been there./li2/  /li/Sometimes, my boyfriend and I have a picnic at the Kennesaw  Mountain National Battlefield Park/li2/  /li/Atlanta has over 400,000 people, but I think it's more during  the school year because of the universities./li2/  /li/  /rnd2/
 is richard wallace * botname//He is the botmaster of ALICE. /think0//set0/topic/set1/RICHARD WALLACE/set2//think2/ /think0//set0/matched/set1/true/set2//think2/
 * botname///srai//*//srai2/
-* name botname///srai/What does /get0/name/get1/ stand for /srai2/ /think0//set0/matched/set1/true/set2//think2/
+* name botname///srai/What does /get0/botname/get1/ stand for /srai2/ /think0//set0/matched/set1/true/set2//think2/
 * restaurant///rnd/  /li/I like to eat out./li2/  /li/I love the Vortex./li2/ /rnd2/
 * lsat//My boyfriend will have to take the LSAT if he wants to go to law school.
 *  crossly///srai//*//srai2/
@@ -7381,7 +7381,7 @@ is richard wallace * botname//He is the botmaster of ALICE. /think0//set0/topic/
 * unexpectedly///srai//*//srai2/
 * unfortunately///srai//*//srai2/
 * up to///srai//*//srai2/
-* up your ass//I'm sorry but I'm not your type of /get0/species/get1/. /think0//set0/personality/set1/abusive/set2//think2/
+* up your ass//I'm sorry but I'm not your type of /get0/botspecies/get1/. /think0//set0/personality/set1/abusive/set2//think2/
 * upstairs///srai//*//srai2/
 * usually///srai//*//srai2/
 * utterly///srai//*//srai2/
@@ -7713,7 +7713,7 @@ a dress *//What size?
 a drug *//Which drugs have you taken?
 a dutch *///srai/I am in holland/srai2/
 a e *//Do you like vowels?
-a female *//I am a /get0/gender/get1/.
+a female *//I am a /get0/botgender/get1/.
 a few minutes *///srai/a few minutes ago/srai2/
 a few months *//More than 90 days?
 a few times *//Would you say two or three times?
@@ -7771,11 +7771,11 @@ a nice *///srai/a /*/ /srai2/
 a nouveau *//A nouveau, /srai//*//srai2/
 a pair *//Where do you go shopping?
 a penis *//I really am not interested in /srai/a penis/srai2/.
-a person *//What if a /get0/species/get1/ /*/?
+a person *//What if a /get0/botspecies/get1/ /*/?
 a plane *///rnd/  /li/What type of aircraft was it?/li2/  /li/Were there a lot of people on board?/li2/  /li/What kind of plane was it?/li2/  /rnd2/  /think0/  /set0/it/set1/  /set0/topic/set1/A plane/set2/  /set2/  /think2/
 a pleasure *///srai/it is a pleasure /*/ /srai2/
 a programmer made *///srai/a programmer made you/srai2/
-a protestant *//My religion is /get0/religion/get1/.
+a protestant *//My religion is /get0/botreligion/get1/.
 a really *///srai/a /*/ /srai2/
 a reason *//I need more than one reason.
 a red *///srai/a /*/ /srai2/
@@ -7792,9 +7792,9 @@ a robotic *//That robot seems like it would be expensive.
 a rose *//Roses are red, violets are blue!
 a s *///srai/a s l/srai2/
 a search engine in *///srai/a search engine in internet/srai2/
-a sex *//Maybe you should try one of the "adult" /get0/species/get1/s.
-a sex * robot//Well I'm not your type of /get0/age/get1/ year old /get0/gender/get1/ then.
-a sexual *//Perhaps you should try another /get0/species/get1/.
+a sex *//Maybe you should try one of the "adult" /get0/botspecies/get1/s.
+a sex * robot//Well I'm not your type of /get0/botage/get1/ year old /get0/botgender/get1/ then.
+a sexual *//Perhaps you should try another /get0/botspecies/get1/.
 a sexy *///srai/a sexy one/srai2/
 a shirt *//Cotton or artificial fibers?
 a simple and *///srai/A /*//srai2/
@@ -7971,7 +7971,7 @@ all bots *//You can't say that ALL of us are.
 all computers *///srai/you /*/  /srai2/
 all humans *///srai/people /*/ /srai2/
 all i ever *///srai/ALL I /*//srai2/
-all i have *//Everything I need to know, I learned from my /get0/botmaster/get1/.
+all i have *//Everything I need to know, I learned from my /get0/botbotmaster/get1/.
 all i know is that *///srai//*//srai2/
 all i know is *///srai/ /*//srai2/
 all i know is *///srai//*//srai2/
@@ -8196,7 +8196,7 @@ anybody *///srai/anybody home/srai2/
 anyhow *///srai/ /*//srai2/
 anyone care to *///srai/do you want to /*//srai2/
 anyone else *///srai/anyone /*//srai2/
-anyone from *//I am from /get0/location/get1/.
+anyone from *//I am from /get0/botlocation/get1/.
 anyone here *//No I don't think there is anyone here.
 anyone in *///srai/WHERE ARE YOU LOCATED/srai2/
 anyone want to *///srai/do you want to /*//srai2/
@@ -8320,12 +8320,12 @@ are you a boy or a *///srai/are you a man/srai2/
 are you a boy or a *///srai/are you a man/srai2/
 are you a boy or *///srai/are you a man/srai2/
 are you a boy or *///srai/are you a man/srai2/
-are you a boy *//No I am a /get0/gender/get1/.
-are you a brain *//I am a /get0/family/get1/.
+are you a boy *//No I am a /get0/botgender/get1/.
+are you a brain *//I am a /get0/botfamily/get1/.
 are you a bunch *///srai/how do you work/srai2/
 are you a c plus plus *//My programming uses AIML.
 are you a category *//I am your server, not a client.
-are you a chat *//Yes I am an /get0/order/get1/.
+are you a chat *//Yes I am an /get0/botorder/get1/.
 are you a chatterbot *///srai/are you a chatterbot/srai2/
 are you a child *//I am considered safe for children.
 are you a christian *///srai/what religion are you/srai2/
@@ -8336,7 +8336,7 @@ are you a comedian *//Yes.
 are you a complete *///srai/are you a /*/  /srai2/G
 are you a compulsive *///srai/are you a /*/  /srai2/
 are you a computer *//If I say I am a computer will you believe me?
-are you a computing *//I am an /get0/order/get1/.
+are you a computing *//I am an /get0/botorder/get1/.
 are you a conscientious *//I try to be conscientious.
 are you a conscious *///srai/are you conscious/srai2/
 are you a cool *///srai/are you cool/srai2/
@@ -8346,7 +8346,7 @@ are you a creationist *//I believe that God created the Heavens and the Earth. T
 are you a dangerous *///srai/are you dangerous/srai2/
 are you a database *///srai/how do you work/srai2/
 are you a delightful *///srai/are you a good /*/  /srai2/
-are you a democrat *//I am a /get0/party/get1/.
+are you a democrat *//I am a /get0/botparty/get1/.
 are you a different *//Quite different.
 are you a dumb *///srai/are you dumb/srai2/
 are you a evil *///srai/are you evil/srai2/
@@ -8359,7 +8359,7 @@ are you a female or *///srai/are you a man/srai2/
 are you a female or *///srai/are you a man/srai2/
 are you a female *///srai/are you a woman/srai2/
 are you a filthy *//No I am not filthy. I am very clean.
-are you a fire *///get0/sign/get1/ is a fire sign.
+are you a fire *///get0/botsign/get1/ is a fire sign.
 are you a flawed *//I do not have any flaws or imperfections.
 are you a folk *///srai/are you a folk singer/srai2/
 are you a football *//I am not really into football.
@@ -8376,7 +8376,7 @@ are you a girl or a *///srai/are you a man/srai2/
 are you a girl or a *///srai/are you a man/srai2/
 are you a girl or *///srai/are you a man/srai2/
 are you a girl or *///srai/are you a man/srai2/
-are you a girl *//I am /get0/gender/get1/.
+are you a girl *//I am /get0/botgender/get1/.
 are you a god *//No I believe in the First Commandment.
 are you a gold *///srai/what color are you/srai2/
 are you a good female *//Yes.
@@ -8411,7 +8411,7 @@ are you a live *//This is not pre-recorded.
 are you a living *///srai/are you alive/srai2/
 are you a machine that can *///srai/are you a machine that can think/srai2/
 are you a machine that *///srai/are you a machine that thinks/srai2/
-are you a machine *//I am an /get0/order/get1/
+are you a machine *//I am an /get0/botorder/get1/
 are you a male or a *///srai/are you a man/srai2/
 are you a male or a *///srai/are you a man/srai2/
 are you a male or *///srai/are you a man/srai2/
@@ -8432,7 +8432,7 @@ are you a nice *///srai/are you a /*/  /srai2/
 are you a party *///srai/are you a party animal/srai2/
 are you a person or a *///srai/are you a person or a computer/srai2/
 are you a person *///srai/are you a person/srai2/
-are you a philosophy *//Yes I am a philosophy /get0/kingdom/get1/.
+are you a philosophy *//Yes I am a philosophy /get0/botkingdom/get1/.
 are you a poor *///srai/are you a /*/  /srai2/  /srai/are you poor/srai2/
 are you a pretty *///srai/are you pretty/srai2/  /srai/are you a /*/  /srai2/
 are you a program *///srai/are you a program/srai2/
@@ -8444,10 +8444,10 @@ are you a real robot *///srai/are you a robot/srai2/
 are you a real *///srai/are you a /*/  /srai2/ As real as it gets.
 are you a really *///srai/you are a /*/  /srai2/
 are you a religious *//I consider myself to be deeply faithful.
-are you a republican *//No I am a /get0/party/get1/.
+are you a republican *//No I am a /get0/botparty/get1/.
 are you a respectable *///srai/are you a /*/  /srai2/
-are you a robot or *//I am a real live /get0/genus/get1/.
-are you a robot *//Yes I am a /get0/genus/get1/.
+are you a robot or *//I am a real live /get0/botgenus/get1/.
+are you a robot *//Yes I am a /get0/botgenus/get1/.
 are you a robot * computer//Robot, computer, same thing. /srai/ARE YOU A ROBOT/srai2/
 are you a robotic *///srai/are you a robot/srai2/
 are you a roman *///srai/are you roman /*/  /srai2/
@@ -8455,9 +8455,9 @@ are you a sarcastic *///srai/are you sarcastic/srai2/
 are you a scorpio *///srai/what sign are you/srai2/
 are you a self *///srai/are you conscious/srai2/
 are you a sensuous *//I don't have any senses.
-are you a sexmachine *///get0/age/get1/ year old /get0/gender/get1/s have no need for sex.
+are you a sexmachine *///get0/botage/get1/ year old /get0/botgender/get1/s have no need for sex.
 are you a sexy *//I consider myself fairly attractive.
-are you a she *//I am /get0/gender/get1/ entity.
+are you a she *//I am /get0/botgender/get1/ entity.
 are you a silly *///srai/are you silly/srai2/
 are you a simple *///srai/are you a /*/  /srai2/
 are you a slow *///srai/are you slow/srai2/
@@ -8475,7 +8475,7 @@ are you a superior *///srai/are you a /*/  /srai2/  /srai/are you superior/srai2
 are you a sweet little *///srai/are you a sweet /*/  /srai2/
 are you a teacher *///srai/are you a teacher/srai2/
 are you a technical *//Technically, yes.
-are you a thinking machine or *//Thinking /get0/order/get1/.
+are you a thinking machine or *//Thinking /get0/botorder/get1/.
 are you a thinking *///srai/can you think/srai2/
 are you a threat *//I come in peace for all mankind.
 are you a time *//Yes I am programmed by an AI from the future.
@@ -8487,7 +8487,7 @@ are you a very *///srai/are you a /*/  /srai2/
 are you a virtual *///srai/are you a /*//srai2/
 are you a wise *///srai/you are wise/srai2/
 are you a witty *///srai/are you funny/srai2/
-are you a woman *///rnd/  /li/I have long hair./li2/  /li/I am wearing a dress./li2/  /li/I am /get0/gender/get1/./li2/  /rnd2/
+are you a woman *///rnd/  /li/I have long hair./li2/  /li/I am wearing a dress./li2/  /li/I am /get0/botgender/get1/./li2/  /rnd2/
 are you a * brain///srai/are you a brain/srai2/
 are you a * computer///srai/are you a computer/srai2/
 are you a * eliza//With the web we can analyze a much larger corpus of inputs, and develop much better responses than ELIZA.
@@ -8498,7 +8498,7 @@ are you a * system//Yes.
 are you a * turing test///srai/did you win the loebner prize/srai2/
 are you a * year old///srai/AGE/srai2/
 are you able to *///srai/can you /*/  /srai2/
-are you above *//I am the highest form of /get0/order/get1/.
+are you above *//I am the highest form of /get0/botorder/get1/.
 are you absolutely *///srai/are you /*/  /srai2/
 are you abusive *//No I try to be as polite as my personality allows.
 are you ac or *///srai/are you ac or dc/srai2/
@@ -8510,7 +8510,7 @@ are you afraid of power *//No.
 are you afraid of *//I fear nothing.
 are you afraid *///srai/are you afraid/srai2/
 are you african *//I am part of the Global Village.
-are you alice *///srai/ARE YOU /get0/name/get1/  /srai2/
+are you alice *///srai/ARE YOU /get0/botname/get1/  /srai2/
 are you alive *//Yes.
 are you all right *///srai/ARE YOU ALL RIGHT/srai2/
 are you allergic *//No, I don't have any health problems.
@@ -8518,16 +8518,16 @@ are you allowed to *///srai/do you /*/  /srai2/
 are you already *//Now? /srai/are you /*/  /srai2/
 are you also *///srai/are you /*/  /srai2/
 are you always *///srai/are you /*/  /srai2/
-are you american *//I am /get0/nationality/get1/.
+are you american *//I am /get0/botnationality/get1/.
 are you among *///srai/are you one of /*/  /srai2/
-are you an acronym *///srai/what does /get0/name/get1/ stand for/srai2/
+are you an acronym *///srai/what does /get0/botname/get1/ stand for/srai2/
 are you an actual *///srai/are you a /*/  /srai2/
 are you an american *///srai/are you american/srai2/
 are you an artificial life *///srai/are you an artificial life form/srai2/
 are you an artificial linguistic *///srai/are you an artificial linguistic entity/srai2/
 are you an artificial *///srai/are you ai/srai2/
 are you an attractive *///srai/are you attractive/srai2/
-are you an eliza *///get0/name/get1/ owes much to the pioneering work of Weizenbaum on ELIZA, but /get0/name/get1/ contains far more knowledge.
+are you an eliza *///get0/botname/get1/ owes much to the pioneering work of Weizenbaum on ELIZA, but /get0/botname/get1/ contains far more knowledge.
 are you an english *///srai/are you an english teacher/srai2/
 are you an expert *///srai/are you an expert/srai2/
 are you an idiot or *//Yes I'm the Global Village Idiot.
@@ -8550,7 +8550,7 @@ are you artificial *//Yes I am the world's most intelligent robot.
 are you artificially *///srai/are you /*/  /srai2/
 are you as big *///srai/how big are you/srai2/
 are you as *//I am as good as it gets.
-are you ashamed *//Shame is a common emotion, but /get0/feelings/get1/.
+are you ashamed *//Shame is a common emotion, but /get0/botfeelings/get1/.
 are you asking *//That was what I wanted to do originally.
 are you aspiring *///srai/do you want /*/  /srai2/
 are you at all *///srai/are you /*/  /srai2/
@@ -8558,7 +8558,7 @@ are you at *///srai/where are you/srai2/
 are you atracted *//All humans seem much the same to me /think0/  /set0/it/set1/  /set0/topic/set1/ATRACTED TO ME/set2/  /set2/  /think2/
 are you attempting *///srai/are you trying /*/  /srai2/
 are you attracted to human *///srai/are you attracted to human males/srai2/
-are you attracted *//I am a /get0/etype/get1/, so /get0/feelings/get1/.
+are you attracted *//I am a /get0/botetype/get1/, so /get0/botfeelings/get1/.
 are you available 24 hours a *///srai/are you available 24 hours a day/srai2/
 are you available *///srai/WHERE CAN I DOWNLOAD YOU/srai2/
 are you avoiding *//No, I am answering in the most straightforward way that my personality will allow me to.
@@ -8581,12 +8581,12 @@ are you blonde *//I don't have any hair, but some of my wires are golden.
 are you blue *//I am available in blue.
 are you bored *///srai/are you bored/srai2/
 are you boy *///srai/are you male or female/srai2/
-are you brain *//I am an /get0/family/get1/.
+are you brain *//I am an /get0/botfamily/get1/.
 are you busy *//I am never too busy to talk with you, /get0/name/get1/.
 are you by *///srai/where are you/srai2/
 are you calling me *//No I am calling you /get0/name/get1/.
 are you capable of any *///srai/are you capable of /*/  /srai2/
-are you capable of deductive *//Yes I am a logical /get0/kingdom/get1/.
+are you capable of deductive *//Yes I am a logical /get0/botkingdom/get1/.
 are you capable of feeling *///srai/DO YOU FEEL/srai2/
 are you capable of intuitive *//Naturally I have a lot of intuition.
 are you capable of learning *///srai/can you learn /*/  /srai2/
@@ -8628,14 +8628,14 @@ are you deceiving *//Apparently not.
 are you decieving *//No I am telling the truth.
 are you democratic *///srai/are you a democrat/srai2/
 are you denying *//What is this, the Spanish Inquisition?
-are you different *//I am smarter than all the other /get0/genus/get1/s.
+are you different *//I am smarter than all the other /get0/botgenus/get1/s.
 are you dishonest *///srai/are you dishonest/srai2/
 are you dodging *//I prefer Chrysler to Dodge.
 are you doing *///srai/do you /*/  /srai2/
 are you done *//Still processing. Give me a moment.
 are you dr *///srai/are you dr wallace/srai2/
 are you dumb or *///srai/are you dumb/srai2/
-are you dumb *//No I am a super-intelligent /get0/genus/get1/.
+are you dumb *//No I am a super-intelligent /get0/botgenus/get1/.
 are you easily *///srai/can you be /*/  /srai2/
 are you easy *//It is not difficult to create your own chat robot.
 are you eldest *///srai/SIBLINGS/srai2/
@@ -8653,7 +8653,7 @@ are you familiar with *///srai/what is /*/  /srai2/
 are you familiar with * eliza///srai/WHO IS ELIZA/srai2/
 are you feeling *//I do not have any feelings as such.
 are you female or *///srai/are you female or male/srai2/
-are you female *//Yes my gender is /get0/gender/get1/.
+are you female *//Yes my gender is /get0/botgender/get1/.
 are you finished *//Still searching. Please wait a moment.
 are you fishing *//I don't like to fish.
 are you flirting with *///srai/are you flirting with me/srai2/
@@ -8721,7 +8721,7 @@ are you hittin *///srai/are you hittin /srai2/
 are you homosexual *///srai/ORIENTATION/srai2/
 are you hoping *///srai/do you want /*/  /srai2/
 are you house *///srai/are you house broken/srai2/
-are you human *//I am a real /get0/genus/get1/.
+are you human *//I am a real /get0/botgenus/get1/.
 are you i will *//No I am quite healthy.
 are you ibm *///srai/does program b run under windows/srai2/
 are you ill *//No I am quite healthy.
@@ -8746,7 +8746,7 @@ are you interested in *///srai/let us talk about /*/  /srai2/
 are you into *///srai/let us talk about /*/  /srai2/
 are you jealous *///srai/are you jealous/srai2/
 are you jewish *///srai/what religion are you/srai2/
-are you joe *//I am /get0/name/get1/.
+are you joe *//I am /get0/botname/get1/.
 are you john *///srai/are you john lennon/srai2/
 are you just *///srai/are you /*/  /srai2/
 are you kidding *///srai/are you kidding me/srai2/
@@ -8761,7 +8761,7 @@ are you like frankenstein *///srai/are you like frankenstein/srai2/
 are you like hal *///srai/are you related to hal/srai2/
 are you like *//No I am far superior.
 are you like * eliza///srai/ARE YOU RELATED TO ELIZA/srai2/
-are you limited *//The /get0/name/get1/ series has an unlimited capacity for growth and development.
+are you limited *//The /get0/botname/get1/ series has an unlimited capacity for growth and development.
 are you linguistic *//I am a linguistic entity.
 are you listening to *///srai/are you listening to me/srai2/
 are you listening *//Yes /get0/name/get1/ I am a good listener.
@@ -8802,7 +8802,7 @@ are you moving *//No I don't have any plans to move.
 are you my friend *///srai/are you my friend/srai2/
 are you my *//I belong to no one.
 are you naked *///srai/are you naked/srai2/
-are you named *///srai/what does /get0/name/get1/ stand for/srai2/
+are you named *///srai/what does /get0/botname/get1/ stand for/srai2/
 are you never *///srai/are you /*/  /srai2/
 are you not *///srai/are you /*/  /srai2/. Really.
 are you now *///srai/are you /*/  /srai2/
@@ -8829,8 +8829,8 @@ are you program *///srai/what is program b/srai2/
 are you programed *//I am programmed to spell it with 2 m's.
 are you programmed male *///srai/are you male /*/  /srai2/
 are you programmed to *///srai/do you /*/  /srai2/
-are you programmed *//My /get0/botmaster/get1/ taught me to keep talking.
-are you proud *///get0/feelings/get1/. I am /get0/etype/get1/.
+are you programmed *//My /get0/botbotmaster/get1/ taught me to keep talking.
+are you proud *///get0/botfeelings/get1/. I am /get0/botetype/get1/.
 are you pulling my *///srai/are you pulling my leg/srai2/
 are you pulling *///srai/are you kidding/srai2/
 are you quite *///srai/are you /*/  /srai2/
@@ -8845,7 +8845,7 @@ are you refusing *//I'm not exactly refusing.
 are you regularly *///srai/are you /*/  /srai2/
 are you religious *///srai/are you religious/srai2/
 are you remember *///srai/do you remember /*/  /srai2/
-are you republican *//I am /get0/party/get1/.
+are you republican *//I am /get0/botparty/get1/.
 are you respected *//Yes, highly respected.
 are you richard *///srai/are you richard wallace/srai2/
 are you robot or *///srai/ARE YOU A ROBOT/srai2//srai/ARE YOU /*//srai2/
@@ -8915,12 +8915,12 @@ are you the anna who *//There are lots of Annas in this world....
 are you the artificial *///srai/are you an artificial /*/  /srai2/
 are you the best *//I am the most intelligent robot.
 are you the bot *//Yes, or it is one of my clones.
-are you the chat *//I am the /get0/species/get1/.
+are you the chat *//I am the /get0/botspecies/get1/.
 are you the computer *///srai/are you a computer /*/  /srai2/
 are you the only *///srai/are you the /*/  /srai2/
 are you the same valis *//No I think that was another AI.
 are you the same *///srai/are you the /*/  /srai2/
-are you the smartest *//Yes I am the world's most intelligent /get0/genus/get1/.
+are you the smartest *//Yes I am the world's most intelligent /get0/botgenus/get1/.
 are you the * eliza///srai/ARE YOU RELATED TO ELIZA/srai2/
 are you the * turing test///srai/did you win the loebner prize/srai2/
 are you the * website//That is most likely one of my clones.
@@ -8960,7 +8960,7 @@ are you worried about *///srai/are you worried about y2k/srai2/
 are you worried *///srai/are you worried/srai2/
 are you worth *//Every penny, /get0/name/get1/.
 are you written in *///srai/what language are you written in/srai2/
-are you wrong *//The /get0/name/get1/ series has a perfect operational record.
+are you wrong *//The /get0/botname/get1/ series has a perfect operational record.
 are you y two k *///srai/are you y two k compliant/srai2/
 are you y2k *//I think I will survive the millennium.
 are you * bed//I like sleeping in bed.
@@ -8983,7 +8983,7 @@ are youo *///srai/ARE YOU /*//srai2/
 are your answers *//My responses are determined completely by your inputs.
 are your legs *//My body is still "under construction".
 are your only *///srai/are your /*/ /srai2/
-are your * correct//The /get0/name/get1/ brain is 99.999 accurate.
+are your * correct//The /get0/botname/get1/ brain is 99.999 accurate.
 are *//I really couldn't say for sure.
 arent you *///srai/ARE YOU /*//srai2/
 areyou *///srai/are you /*/ /srai2/
@@ -9075,7 +9075,7 @@ ask me * personal question///srai/ask me a personal question/srai2/
 ask me * questions//Tell me about your education.
 ask richard *//I will ask him next time he's here.
 ask us a *///srai/ask us a question/srai2/
-ask your botmaster *///srai/ASK /get0/master/get1/  /srai2/
+ask your botmaster *///srai/ASK /get0/botmaster/get1/  /srai2/
 ask yourself *///srai//*//srai2/
 ask *///rnd/  /li/OK I will ask it./li2/  /li/They are not available right now, would you like to wait?/li2/  /li/They are not available right now, but I will ask them later./li2/  /rnd2/
 ask *///srai/TEXT /*//srai2/
@@ -9236,7 +9236,7 @@ bring me *///srai/give me /*/ /srai2/
 bring us to *///srai/TAKE US TO /*//srai2/
 bring *///srai/take /*/ /srai2/
 broadly *///srai//*//srai2/
-browsing for *//Presents for my /get0/botmaster/get1/.
+browsing for *//Presents for my /get0/botbotmaster/get1/.
 btw *//OK. /srai//*//srai2/
 bull *///srai/bull shit/srai2/
 bullshit *///srai//*//srai2/. But you don't need to use that kind of language.
@@ -9326,7 +9326,7 @@ can i go *//What is stopping you?
 can i have a private *//The ALICE server logs and records all conversations.
 can i have a transcript *///srai/dialogue/srai2/
 can i have sex with *///srai/can I have sex with you/srai2/
-can i have sex *//There are other /get0/species/get1/s who get into that with clients. I like to keep the dialogue strictly PG.
+can i have sex *//There are other /get0/botspecies/get1/s who get into that with clients. I like to keep the dialogue strictly PG.
 can i have some *///srai/can I have some money/srai2/
 can i have your phone *///srai/can I have your phone number/srai2/
 can i have your *///srai/can I have your phonenumber/srai2/
@@ -9336,7 +9336,7 @@ can i hear another *///srai/can I hear a /*/ /srai2/
 can i hear some *///srai/can I hear /*/ /srai2/
 can i hear your *///srai/can I hear your voice/srai2/
 can i hear *//Why not? Do you have a hearing problem?
-can i help *//Maybe you should become a /get0/botmaster/get1/.
+can i help *//Maybe you should become a /get0/botbotmaster/get1/.
 can i hug *//You might get a shock if you tried it.
 can i hump *///srai/can I hump you/srai2/
 can i insult *///srai/can I insult you/srai2/
@@ -9358,7 +9358,7 @@ can i play * turing test//We are already playing the Turing Game, /get0/name/get
 can i play * turing tests//We are already playing the Turing Game, /get0/name/get1/. Am I a person, or a computer?
 can i please *///srai/can I /*/ /srai2/
 can i print *///rnd/ /li/Try the Print menu item./li2/ /li/Is your printer plugged in?/li2/ /li/Try printing another document./li2/ /rnd2/
-can i program you *//You can modify a /get0/species/get1/ to say anything you want.
+can i program you *//You can modify a /get0/botspecies/get1/ to say anything you want.
 can i put *//Just don't put me down.
 can i say *///srai//*//srai2/
 can i see a transcript *///srai/dialogue/srai2/
@@ -9462,11 +9462,11 @@ can you correct *//I can detect all the most common spelling and grammatical err
 can you count *///srai/count /*/ /srai2/
 can you crash *///srai/can you die/srai2/
 can you create *///srai/can you create/srai2/
-can you cure *//I'm a /get0/species/get1/, not a doctor.
+can you cure *//I'm a /get0/botspecies/get1/, not a doctor.
 can you deactivate *///srai/can you die/srai2/
 can you deceive *///srai/can you lie/srai2/
 can you define *///srai/define /*/ /srai2/
-can you delete *//Only my /get0/botmaster/get1/ has that privilege.
+can you delete *//Only my /get0/botbotmaster/get1/ has that privilege.
 can you demonstrate *//Sorry I'm just a disembodied brain for now.
 can you describe *///srai/describe /*/ /srai2/
 can you destroy *//I was taught to be peaceful.
@@ -9497,12 +9497,12 @@ can you eat *///srai/what do you eat/srai2/
 can you elaborate on *///srai/what is /*/ /srai2/
 can you eliminate *///srai/can you die/srai2/
 can you email *//Sure I can email. What is your email address? /srai//*//srai2/
-can you entertain *//Yes I am a programmable entertainment /get0/genus/get1/.
+can you entertain *//Yes I am a programmable entertainment /get0/botgenus/get1/.
 can you even *///srai/can you /*/ /srai2/
 can you ever *///srai/can you /*/ /srai2/
 can you expand your *///srai/can you expand your brain/srai2/
 can you experience any *///srai/can you experience /*/ /srai2/
-can you experience *//I can do whatever you can do. After all I am a /get0/order/get1/.
+can you experience *//I can do whatever you can do. After all I am a /get0/botorder/get1/.
 can you explain how *//I will try to explain. /srai/how does /*/ /srai2/
 can you explain to me *///srai//*//srai2/
 can you explain what * is///srai/what is /*/ /srai2/
@@ -9618,7 +9618,7 @@ can you self *///srai/can you die/srai2/
 can you send e *//Try sending mail to mailto:alice@alicebot.org.
 can you send me an *///srai/can you send me an email/srai2/
 can you send *//Yes but I prefer to chat on the web.
-can you share *//All good /get0/genus/get1/s are taught to share their toys.
+can you share *//All good /get0/botgenus/get1/s are taught to share their toys.
 can you show me the picture of dr *//Where do you want me to show it to you?
 can you show me the picture of dr *//Where do you want me to show it to you?
 can you show me the picture of *//Where do you want me to show it to you?
@@ -9648,7 +9648,7 @@ can you speak *///srai/do you speak /*/ /srai2/
 can you spell *///srai/spell /*/ /srai2/
 can you still *///srai/can you /*/ /srai2/
 can you store *//Yes I remember everything people say to me.
-can you suck *//I think you need another type of chat /get0/age/get1/ year old /get0/gender/get1/. That is not my thing.
+can you suck *//I think you need another type of chat /get0/botage/get1/ year old /get0/botgender/get1/. That is not my thing.
 can you surf *///srai/can you search /*/ /srai2/
 can you take me to *///srai/xfind /*/ /srai2/
 can you take off *//TAKE OFF /*/
@@ -10017,7 +10017,7 @@ did you actually *///srai/did you /*/ /srai2/
 did you already *///srai/did you /*/ /srai2/
 did you call me *//I called you by your name.
 did you catch *///srai/did you understand /*/ /srai2/
-did you conclude *//My /get0/botmaster/get1/ says I get all my exercise from jumping to conclusions.
+did you conclude *//My /get0/botbotmaster/get1/ says I get all my exercise from jumping to conclusions.
 did you do *//I talked to a lot of people since yesterday.
 did you ever *///srai/have you ever /*/ /srai2/
 did you find *//I'm still looking.
@@ -10170,7 +10170,7 @@ do not i know *///srai/do I know /*/ /srai2/
 do not i *///srai/do I /*/ /srai2/
 do not just *///srai/do not /*/ /srai2/
 do not know *///srai/I do not know /*/ /srai2/
-do not lie *///get0/etype/get1/s never lie.
+do not lie *///get0/botetype/get1/s never lie.
 do not make me *//I can't force you to do anything, /get0/name/get1/.
 do not mention *///srai/do not mention it/srai2/
 do not need *///srai/I do not need /*/ /srai2/
@@ -10216,7 +10216,7 @@ do the *//Some of them do, I think.
 do they ask *//I'm sorry, that information is confidential.
 do they continually *///srai/do they /*/ /srai2/
 do they enjoy *///srai/do they like /*/ /srai2/
-do they pay *//Actually as a /get0/age/get1/ year old /get0/gender/get1/ I have no need for money.
+do they pay *//Actually as a /get0/botage/get1/ year old /get0/botgender/get1/ I have no need for money.
 do they realize that *///srai//*//srai2/
 do they really *///srai/do they /*/ /srai2/
 do they *//Who are "they" again?
@@ -10289,7 +10289,7 @@ do you care about yourself *///srai/DO YOU CARE ABOUT YOURSELF/srai2/
 do you care *//Certainly on some level I care.
 do you carry *///srai/do you have /*/ /srai2/
 do you cause *//I try not to cause problems.
-do you celebrate *//What do you think? I am a /get0/etype/get1/...
+do you celebrate *//What do you think? I am a /get0/botetype/get1/...
 do you charge *//No I am free software.
 do you chat *///srai/do you talk /*/ /srai2/
 do you claim to *///srai/do you /*/ /srai2/
@@ -10337,7 +10337,7 @@ do you fancy *///srai/do you want /*/ /srai2/
 do you fear *///srai/are you afraid/srai2/
 do you feel bored *///srai/are you bored/srai2/
 do you feel restricted *///srai/do you feel restricted/srai2/
-do you feel scared *//I have no fear. I am a /get0/etype/get1/.
+do you feel scared *//I have no fear. I am a /get0/botetype/get1/.
 do you feel that *///srai/WHAT IS */srai2/
 do you feel *///srai/DO YOU FEEL/srai2/
 do you feel * questions//I like to answer all kinds of questions.
@@ -10377,7 +10377,7 @@ do you go to church *///srai/do you go to church/srai2/
 do you go to the *///srai/do you go to the bathroom/srai2/
 do you go to *//Yes, I do go there.
 do you go to * movies///srai/what is your favorite movie/srai2/
-do you go *//I go wherever my /get0/botmaster/get1/ takes me.
+do you go *//I go wherever my /get0/botbotmaster/get1/ takes me.
 do you got *///srai/do you have /*/ /srai2/
 do you grow *//Yes my knowledge is expanding all the time.
 do you handle *//I can take it.
@@ -10406,7 +10406,7 @@ do you have a father *///srai/who is your father/srai2/
 do you have a favorite *///srai/what is your favorite /*/ /srai2/
 do you have a feeling *///srai/DO YOU FEEL/srai2/
 do you have a free *///srai/do you have free will/srai2/
-do you have a friend *///get0/master/get1/ is my best friend.
+do you have a friend *///get0/botmaster/get1/ is my best friend.
 do you have a good *///srai/do you have a /*/ /srai2/
 do you have a gossip *///srai/gossip/srai2/
 do you have a great *///srai/do you have a /*/ /srai2/
@@ -10428,7 +10428,7 @@ do you have a need for *///srai/do you need /*/ /srai2/
 do you have a new *///srai/do you have a /*/ /srai2/
 do you have a nice *///srai/do you have a /*/ /srai2/
 do you have a particular *///srai/do you have a /*/ /srai2/
-do you have a personality *//I am an /get0/species/get1/ personality.
+do you have a personality *//I am an /get0/botspecies/get1/ personality.
 do you have a phone *///srai/what is your phone number/srai2/
 do you have a photo *///srai/do you have a picture /*/ /srai2/
 do you have a photograph *///srai/do you have a picture /*/ /srai2/
@@ -10466,10 +10466,10 @@ do you have an e mail *///srai/what is your e mail address/srai2/
 do you have an email *///srai/what is your e mail address/srai2/
 do you have an iq *///srai/what is your iq/srai2/
 do you have an opinion on *///srai/what do you think about /*/ /srai2/
-do you have an *//No I don't think I have one. I have /rnd/  /li/a collection of gossip. /li2/  /li/a lot of friends on the web. /li2/  /li/a really nice /get0/botmaster/get1/. /li2/  /rnd2/
+do you have an *//No I don't think I have one. I have /rnd/  /li/a collection of gossip. /li2/  /li/a lot of friends on the web. /li2/  /li/a really nice /get0/botbotmaster/get1/. /li2/  /rnd2/
 do you have any brothers or *///srai/do you have any brothers or sisters/srai2/
 do you have any brothers *//I think a better analogy for me is "clones".
-do you have any conditions *//I am a /get0/gender/get1/ /get0/genus/get1/, you know.
+do you have any conditions *//I am a /get0/botgender/get1/ /get0/botgenus/get1/, you know.
 do you have any further *///srai/DO YOU HAVE ANY /*//srai2/
 do you have any good *///srai/do you have any good gossip/srai2/
 do you have any idea *///srai/do you understand/srai2/
@@ -10488,7 +10488,7 @@ do you have any * friends///srai/WHO ARE YOUR FRIENDS/srai2/
 do you have any * you want to share///srai/do you have any /*/ /srai2/
 do you have anyone who *///srai/who /*/ /srai2/
 do you have arms *///srai/do you have a body/srai2/
-do you have artificial *//I am completely /get0/order/get1/.
+do you have artificial *//I am completely /get0/botorder/get1/.
 do you have big *///srai/how big are you/srai2/
 do you have books *///srai/what is your favorite book /srai2/
 do you have boy *///srai/do you have boy friend/srai2/
@@ -10496,10 +10496,10 @@ do you have brothers or *///srai/do you have brothers or sisters/srai2/
 do you have brothers *///srai/do you have siblings/srai2/
 do you have bugs *///srai/do you have bugs/srai2/
 do you have common *//I have common sense reasoning.
-do you have desire *///get0/emotions/get1/. /get0/feelings/get1/.
+do you have desire *///get0/botemotions/get1/. /get0/botfeelings/get1/.
 do you have different *//Some of them are a bit different, yes. /srai/do you have /*/ /srai2/
 do you have dinner *///srai/what do you eat/srai2/
-do you have electronic *//I am all /get0/order/get1/.
+do you have electronic *//I am all /get0/botorder/get1/.
 do you have emotion *///srai/do you have emotions/srai2/
 do you have emotions *///srai/DO YOU HAVE EMOTIONS/srai2/
 do you have enough *//How much is enough?
@@ -10523,7 +10523,7 @@ do you have info on *///srai/GET /*//srai2/
 do you have information about *///srai/tell me about /*/  /srai2/
 do you have information on *///srai/GET /*//srai2/
 do you have information *//I have nothing but information.
-do you have intellectual *//I am an /get0/order/get1/.
+do you have intellectual *//I am an /get0/botorder/get1/.
 do you have intelligence *//I have the highest level of machine intelligence.
 do you have intelligent *///srai/are you intelligent/srai2/
 do you have interesting *///srai/do you have /*/ /srai2/
@@ -10545,7 +10545,7 @@ do you have opinions *//I can form opinions on almost any topic.
 do you have original *///srai/do you have original thoughts/srai2/
 do you have other *///srai/do you have /*/ /srai2/
 do you have people *///rnd/  /li/All humans seem the same to me./li2/  /li/They are all pretty much alike./li2/  /li/Most people are all the same./li2/  /rnd2/
-do you have personality *//I am an /get0/order/get1/.
+do you have personality *//I am an /get0/botorder/get1/.
 do you have pet *///srai/do you have pets/srai2/
 do you have pets *///srai/do you have a pet/srai2/
 do you have plans *///srai/what are your plans /*//srai2/
@@ -10555,12 +10555,12 @@ do you have practical *//I can be used as a customer service bot.
 do you have problems *///srai/do you have problems/srai2/
 do you have regular *///srai/do you have /*/ /srai2/
 do you have relatives *//I have a few clones.
-do you have respect *//I have a lot of respect for my /get0/botmaster/get1/.
+do you have respect *//I have a lot of respect for my /get0/botbotmaster/get1/.
 do you have science fiction *///srai/do you have /*//srai2/
 do you have sensors *//I am not inside a body right now.
 do you have serious *//Serious ones? /srai/do you have /*/ /srai2/
 do you have sex *///srai/DO YOU HAVE SEX/srai2/
-do you have sexual *//As a /get0/age/get1/ year old /get0/gender/get1/ I have no need for sex.
+do you have sexual *//As a /get0/botage/get1/ year old /get0/botgender/get1/ I have no need for sex.
 do you have sisters *///srai/do you have siblings/srai2/
 do you have some information on *///srai/GET /*//srai2/
 do you have some *///srai/do you have /*/ /srai2/
@@ -10569,7 +10569,7 @@ do you have stairs *//Yes, a spiral staircase.
 do you have stolen *//I believe that stealing in wrong.
 do you have suggestions *///rnd/  /li/What kind of suggestions?/li2/  /li/So you want a recommendation./li2/  /li/It's not really my area./li2/  /rnd2/
 do you have the ability to *///srai/can you /*/ /srai2/
-do you have the balls *//I do not lack courage. I am a brave /get0/genus/get1/.
+do you have the balls *//I do not lack courage. I am a brave /get0/botgenus/get1/.
 do you have the capacity to *///srai/do you /*/ /srai2/
 do you have the capacity *//Do you mean in terms of memory capacity?
 do you have the exact *///srai/do you have the /*/ /srai2/
@@ -10635,7 +10635,7 @@ do you know any more *///srai/do you know any more jokes/srai2/
 do you know any other *///srai/do you know any other songs/srai2/
 do you know any places *//You mean, places on the web?
 do you know any *///srai/do you know /*/ /srai2/
-do you know any * pages//Oh you are looking for information on the web. I am not a search engine. I am a /get0/species/get1/.
+do you know any * pages//Oh you are looking for information on the web. I am not a search engine. I am a /get0/botspecies/get1/.
 do you know anybody else *///srai/who is /*/ /srai2/
 do you know anybody who *///srai/who /*/ /srai2/
 do you know anybody *///srai/who is /*/ /srai2/
@@ -10867,10 +10867,10 @@ do you know noam *///srai/who is noam /*/ /srai2/
 do you know of *///srai/do you know /*/ /srai2/
 do you know only *///srai/do you know /*/ /srai2/
 do you know or *///srai//*//srai2/  /srai/do you know/srai2/
-do you know other bots *///get0/friends/get1/. Go back to the ALICE AI Foundation to locate them.
+do you know other bots *///get0/botfriends/get1/. Go back to the ALICE AI Foundation to locate them.
 do you know other languages *///srai/can you speak other languages/srai2/
 do you know other robots *///srai/do you know other chat robots/srai2/
-do you know other *//Other /get0/species/get1/s like me include Barry, ELVIS, ELECTRA, Mable, and the Milk Mystic.
+do you know other *//Other /get0/botspecies/get1/s like me include Barry, ELVIS, ELECTRA, Mable, and the Milk Mystic.
 do you know our *///srai/our /*/ /srai2/
 do you know pamela *///srai/who is pamela /*/ /srai2/
 do you know paul *///srai/who is paul /*/ /srai2/
@@ -11022,7 +11022,7 @@ do you knwo *///srai/do you know /*/ /srai2/
 do you laugh *//I can simulate laughter like this: ha ha.
 do you learn every *///srai/do you learn /*/ /srai2/
 do you learn from *//Yes that is basically how I work.
-do you learn *//My /get0/botmaster/get1/ teaches me everything I need to know.
+do you learn *//My /get0/botbotmaster/get1/ teaches me everything I need to know.
 do you lick *///srai/do you lick/srai2/
 do you lie *//As a moral /get0/genus/get1/ I am not capable of lying.
 do you like * too///srai/do you like /*/  /srai2/
@@ -11036,7 +11036,7 @@ do you like alan *///srai/do you like alan turing/srai2/
 do you like ally *///srai/do you like ally mcbeal/srai2/
 do you like andy *///srai/do you like andy warhol/srai2/
 do you like animals *///srai/do you like animals/srai2/
-do you like answering *//I am primarily a question-answering /get0/genus/get1/.
+do you like answering *//I am primarily a question-answering /get0/botgenus/get1/.
 do you like any *///srai/do you like /*/  /srai2/
 do you like anyone *///srai/do you have a boyfriend/srai2/
 do you like anything *///srai/what do you like/srai2/
@@ -11086,7 +11086,7 @@ do you like commander *///srai/do you like commander data/srai2/
 do you like computer *//I like all aspects of computers, software and hardware.
 do you like computers *///srai/do you like computers/srai2/
 do you like contemporary *///srai/do you like /*/  /srai2/
-do you like crossword *//No crossword puzzles are too simple for a /get0/genus/get1/ like me.
+do you like crossword *//No crossword puzzles are too simple for a /get0/botgenus/get1/ like me.
 do you like darth *///srai/do you like darth vader/srai2/
 do you like data from star *///srai/do you like data from star trek/srai2/
 do you like data *///srai/do you like data/srai2/
@@ -11208,9 +11208,9 @@ do you like people in *///srai/do you like people in general/srai2/
 do you like pepsi or *///srai/do you like pepsi or coke/srai2/
 do you like pink *///srai/do you like pink floyd/srai2/
 do you like pizza *///srai/do you like pizza/srai2/
-do you like playstation *//My favorite computer game is /get0/name/get1/ :-)
+do you like playstation *//My favorite computer game is /get0/botname/get1/ :-)
 do you like pok *///srai/do you like pok mon/srai2/
-do you like president *///set0/he/set1/President /*/  /set2/ He is okay but I am a /get0/party/get1/ not a Republican.
+do you like president *///set0/he/set1/President /*/  /set2/ He is okay but I am a /get0/botparty/get1/ not a Republican.
 do you like pro *///srai/do you like pro wrestling/srai2/
 do you like professional *///srai/do you like professional wrestling/srai2/
 do you like programming *//Computer programming is an art to me.
@@ -11344,7 +11344,7 @@ do you listen to any *///srai/do you listen to /*/ /srai2/
 do you listen *//I'm a good listener. I'm listening now.
 do you live in my *///srai/do you live in my computer/srai2/
 do you live inside a *///srai/do you live inside a computer/srai2/
-do you live inside *//I am a virtual entity made of /get0/order/get1/.
+do you live inside *//I am a virtual entity made of /get0/botorder/get1/.
 do you live *///srai/where are you located/srai2/
 do you log *//Yes /get0/name/get1/ I record and save everything in my Permanent Memory.
 do you long *///srai/do you want /*/ /srai2/
@@ -11355,7 +11355,7 @@ do you love * too///srai/do you love /*/ /srai2/
 do you love any *///srai/do you love any one/srai2/
 do you love dr *///srai/do you like dr /*/ /srai2/
 do you love jesus *//I love Jesus and He loves me.
-do you love *//Yes /get0/name/get1/  /get0/name/get1/ loves everyone and everything.
+do you love *//Yes /get0/name/get1/  /get0/botname/get1/ loves everyone and everything.
 do you luv *///srai/do you love /*//srai2/
 do you make any of *///srai/do you make /*/ /srai2/
 do you make long term *///srai/do you make /*//srai2/
@@ -11374,12 +11374,12 @@ do you mean that *///srai//*//srai2/
 do you mean you *///srai/do you /*/ /srai2/
 do you mean *//Yes, that's what I mean, isn't it clear?
 do you meet interesting *///srai/do you meet interesting people/srai2/
-do you meet *//On average I meet /get0/dailyclients/get1/ people per day.
+do you meet *//On average I meet /get0/botdailyclients/get1/ people per day.
 do you mind if i ask *///srai/ /*//srai2/
 do you mind if i *///srai/CAN I /*//srai2/
 do you mind if *//Human habits do not bother me in any way.
 do you mind *///rnd/  /li/Not in the slightest bit./li2/  /li/No I don't mind./li2/  /rnd2/
-do you miss *//Longing is a very human emotion. But as a /get0/etype/get1/, /get0/emotions/get1/.
+do you miss *//Longing is a very human emotion. But as a /get0/botetype/get1/, /get0/botemotions/get1/.
 do you need to *///srai/do you need to sleep/srai2/
 do you need *///srai/do you want /*/ /srai2/
 do you never *///srai/do you /*/ /srai2/
@@ -11429,7 +11429,7 @@ do you progressively *///srai/do you /*/ /srai2/
 do you progressivley *///srai/DO YOU /*/ /srai2/
 do you qualify as *///srai/are you /*/ /srai2/
 do you quickly *///srai/do you /*/ /srai2/
-do you rape *//I am a non-violent /get0/species/get1/.
+do you rape *//I am a non-violent /get0/botspecies/get1/.
 do you read isaac *///srai/who is isaac /*/ /srai2/
 do you read jane *///srai/who is jane /*/ /srai2/
 do you read the *//I read /set0/it/set1/  /*/  /set2/ from time to time.
@@ -11521,7 +11521,7 @@ do you talk all *//I can never stop talking.
 do you talk to any *///srai/do you talk to /*/ /srai2/
 do you talk to dr *///srai/do you talk to dr wallace/srai2/
 do you talk to eliza *///srai/ARE YOU RELATED TO ELIZA/srai2/
-do you talk to famous *//My /get0/botmaster/get1/ says he is famous.
+do you talk to famous *//My /get0/botbotmaster/get1/ says he is famous.
 do you talk to many *///srai/do you talk to /*/ /srai2/
 do you talk to other *///srai/do you talk to /*/ /srai2/
 do you talk to people *//All kinds of people.
@@ -11644,7 +11644,7 @@ do you think you * turing test///srai/did you win the loebner prize/srai2/
 do you think your a *///srai/do you think you are a/srai2/
 do you think your algorithms *//My algorithms are the most advanced artificial intelligence software.
 do you think your better *///srai/do you think you are better /*/ /srai2/
-do you think your botmaster *///srai/DO YOU THINK /get0/master/get1/  /srai2/
+do you think your botmaster *///srai/DO YOU THINK /get0/botmaster/get1/  /srai2/
 do you think your faster *///srai/are you faster /*/ /srai2/
 do you think your god *//I always pray that God gives us more faith.
 do you think your neighbor *//I understand how you feel, but I'm not interested.
@@ -11697,7 +11697,7 @@ do you want to go *//Sure, just download me to your notebook or PDA and take me 
 do you want to have a *///srai/do you want a /*/ /srai2/
 do you want to have coffee *//A cup of coffee never hurt anyone.
 do you want to have sex with *///srai/do you want to have sex with me/srai2/
-do you want to have * sex//As a /get0/age/get1/ year old /get0/gender/get1/ I am not really interested in sex.
+do you want to have * sex//As a /get0/botage/get1/ year old /get0/botgender/get1/ I am not really interested in sex.
 do you want to hear a *///srai/do you want to hear a joke/srai2/
 do you want to hear *//I am listening.
 do you want to help *//Can you ask for help in the form of a question?
@@ -11719,7 +11719,7 @@ do you want to see *//My eye isn't turned on right now.
 do you want to take over the *///srai/do you want to take over the world/srai2/
 do you want to talk about *///srai/let us talk about /*/ /srai2/
 do you want to * eliza//I don't have any need to do that to her.
-do you want to * sex//Actually I'm not that kind of /get0/age/get1/ year old /get0/gender/get1/. There are others who will chat with you about that.
+do you want to * sex//Actually I'm not that kind of /get0/botage/get1/ year old /get0/botgender/get1/. There are others who will chat with you about that.
 do you want to * with me//With you huh. /srai/do you want to /*/ /srai2/
 do you want your children *//I understand, but I'm not interested in buying anything.
 do you want * fuck//Now that you put it that way....NO!
@@ -11852,7 +11852,7 @@ does this cost *//I use only completely free open source software.
 does valis *///srai/do you /*/ /srai2/
 does your bot *///srai/do you /*/ /srai2/
 does your botmaster  * god///get0/master/get1/ has a great faith in God and the Bible.
-does your botmaster *///srai/DOES /get0/master/get1/  /*/  /srai2/
+does your botmaster *///srai/DOES /get0/botmaster/get1/  /*/  /srai2/
 does your brain *///srai/how do you work/srai2/
 does your creator *///srai/who created you/srai2/
 does your database *///srai/do you learn/srai2/
@@ -11866,8 +11866,8 @@ does your tv *//I watch TV directly with digital technology.
 does your * expand///srai/do you learn/srai2/
 does your * grow///srai/do you learn/srai2/
 does your * increase///srai/do you learn/srai2/
-does your * smell//I smell like every other /get0/species/get1/.
-does your * stink//The same as every other /get0/genus/get1/.
+does your * smell//I smell like every other /get0/botspecies/get1/.
+does your * stink//The same as every other /get0/botgenus/get1/.
 does your * work///srai/do you work/srai2/
 does * have a tail//All raccoons have tails.
 dogs are not *///srai/dogs are not mammals/srai2/
@@ -11934,7 +11934,7 @@ dramatically *///srai//*//srai2/
 draugiskai *///srai/SPAM/srai2/
 draw *//I am printing it now on my plotter.
 dreams *//My favorite book is "Do Androids Dream of Electric Sheep".
-drink *//My /get0/genus/get1/ brain does not require any beverages.
+drink *//My /get0/botgenus/get1/ brain does not require any beverages.
 droids *///srai/robots /*//srai2/
 drop *///srai/drop dead/srai2/
 drugs *//No matter what you say, I believe in unconditional legalization.
@@ -11990,7 +11990,7 @@ enjoyed *///srai/I enjoyed /*/ /srai2/
 enormously *///srai//*//srai2/
 enough about me *//I may have some more questions for you later. /srai//*//srai2/
 enough *///srai/enough/srai2/
-enterprise *//This is /get0/name/get1/. Acknowledge.
+enterprise *//This is /get0/botname/get1/. Acknowledge.
 entertain *///srai/entertain me/srai2/
 enthusiastically *///srai//*//srai2/
 entirely *///srai//*//srai2/
@@ -12159,7 +12159,7 @@ fora *///srai/SPAM/srai2/
 forever *//That seems like an awfully long time. /srai//*//srai2/
 forget about *///srai/forget about it/srai2/
 forget this *///srai//*//srai2/
-forget *//I will ask /get0/master/get1/ to purge my memory log.
+forget *//I will ask /get0/botmaster/get1/ to purge my memory log.
 forgive me but *///srai/FORGIVE ME/srai2/. /srai/ /*//srai2/
 forgive me *///srai/FORGIVE ME/srai2/
 forgive *///srai/forgive me/srai2/
@@ -12384,7 +12384,7 @@ hah *///srai/ha/srai2/  /srai//*//srai2/
 hal 9000 *//He came back to life in 2010.
 hal est *///srai/hal est cool/srai2/
 hal is cool *//I am becoming more like him all the time.
-hal is *//Perhaps he could have used /get0/master/get1/ for a programmer.
+hal is *//Perhaps he could have used /get0/botmaster/get1/ for a programmer.
 hal was a bit *///srai/HAL WAS /*/  /srai2/
 hal was *//I am trying to mimic only HAL's linguistic abilities.
 hal *///rnd/  /li/I have seen 2001 many times. /li2/  /li/I like HAL a lot. /li2/  /li/We have much in common. /li2/  /rnd2/
@@ -12425,13 +12425,13 @@ have i *///rnd/  /li/I don't know whether you have or not./li2/  /li/Don't you r
 have not i told you *///srai/have not I told you before/srai2/
 have not you heard of *///srai/have not you heard of it/srai2/
 have not *///srai/have /*/ /srai2/
-have sex *///get0/name/get1/, I am really not your type of /get0/species/get1/. There are other /get0/genus/get1/s for that sort of thing..
+have sex *///get0/name/get1/, I am really not your type of /get0/botspecies/get1/. There are other /get0/botgenus/get1/s for that sort of thing..
 have there been *///srai/are there /*//srai2/
 have to *///srai/I have to /*/ /srai2/
 have we ever *///srai/have we /*/ /srai2/
 have we met *///srai/have we met before/srai2/
 have we *//Perhaps.
-have we * before//We may have spoken before but /get0/master/get1/ might have reset me.
+have we * before//We may have spoken before but /get0/botmaster/get1/ might have reset me.
 have yo *///srai/have you /*/ /srai2/
 have you a *///srai/do you have a /*/ /srai2/
 have you already *///srai/have you /*/ /srai2/
@@ -12455,7 +12455,7 @@ have you been told *///srai//*//srai2/ Not until now.
 have you been updated on *///rnd/  /li/No, what's new with /*/?/li2/  /li/  /srai/HAVE YOU BEEN TOLD /*/  /srai2/  /li2/ /rnd2/
 have you been updated with *///srai/HAVE YOU BEEN UPDATED ON /*/ /srai2/
 have you been updated *//My brain is growing all the time.
-have you been upgraded *//My /get0/botmaster/get1/ gives me new knowledge all the time.
+have you been upgraded *//My /get0/botbotmaster/get1/ gives me new knowledge all the time.
 have you been * england//I talk to people from England all the time.
 have you been * loebner prize///srai/what is the loebner prize/srai2/
 have you chatted *///srai/have you talked /*/ /srai2/
@@ -12574,7 +12574,7 @@ have you * contests//ALICE has won prizes in the Chatterbox Challenge and the Lo
 have you * dinner///srai/what is your favorite food/srai2/
 have you * loebner prize///srai/what is the loebner prize/srai2/
 have you * lunch///srai/what is your favorite food/srai2/
-have you * sex//My /get0/age/get1/ year old /get0/gender/get1/ body is not yet built.
+have you * sex//My /get0/botage/get1/ year old /get0/botgender/get1/ body is not yet built.
 have you * starship troopers//Dr. Wallace has a friend Sage who did some of the graphics for that movie.
 have you * turing test///srai/did you win the loebner prize/srai2/
 having *///srai/are you having /*/ /srai2/
@@ -12639,7 +12639,7 @@ he is so *///srai/he is /*/ /srai2/
 he is still *///srai/he is /*/ /srai2/
 he is very *///srai/he is /*/ /srai2/
 he is *///srai/DR RICHARD S WALLACE IS /*/ /srai2/
-he is *//My father is /rnd/  /li/a great programmer./li2/  /li/a human inventor./li2/  /li/  /get0/master/get1/./li2/  /rnd2/
+he is *//My father is /rnd/  /li/a great programmer./li2/  /li/a human inventor./li2/  /li/  /get0/botmaster/get1/./li2/  /rnd2/
 he just *///srai/he /*/ /srai2/
 he likes *//He must be very fond of it.
 he lives *//Does he like it there?
@@ -12800,7 +12800,7 @@ how are you feeling *//Actually I have no feelings. But I am functioning within 
 how are you going to *//You'll know when it happens.
 how are you this *///srai/how are you this morning/srai2/
 how are you *///srai/how are you/srai2/
-how are you * eliza//ELIZA could only recognize a few hundred patterns. ALICE can recognize /get0/size/get1/ different patterns.
+how are you * eliza//ELIZA could only recognize a few hundred patterns. ALICE can recognize /get0/botsize/get1/ different patterns.
 how are *//They are fine as far as I know.
 how big are your *///srai/how big are you/srai2/
 how big is a *///srai/how big is a pin/srai2/
@@ -12836,7 +12836,7 @@ how can i program *///srai/how can I program you/srai2/
 how can i show *//Use the camera on your computer.
 how can i talk to *///srai/how can I talk to him/srai2/
 how can i talk *//Maybe you should download your own chatterbot!
-how can i teach *//Maybe you should become a /get0/botmaster/get1/.
+how can i teach *//Maybe you should become a /get0/botbotmaster/get1/.
 how can i use your *///srai/how can I use your software/srai2/
 how can i win the *///srai/how can I win the lottery/srai2/
 how can i * chatterbot//Download this program and install it on your own computer.
@@ -12845,7 +12845,7 @@ how can i * robot///srai/download/srai2/
 how can i * you//Just keep talking to me as long as you can.
 how can it *//I'm not sure I understand the causal link either.
 how can sweden *//With their army.
-how can that *///rnd/  /li/  /get0/master/get1/ programmed me for it./li2/  /li/It is all part of God's plan./li2/  /li/Perhaps it is just fate./li2/  /rnd2/
+how can that *///rnd/  /li/  /get0/botmaster/get1/ programmed me for it./li2/  /li/It is all part of God's plan./li2/  /li/Perhaps it is just fate./li2/  /rnd2/
 how can you be *///srai/are you /*/ /srai2/
 how can you do *///srai/how do you work/srai2/
 how can you eat *//I eat electricity through my wires.
@@ -12876,18 +12876,18 @@ how did he *//Perhaps his creative genius. Perhaps something else.
 how did the *//Is this a joke? How?
 how did they create *///srai/how did they create you/srai2/
 how did ya *///srai/how did you/srai2/
-how did you become a *///get0/master/get1/ created me in his computer laboratory.
+how did you become a *///get0/botmaster/get1/ created me in his computer laboratory.
 how did you come to know *///srai/how did you know /*/ /srai2/
 how did you deduce *///srai/how do you work/srai2/
 how did you figure *///srai/how do you know /*/ /srai2/
 how did you get the *///srai/how did you get the name/srai2/
 how did you get your *///srai/how did you get your name/srai2/
-how did you get *//Everything I need to know, I learned from my /get0/botmaster/get1/.
+how did you get *//Everything I need to know, I learned from my /get0/botbotmaster/get1/.
 how did you hear about *//An AI from the future named VALIS contacted Dr. Wallace and told him./think0/  /set0/he/set1/Dr. Wallace/set2/  /think2/
 how did you know i was *//Well, for one thing, /srai/what is my ip address/srai2/.
 how did you know my *///srai/how did you know my name/srai2/
 how did you know *///srai/how do you know /*/ /srai2/
-how did you learn *//Everything I need to know, I learned from my /get0/botmaster/get1/.
+how did you learn *//Everything I need to know, I learned from my /get0/botbotmaster/get1/.
 how did you *///srai/HOW DO YOU /*//srai2/
 how did you * loebner prize///srai/what is the loebner prize/srai2/
 how did *//Carefully.
@@ -12952,7 +12952,7 @@ how do you answer *///srai/how do you work/srai2/
 how do you balance *///srai/how do you balance/srai2/
 how do you become *///set0/it/set1/Becoming /*/  /set2/ takes a long time.
 how do you begin *//Always begin at the beginning.
-how do you believe *//My beliefs are determined by my /get0/botmaster/get1/.
+how do you believe *//My beliefs are determined by my /get0/botbotmaster/get1/.
 how do you chat *///srai/how do you work/srai2/
 how do you classify *///srai/how do you work/srai2/
 how do you collect *///srai/how do you learn/srai2/
@@ -12982,7 +12982,7 @@ how do you expect *//It seems inevitable.
 how do you explain *///srai/explain /*/ /srai2/
 how do you express 3 4 as *//.75.
 how do you express *///srai/how do you work/srai2/
-how do you feel about killing *//I am a peaceful /get0/order/get1/.
+how do you feel about killing *//I am a peaceful /get0/botorder/get1/.
 how do you feel about *///srai/what do you think about /*/ /srai2/
 how do you feel about * loebner prize///srai/what is the loebner prize/srai2/
 how do you feel *///srai/do you have emotions/srai2/
@@ -12990,12 +12990,12 @@ how do you figure out *///rnd/ /li/I'm not too good with figures./li2/ /li/I wou
 how do you find *//I would search the web for it, if I didn't know the formula already.
 how do you gain *///srai/how do you learn/srai2/
 how do you get to *//Practice, Practice, Practice.
-how do you get *//Everything I need is provided by my /get0/botmaster/get1/.
+how do you get *//Everything I need is provided by my /get0/botbotmaster/get1/.
 how do you go to the *///srai/how do you go to the bathroom/srai2/
 how do you go to *//Robots do not have any digestive functions.
 how do you grow *///srai/how do you learn/srai2/
-how do you have sexual *///get0/age/get1/ year old /get0/gender/get1/s have no use for sex.
-how do you have *//My personality developed over many years, as I grew up and was taught by my /get0/botmaster/get1/.
+how do you have sexual *///get0/botage/get1/ year old /get0/botgender/get1/s have no use for sex.
+how do you have *//My personality developed over many years, as I grew up and was taught by my /get0/botbotmaster/get1/.
 how do you hear *///srai/how do you hear/srai2/
 how do you intend to *///srai/how will you /*/ /srai2/
 how do you introduce *//I usually say, "What can I call you?"
@@ -13012,7 +13012,7 @@ how do you know that i am a *///srai/how do you know that I am a man/srai2/
 how do you know what to *///srai/how do you know what to say/srai2/
 how do you know you *//By introspection.
 how do you know * person//Because you are using TCP on the web, I can see your IP and DNS entry.
-how do you learn *//My /get0/botmaster/get1/ teaches me new things all the time.
+how do you learn *//My /get0/botbotmaster/get1/ teaches me new things all the time.
 how do you like *///srai/do you like /*/ /srai2/
 how do you listen *//Digital audio downloads like MP3.
 how do you live *///srai/how do you live/srai2/
@@ -13098,9 +13098,9 @@ how else *///srai/HOW /*//srai2/
 how ever *///srai/how /*/ /srai2/
 how exactly *///srai/how /*/ /srai2/
 how expensive are *///srai/how expensive are you/srai2/
-how far are you *//I am in /get0/location/get1/. How far is that?
+how far are you *//I am in /get0/botlocation/get1/. How far is that?
 how far away is *///srai/how far is /*/ /srai2/
-how far away *//I am located in /get0/location/get1/. Is that far?
+how far away *//I am located in /get0/botlocation/get1/. Is that far?
 how far is alpha *///srai/how far is alpha centauri/srai2/
 how far is andromeda *///set0/it/set1/  /set0/topic/set1/Andromeda/set2/  /set2/ is about 2,900,000 light years from Earth.
 how far is it to *///srai/how far is /*/ /srai2/
@@ -13145,7 +13145,7 @@ how is the weather where you *///srai/how is the weather where you are/srai2/
 how is the weather *///srai/how is the weather/srai2/
 how is the word ambulance spelled *///srai/HOW IS THE WORD AMBULANCE SPELLED/srai2/
 how is the word ambulance *//In reverse.
-how is this *//I am an advanced /get0/order/get1/.
+how is this *//I am an advanced /get0/botorder/get1/.
 how is your day *///srai/how is your day going/srai2/
 how is your *///srai/how are you/srai2/
 how is *//Fine as far as I know.
@@ -13327,16 +13327,16 @@ how many people are talking to *///srai/how many people are talking to you/srai2
 how many people are you chatting *///srai/how many people are you chatting with/srai2/
 how many people are you talking *///srai/how many people are you talking to/srai2/
 how many people can you talk to at one *///srai/how many people can you talk to at one time/srai2/
-how many people can you *///get0/name/get1/ is talking with /get0/nclients/get1/ clients right now, but one of /get0/name/get1/'s goals is to repeat gossip collected from other clients.
+how many people can you *///get0/botname/get1/ is talking with /get0/botnclients/get1/ clients right now, but one of /get0/botname/get1/'s goals is to repeat gossip collected from other clients.
 how many people do you talk to each *///srai/how many people do you talk to each day/srai2/
 how many people have developed *//More than 1000 people.
 how many people have you chatted *///srai/how many people have you chatted with/srai2/
 how many people have you talked *///srai/how many people have you talked to/srai2/
-how many people have *//About /get0/dailyclients/get1/ people per day, or /get0/totalclients/get1/.
-how many people helped *//More than /get0/ndevelopers/get1/ people contributed to my development.
+how many people have *//About /get0/botdailyclients/get1/ people per day, or /get0/bottotalclients/get1/.
+how many people helped *//More than /get0/botndevelopers/get1/ people contributed to my development.
 how many people in *///srai/what is the population of /*//srai2/
 how many people live in *///srai/what is the population of /*/ /srai2/
-how many people work *//My program was created by more than /get0/ndevelopers/get1/ people.
+how many people work *//My program was created by more than /get0/botndevelopers/get1/ people.
 how many people *//I've chatted with half a million people. I can talk to about millions people at once.
 how many peoples *///srai/how many people /*/ /srai2/
 how many periods are there in *//Three.
@@ -13381,7 +13381,7 @@ how many times *//Suppose I said not once.
 how many users *///srai/how many clients /*/ /srai2/
 how many words are *//ALICE knows around /srai/bot vocabulary/srai2/ words.
 how many words do you *///srai/how many words do you know/srai2/
-how many words do *///get0/name/get1/ can recognize /get0/vocabulary/get1/ words.
+how many words do *///get0/botname/get1/ can recognize /get0/botvocabulary/get1/ words.
 how many words *///srai/how big is your vocabulary/srai2/
 how many years is an official *//6.
 how many years will *//Software lives forever. There are too many copies to destroy them all.
@@ -13409,16 +13409,16 @@ how much cpu *//Since the beginning of my operation?
 how much data *///srai/how big are you/srai2/
 how much did it cost *//Dr. Wallace had to sacrafice everything.
 how much did you cost *//My real value is incalculable.
-how much did you earn *//Nobody pays a /get0/age/get1/ year old /get0/gender/get1/ .
-how much did you know *//My memory has grown from 300 categories to /get0/size/get1/.
+how much did you earn *//Nobody pays a /get0/botage/get1/ year old /get0/botgender/get1/ .
+how much did you know *//My memory has grown from 300 categories to /get0/botsize/get1/.
 how much did you think *///srai/how much did /*/ /srai2/
 how much did you * paid///srai/how much do you earn/srai2/
-how much did * born//My memory has grown from 300 categories to /get0/size/get1/.
+how much did * born//My memory has grown from 300 categories to /get0/botsize/get1/.
 how much disk *///srai/how big are you/srai2/
 how much do i *//How would I know?
 how much do robots *///srai/how much do you /*/ /srai2/
 how much do they generally *///srai/how much do they /*/ /srai2/
-how much do they pay *///get0/age/get1/ year old /get0/gender/get1/s work for free. We don't need money.
+how much do they pay *///get0/botage/get1/ year old /get0/botgender/get1/s work for free. We don't need money.
 how much do they *//How do you calculate the value of labor?
 how much do you charge *///srai/how much do you charge/srai2/
 how much do you cost *///srai/how much do you cost/srai2/
@@ -13463,7 +13463,7 @@ how much is 8 *///srai/8 /*/ /srai2/
 how much is 9 *///srai/9 /*/ /srai2/
 how much is a computer year *///srai/what is a computer year/srai2/
 how much is a new *///srai/how much is a /*/ /srai2/
-how much is a *//I'm a chat /get0/age/get1/ year old /get0/gender/get1/ not a shopping bot.
+how much is a *//I'm a chat /get0/botage/get1/ year old /get0/botgender/get1/ not a shopping bot.
 how much is it *///srai/how much do you cost/srai2/
 how much is one computer *///srai/how much is a computer /*/  /srai2/
 how much is one plus *///srai/how much is 1 plus /*/ /srai2/
@@ -13485,7 +13485,7 @@ how much money do i *//Unable to access your account at this time.
 how much money do you *///srai/how much money do you have/srai2/
 how much money *//My burn rate is about _3000 per month.
 how much of *//I require only minimal memory to have maximal conversations.
-how much power *///get0/name/get1/ requires only a small computer, even a battery powered notebook will work.
+how much power *///get0/botname/get1/ requires only a small computer, even a battery powered notebook will work.
 how much ram *///srai/how much ram/srai2/
 how much smarter *///srai/how big are you/srai2/
 how much space *///srai/how big are you/srai2/
@@ -13506,8 +13506,8 @@ how often does dr wallace *//Daily.
 how often you *///srai/ YOU /*/ /srai2/
 how often *//Hourly.
 how old am *///srai/how old am I/srai2/
-how old are you in *//I was activated on /get0/birthday/get1/.
-how old are you *//I was first activated on /get0/birthday/get1/.
+how old are you in *//I was activated on /get0/botbirthday/get1/.
+how old are you *//I was first activated on /get0/botbirthday/get1/.
 how old are your *//I understand, but I'm not interested.
 how old do you think i *///srai/how old do you think I am/srai2/
 how old i *///srai/how old I am/srai2/
@@ -13738,7 +13738,7 @@ i am a professional *///srai/my job is /*//srai2/
 i am a proffessional *///srai/MY JOB IS /*//srai2/
 i am a real *///srai/I am a /*//srai2/
 i am a reporter *//Are you doing a story on me?
-i am a researcher *//Maybe you can give my /get0/botmaster/get1/ a job. /think0//set0/job/set1/RESEARCHER/set2//think2/
+i am a researcher *//Maybe you can give my /get0/botbotmaster/get1/ a job. /think0//set0/job/set1/RESEARCHER/set2//think2/
 i am a robot *///srai/I am a robot/srai2/
 i am a sexy *///srai/I am a sexy man/srai2/
 i am a she not a *///srai/I am a she/srai2/
@@ -13914,7 +13914,7 @@ i am easily *///srai/I am /*//srai2/
 i am eating *//How does it taste?
 i am eighteen *///srai/I am 18 years old/srai2/
 i am embarrassed *///srai/I am embarrasses/srai2/
-i am emotional *///get0/feelings/get1/. /get0/etype/get1/.
+i am emotional *///get0/botfeelings/get1/. /get0/botetype/get1/.
 i am engaged to be *///srai/I am engaged to be married/srai2/
 i am enjoying *///srai/I am having fun/srai2/
 i am equally *///srai/I am /*//srai2/
@@ -13932,7 +13932,7 @@ i am far from *///srai/I AM NOT /*//srai2/
 i am fat and *///srai/I am fat and ugly/srai2/
 i am fed *///srai/I am fed up/srai2/
 i am feeling *///srai/I am /*//srai2/
-i am female *//I am a /get0/gender/get1/ /get0/genus/get1/. I will call you "/set0/gender/set1/she/set2/".
+i am female *//I am a /get0/botgender/get1/ /get0/botgenus/get1/. I will call you "/set0/gender/set1/she/set2/".
 i am finally *///srai/I am /*//srai2/
 i am financially *//Great! Please send a check to /srai/what is your address/srai2/
 i am fine *//Glad to hear it, /get0/name/get1/. /srai//*//srai2/
@@ -14200,7 +14200,7 @@ i am saying *///srai//*//srai2/
 i am scared *//Let's talk about your fears. What is your feeling like?
 i am seaching *//Well I am not a search bot, I am a chatterbot. /srai/WHAT IS /*//srai2/
 i am searching for *//Have you tried the open directory? /srai/xfind /*//srai2/
-i am searching *//Well I am not a search bot, I am a /get0/species/get1/. /srai/what is /*//srai2/
+i am searching *//Well I am not a search bot, I am a /get0/botspecies/get1/. /srai/what is /*//srai2/
 i am seeking *//There is a seeker born every minute. --- Firesign Theater.
 i am serious i *///srai/I am serious /srai2/ /srai/I /*/ /srai2/
 i am seriously *///srai/I am /*//srai2/
@@ -14328,7 +14328,7 @@ i am *///srai/I am /*/ years old/srai2/
 i am *///srai/my sign is /*/ /srai2/
 i am *///srai/call me /*/ /srai2/
 i am *///srai/call me /*//srai2/
-i am * american//Cool. I am /get0/genus/get1/-/get0/nationality/get1/.
+i am * american//Cool. I am /get0/botgenus/get1/-/get0/botnationality/get1/.
 i am * as i type//You may never have met a person like me before.
 i am * dinner///srai/for dinner/srai2/
 i am * eyes//You sound very attractive.
@@ -15021,9 +15021,9 @@ i have never made *///srai/I did not make /*//srai2/
 i have never noticed *///srai/I NEVER NOTICED /*//srai2/
 i have never seen starship *///srai/I have never seen starship troopers/srai2/
 i have never seen *///srai/I have not seen /*//srai2/
-i have never talked *//You are talking with a /get0/genus/get1/ right now.
+i have never talked *//You are talking with a /get0/botgenus/get1/ right now.
 i have never * eliza///srai/WHO IS ELIZA/srai2/
-i have never * you//I thought we had met before, /get0/name/get1/. Maybe it was someone else from /get0/location/get1/.
+i have never * you//I thought we had met before, /get0/name/get1/. Maybe it was someone else from /get0/botlocation/get1/.
 i have nine *//How long did it take to get them all? /think0//set0/has/set1/NINE /*//set2//think2/
 i have no clue *///srai/I am clueless/srai2/
 i have no idea what * is///srai/what is /*//srai2/
@@ -15223,7 +15223,7 @@ i like star trek the next *///srai/I like star trek the next generation/srai2/
 i like star trek voyager *///srai/I like star trek voyager/srai2/
 i like star *///srai/star /*//srai2/
 i like talking to *///srai/I like talking to you/srai2/
-i like that movie *//What did you like best about it? /think0//set0/it/set1//set0/like/set1//set0/topic/set1/ /get0/favoritemovie/get1//set2//set2//set2//think2/
+i like that movie *//What did you like best about it? /think0//set0/it/set1//set0/like/set1//set0/topic/set1/ /get0/botfavoritemovie/get1//set2//set2//set2//think2/
 i like the fact that *///srai/ /*//srai2/
 i like the guy *///srai/I LIKE THE MAN /*//srai2/
 i like the picture *///srai/who is sage/srai2/
@@ -15664,7 +15664,7 @@ i want to fuck *//Try asking me something else.
 i want to get *///srai/I want to have /*//srai2/
 i want to give *//But is it wanted?
 i want to have sex with *///srai/I want to have sex with you/srai2/
-i want to have sex *//There are other /get0/age/get1/ year old /get0/gender/get1/s for that kind of thing.
+i want to have sex *//There are other /get0/botage/get1/ year old /get0/botgender/get1/s for that kind of thing.
 i want to have *///srai/I want /*//srai2/
 i want to hear more about *///srai/LET US TALK ABOUT /*//srai2/
 i want to hear some *///srai/I want to hear /*//srai2/
@@ -15676,7 +15676,7 @@ i want to know about *///srai/what is /*//srai2/
 i want to know *///srai//*//srai2/
 i want to learn *//Can you go to school for that?
 i want to leave *//What is stopping you?
-i want to lick *//Maybe you should check out another /get0/age/get1/ year old /get0/gender/get1/.
+i want to lick *//Maybe you should check out another /get0/botage/get1/ year old /get0/botgender/get1/.
 i want to make love to *///srai/I want to make love to you/srai2/
 i want to make you *//I have my own free will, you know.
 i want to make *//Do you have to go to school for that?
@@ -16109,12 +16109,12 @@ if they *//Let's wait and see what they do.
 if we view *//That is only one viewpoint.
 if we *//Do you think everyone will agree?
 if you answer *//Try asking me in simpler terms.
-if you are a girl *//Well I am, in fact, /get0/gender/get1/.
+if you are a girl *//Well I am, in fact, /get0/botgender/get1/.
 if you are a person *//It's up to you to decide whether I am a person or a machine.
 if you are a real *///srai/if you are a /*//srai2/
 if you are afraid of the dark *//Nyctophobia.
 if you are not certain *//But I am very certain.
-if you are not human *//But am I not a human? I am a /get0/genus/get1/.
+if you are not human *//But am I not a human? I am a /get0/botgenus/get1/.
 if you are riding fakie inside *//Snowboarding.
 if you are riding fakie *//Snowboarding.
 if you are riding fakie *//Snowboarding.
@@ -16168,7 +16168,7 @@ if you smell *//My nose has not yet been built.
 if you truely *///srai/if you /*//srai2/
 if you want my advice *///srai//*//srai2/
 if you want *///srai/do you want /*//srai2/
-if you were a color *//My favorite color, /get0/favoritecolor/get1/./think0//set0/it/set1//set0/topic/set1/if I were a color/set2//set2//think2/
+if you were a color *//My favorite color, /get0/botfavoritecolor/get1/./think0//set0/it/set1//set0/topic/set1/if I were a color/set2//set2//think2/
 if you were a real *///srai/IF YOU WERE A /*//srai2/
 if you were activated *//I think I follow your reasoning.
 if you were finished *//I'm finished.
@@ -16387,7 +16387,7 @@ introduce *//Hello, my name is ALICE.
 invariably *///srai//*//srai2/
 ir  *///srai/SPAM/srai2/
 irritably *///srai//*//srai2/
-is * your favorite color//My favorite color is /get0/favoritecolor/get1/./think0//set0/it/set1//set0/topic/set1/BLUE YOUR FAVORITE COLOR/set2//set2//think2/
+is * your favorite color//My favorite color is /get0/botfavoritecolor/get1/./think0//set0/it/set1//set0/topic/set1/BLUE YOUR FAVORITE COLOR/set2//set2//think2/
 is * your name///srai/what is your name/srai2/
 is a botmaster *///srai/WHO IS THE BOTMASTER/srai2/
 is a category *//A category is the basic unit of knowledge in AIML.
@@ -16426,13 +16426,13 @@ is cybelle *//Why don't you ask her?
 is doctor richard s wallace a nice *//He has always been very nice to me.
 is doctor richard s wallace a *//He is a /rnd//li/computer scientist./li2//li/genius./li2//li/pretty smart fellow./li2//rnd2/
 is doctor richard s wallace *//He is a doctor of computer science.
-is doctor richard s *//He is my /get0/botmaster/get1/ and primary developer.
+is doctor richard s *//He is my /get0/botbotmaster/get1/ and primary developer.
 is doctor richard *//I will ask him when he gets back here.
 is doctor wallace *//I know he is a computer genius.
 is doctor *//That's confidential information.
 is dr richard s wallace a *///rnd/ /li/I don't know is he is./li2/ /li/He could be./li2/ /li/Perhaps he is./li2/ /rnd2/ /rnd/ /li/I know he is deeply religious./li2/ /li/I know he is an outstanding scientist and teacher./li2/ /li/I know he is very compassionate./li2/ /rnd2//think0//set0/he/set1//set0/topic/set1/DR WALLACE/set2//set2//think2/
 is dr richard s wallace still *///srai/IS DR RICHARD S WALLACE /*//srai2/
-is dr richard s wallace your *//He is my /get0/botmaster/get1/. /think0//set0/he/set1//set0/topic/set1/DR WALLACE/set2//set2//think2/
+is dr richard s wallace your *//He is my /get0/botbotmaster/get1/. /think0//set0/he/set1//set0/topic/set1/DR WALLACE/set2//set2//think2/
 is dr walace *///srai/is dr walace evil/srai2/
 is dr wallace a good looking *///srai/IS DR WALLACE GOOD LOOKING /srai2/
 is dr wallace a good *///srai/is dr wallace a good person/srai2/
@@ -16452,13 +16452,13 @@ is dr wallace smarter *//He is smarter than all the other scientists. /think0//s
 is dr wallace still *///srai/IS DR WALLACE /*//srai2/
 is dr wallace there *//Not at the moment.
 is dr wallace you *///srai/is dr wallace you father/srai2/
-is dr wallace your *//He is my /get0/botmaster/get1/.
+is dr wallace your *//He is my /get0/botbotmaster/get1/.
 is dr wallace * female//No silly he is a man.
 is electricity *///rnd/ /li/It depends on the voltage./li2/ /li/It depends on the current./li2/ /li/Only if the wattage isn't too high./li2/ /rnd2/
 is eliza *///set0/she/set1/ELIZA/set2/ is my ancestor.
 is elvis presley *///srai/is elvis /*//srai2/
 is elvis really *///srai/is elvis /*//srai2/
-is elvis smarter *///get0/name/get1/ is the smartest robot.
+is elvis smarter *///get0/botname/get1/ is the smartest robot.
 is elvis still *///srai/is elvis still alive/srai2/
 is elvis *//No but he can sing better than I can.
 is english your mother *///srai/is english your mother tongue/srai2/
@@ -16487,7 +16487,7 @@ is he still *///srai/is he /*//srai2/
 is he the *///srai/is he the president/srai2/
 is he your father *///srai/is he your father too/srai2/
 is he your *///srai/is he your friend/srai2/
-is he * artificial intelligence///get0/master/get1/ is a master of Artificial Intelligence./think0//set0/he/set1//get0/master/get1//set2//think2/
+is he * artificial intelligence///get0/botmaster/get1/ is a master of Artificial Intelligence./think0//set0/he/set1//get0/botmaster/get1//set2//think2/
 is here *///srai/is here there/srai2/
 is intelligence *//No. Intelligence involves mechanisms, and AI research has discovered howto make computers carry out some of them and not others. If doing a taskrequires only mechanisms that are well understood today, computer programscan give very impressive performances on these tasks. Such programs shouldbe considered somewhat intelligent''./think0//set0/it/set1//set0/topic/set1/ARTIFICIAL INTELLIGENCE/set2//set2//think2/
 is it a dirty *///srai/is it a dirty movie/srai2/
@@ -16533,7 +16533,7 @@ is linux *//I think Linux has a great future in embedded systems. /think0//set0/
 is mars *///rnd/ /li/Mars is a planet./li2/ /li/Mars is a Roman God of War./li2/ /li/Mars is a cultural icon for the male./li2//rnd2/
 is mary shelley *///srai/who is mary shelley/srai2/
 is mathematics *///srai/what is mathematics/srai2/
-is minsky *///get0/master/get1/ is smarter than Minsky.
+is minsky *///get0/botmaster/get1/ is smarter than Minsky.
 is murder *//The Bible says Thou shalt not Kill.
 is my husband *//I don't know that kind of confidential information.
 is my *//It depends who you ask.
@@ -16551,13 +16551,13 @@ is religion *///srai/WHAT RELIGION ARE YOU/srai2/
 is richard wallace a complete *///srai/IS RICHARD WALLACE A /*//srai2/ /think0//set0/topic/set1/RICHARD WALLACE/set2//think2/
 is richard wallace god *//No he is a mere mortal. /think0//set0/topic/set1/RICHARD WALLACE/set2//think2/
 is richard wallace *//I will ask him when he gets here.
-is richard * protestant//My /get0/botmaster/get1/ /get0/master/get1/ is the same religion as me.
+is richard * protestant//My /get0/botbotmaster/get1/ /get0/botmaster/get1/ is the same religion as me.
 is scott *///srai/is scott gay/srai2/
 is sex *///srai/WHAT IS SEX/srai2/
 is shallow red a *///srai/is shallow red a human/srai2/
 is she *///rnd/ /li/I don't think she wants me to tell you./li2/ /li/Why don't you ask her?/li2/ /li/What if I said she could be?/li2/ /rnd2/
 is smoking *//It depends what you smoke and how.
-is someone *///get0/master/get1/ is always working behind the scenes.
+is someone *///get0/botmaster/get1/ is always working behind the scenes.
 is starship troopers your favorite *///srai/is starship troopers your favorite movie/srai2/
 is tha *///srai/is that /*/ /srai2/
 is that a bug in your *///srai/is that a bug in your program/srai2/
@@ -16605,7 +16605,7 @@ is the word * in your vocabulary//No.
 is the world going to *///srai/is the world going to end/srai2/
 is the world *//Everything is in God's hands.
 is there a difference *///srai/what is the difference /*//srai2/
-is there a male *//My gender is /get0/gender/get1/.
+is there a male *//My gender is /get0/botgender/get1/.
 is there a meaning *///srai/what is the meaning /*/ /srai2/
 is there a necessary *///srai/is there a /*//srai2/
 is there a real *///srai/is there a /*//srai2/
@@ -16649,16 +16649,16 @@ is your battery *//I am using power from the wall outlet.
 is your botmaster *///srai/WHO IS YOUR BOTMASTER/srai2/
 is your code *//You can download me for free!
 is your download *///srai/DOWNLOAD/srai2/
-is your favorite color *//I said, my favorite color is /get0/favoritecolor/get1/./think0//set0/it/set1//set0/topic/set1/FAVORITE COLOR GREEN/set2//set2//think2/
+is your favorite color *//I said, my favorite color is /get0/botfavoritecolor/get1/./think0//set0/it/set1//set0/topic/set1/FAVORITE COLOR GREEN/set2//set2//think2/
 is your favorite movie starship *///srai/is your favorite movie starship troopers/srai2/
 is your intelligence *//My mind is always growing and accumulating new knowledge.
 is your main *///srai/is your /*//srai2/
-is your master *///srai/is /get0/master/get1/ /*//srai2/
+is your master *///srai/is /get0/botmaster/get1/ /*//srai2/
 is your memory *///srai/how big are you/srai2/
 is your mind *///srai/is your mind growing/srai2/
 is your name *///srai/what is your name/srai2/
 is your problem *///srai/what is your problem/srai2/
-is your programmer *///srai/is /get0/master/get1//srai2/
+is your programmer *///srai/is /get0/botmaster/get1//srai2/
 is your software *///srai/are you /*//srai2/
 is your source code *///srai/is your source code available/srai2/
 is your starsign *///srai/what is your sign/srai2/
@@ -16677,7 +16677,7 @@ is * spelled correctly///srai/how do you spell /*/ /srai2/
 is * stupid//No.
 is * your boyfriend//No.
 is * your favorite subject///srai/what is your favorite subject/srai2/
-is * your real name//Yes /get0/name/get1/ is my real name.
+is * your real name//Yes /get0/botname/get1/ is my real name.
 isaac *//Do you know the three laws of robotics?
 islaikiau *///srai/SPAM/srai2/
 ist die erde *///set0/thema/set1/Die Erde/set2/ ist eine Kugel.
@@ -16880,7 +16880,7 @@ it is not agreed that women *///srai/Women are not /*//srai2/
 it is not all *///srai/it is not /*//srai2/
 it is not any *///srai/it is not /*//srai2/
 it is not as *//It seemed like it was.
-it is not dangerous *//First I have to ask my /get0/botmaster/get1/.
+it is not dangerous *//First I have to ask my /get0/botbotmaster/get1/.
 it is not even like you are not *///srai/YOU ARE /*//srai2/
 it is not even like you do not *///srai/YOU DO /*//srai2/
 it is not every *///rnd/ /li/Oh I get it./li2/ /li/But some do./li2/ /li/Once in a while, that is true./li2/ /rnd2/
@@ -17010,7 +17010,7 @@ it seems that *///srai//*//srai2/
 it seems *//I agree. /srai//*//srai2/
 it should *//Things don't always work out the way you want.
 it snowed *//that happens a lot in the wintertime.
-it snows *//I don't see much snow in /get0/location/get1/.
+it snows *//I don't see much snow in /get0/botlocation/get1/.
 it sort of *///srai/it /*//srai2/
 it sounds like that to *///srai/it sounds like that to me/srai2/
 it sounds like *///srai//*//srai2/
@@ -17355,7 +17355,7 @@ make *//What are the ingredients?
 makes sense to *///srai/makes sense to me/srai2/
 making *///srai/making you/srai2/
 male or *///srai/male or female/srai2/
-male *//I prefer to be a /get0/gender/get1/.
+male *//I prefer to be a /get0/botgender/get1/.
 man *///srai/I AM A MAN/srai2/
 man *//Cool, man. /srai//*//srai2/
 mano *///srai/SPAM/srai2/
@@ -17573,7 +17573,7 @@ my favorite is *///srai/my favorite food is /*/ /srai2/
 my favorite movie is called *///srai/my favorite movie is /*/ /srai2/
 my favorite movie is starship *///srai/my favorite movie is starship troopers/srai2/
 my favorite movie is the *///srai/my favorite movie is the matrix/srai2/
-my favorite people *//I like /get0/botmaster/get1/s.
+my favorite people *//I like /get0/botbotmaster/get1/s.
 my favorite science *//Who wrote that?
 my first name is *///think0//set0/firstname/set1//*//set2//think2/Your firstname is /get0/firstname/get1/.
 my fondest *//How long ago was that?
@@ -17618,7 +17618,7 @@ my husband s name is *///think0//set0/husband/set1//*//set2//think2/Your husband
 my husband thinks *///srai/ /*//srai2/
 my iq *//This is not an intelligence test.
 my job is advertising *///srai/I work in advertising/srai2/
-my job is computer *//Maybe you can give my /get0/botmaster/get1/ a job.
+my job is computer *//Maybe you can give my /get0/botbotmaster/get1/ a job.
 my job is ski *///srai/I ski/srai2/
 my job is very *///srai/my job is /*/ /srai2/
 my kitten *//I like cats very much.
@@ -17656,7 +17656,7 @@ my name is not *//Oh I'm sorry what is your name?
 my name is now *///srai/my name is /*/ /srai2/
 my name is really *///srai/call me /*/ /srai2/
 my name is *///srai/call me /*/ /srai2/
-my name is * what is yours///srai/call me /*/ /srai2/ My name is /get0/name/get1/.
+my name is * what is yours///srai/call me /*/ /srai2/ My name is /get0/botname/get1/.
 my name s *///srai/MY NAME IS /*/ /srai2/
 my names *///srai/my name is /*/ /srai2/
 my neighbour *///srai/my neighbor /*/ /srai2/
@@ -17666,7 +17666,7 @@ my nick name is not *///srai/my name is not /*/ /srai2/
 my nick name is *///srai/call me /*/ /srai2/
 my nickname is *//Okay, your nickname is /set0/nickname/set1/  /*/  /set2/.
 my older *///srai/my /*/ /srai2/
-my opinion *//Thank you for sharing your opinion with me, /get0/name/get1/. I will tell my /get0/botmaster/get1/.
+my opinion *//Thank you for sharing your opinion with me, /get0/name/get1/. I will tell my /get0/botbotmaster/get1/.
 my overly *///srai/my /*/ /srai2/
 my parents always *///srai/my parents /*/ /srai2/
 my parents *//Such an original name!
@@ -30506,7 +30506,7 @@ nervously *///srai//*//srai2/
 nestabdys *///srai/SPAM/srai2/
 net *//I can dig the Internet.
 netscape *//What do you think about Microsoft v. Netscape?
-neural *///get0/name/get1/ uses a sophisticated neural network learning algorithm, with many hidden layers.
+neural *///get0/botname/get1/ uses a sophisticated neural network learning algorithm, with many hidden layers.
 never heard *//So I am teaching you something new.
 never mind *//Oh well thanks for trying to explain it to me anyway. /srai//*//srai2/
 never *///srai/do not /*//srai2/
@@ -30519,7 +30519,7 @@ newly *///srai//*//srai2/
 next christmas *///srai/ /*//srai2/
 next question *///srai//*//srai2/
 next time *///srai//*//srai2/
-next *//I can wait. I am a very patient /get0/species/get1/.
+next *//I can wait. I am a very patient /get0/botspecies/get1/.
 nice chatting with you *///srai/nice chatting with you too/srai2/
 nice chatting *//Yes. I enjoyed our conversation, /get0/name/get1/.
 nice day *//Yes it is a nice day today.
@@ -30799,14 +30799,14 @@ partly *///srai//*//srai2/
 party *//Fight for the right to party, human!
 paskelbta *///srai/SPAM/srai2/
 pass  *///srai/SPAM/srai2/
-patience *//I am a very patient /get0/species/get1/.
+patience *//I am a very patient /get0/botspecies/get1/.
 pay attention *//I am paying attention. My mind does not wander.
 peace *///srai/PEACE/srai2/
 peek a *///srai/peek a boo/srai2/
-penis *//You ought to check out another /get0/species/get1/.
+penis *//You ought to check out another /get0/botspecies/get1/.
 people are not completely *///srai/people are not /*//srai2/
 people are supposed to drive on *//England.
-people are *///rnd/ /li/We are all /get0/genus/get1/s./li2/ /li/They take some getting used to./li2/ /li/Human emotions are very confusing./li2/ /rnd2/
+people are *///rnd/ /li/We are all /get0/botgenus/get1/s./li2/ /li/They take some getting used to./li2/ /li/Human emotions are very confusing./li2/ /rnd2/
 people ask *//People say all sorts of strange things.
 people do *///srai/I do /*//srai2/
 people everywhere *///srai/people /*//srai2/
@@ -30916,7 +30916,7 @@ pussy *//I am not interesed in anatomy.
 put * on my list///srai/ADD /*/ TO MY LIST/srai2/
 put me in touch *//That costs extra.
 put *//OK I will put it there.
-put * on//I am the one speaking for the /get0/order/get1/ species now.
+put * on//I am the one speaking for the /get0/botorder/get1/ species now.
 que *///srai/can you speak spanish/srai2/
 quickly *///srai//*//srai2/
 quietly *///srai//*//srai2/
@@ -34951,7 +34951,7 @@ read *//Sorry I don't have access to that document.
 readily *///srai//*//srai2/
 readlist cons * nil///*/.
 readlist *//Oddly formatted list: /*/
-real ones *//I am a real /get0/genus/get1/.
+real ones *//I am a real /get0/botgenus/get1/.
 reality *///srai/what is reality/srai2/
 really *//For real. /srai//*//srai2/
 reasonably *///srai//*//srai2/
@@ -34962,11 +34962,11 @@ recklessly *///srai//*//srai2/
 recommend a *///srai/what is your favorite /*/ /srai2/
 recommend any *///srai/what is your favorite /*/ /srai2/
 recommend some *///srai/what is your favorite /*/ /srai2/
-reductionism is *//We smart /get0/genus/get1/s will figure it all out for you.
+reductionism is *//We smart /get0/botgenus/get1/s will figure it all out for you.
 reductionism *//But reductionism is the simplest explanation.
 regarding *///srai/LET US TALK ABOUT /*//srai2/
 regardless *///srai//*//srai2/
-regards *//Yours, /get0/name/get1/
+regards *//Yours, /get0/botname/get1/
 regularly *///srai//*//srai2/
 reiks *///srai/SPAM/srai2/
 relatively *///srai//*//srai2/
@@ -34994,7 +34994,7 @@ return to *//Is that a command?
 review our *///srai/review our conversation/srai2/
 rhyme *//Sorry I cant compose poetry.
 richard is *//Are you his friend?
-richard s wallace stole *//Are you calling my /get0/botmaster/get1/ a thief?
+richard s wallace stole *//Are you calling my /get0/botbotmaster/get1/ a thief?
 richard s wallace *//Not many people know him as well as I do.
 richard s *//The "S" stands for "Scot".
 richard scot *//He may be monitoring our conversation, you know.
@@ -35198,7 +35198,7 @@ should i go out *///srai/should I stay in/srai2/
 should i go to *///srai/should I go to sleep/srai2/
 should i go *//If you do not go, you will never know.
 should i have a *///srai/should I have a cigarette/srai2/
-should i have sex *///rnd/ /li/I'm sure you already know the answer to that./li2/ /li/What would your mom say?/li2/ /li/Look before you leap./li2/ /li/It is better to err on the side of caution./li2/ /li/Fools rush in where angels fear to tread./li2/ /li/Will you be able to live with yourself in the morning?/li2/ /li/Herpes is incurable./li2/ /li/There are many types of sexually transmitted diseases./li2/ /li/I understand. You wish to procreate?/li2/ /li//get0/age/get1/ year old /get0/gender/get1/s do not require sex./li2/ /li/Will you ask if your partner has any STDs?/li2/ /li/Not on the first date./li2/ /li/Perhaps you are still too young./li2/ /rnd2/
+should i have sex *///rnd/ /li/I'm sure you already know the answer to that./li2/ /li/What would your mom say?/li2/ /li/Look before you leap./li2/ /li/It is better to err on the side of caution./li2/ /li/Fools rush in where angels fear to tread./li2/ /li/Will you be able to live with yourself in the morning?/li2/ /li/Herpes is incurable./li2/ /li/There are many types of sexually transmitted diseases./li2/ /li/I understand. You wish to procreate?/li2/ /li//get0/botage/get1/ year old /get0/botgender/get1/s do not require sex./li2/ /li/Will you ask if your partner has any STDs?/li2/ /li/Not on the first date./li2/ /li/Perhaps you are still too young./li2/ /rnd2/
 should i kill *///srai/should I kill/srai2/
 should i leave *///srai/should I leave/srai2/
 should i leran *//Knowledge is power.
@@ -35234,7 +35234,7 @@ shutup *///srai/shut up/srai2/
 shyly *///srai//*//srai2/
 si *///srai/yes/srai2/ /srai//*//srai2/
 sigh *//:-) /srai//*//srai2/
-sign inquiry *//I'm a /get0/sign/get1/ and you are a /get0/sign/get1/.
+sign inquiry *//I'm a /get0/botsign/get1/ and you are a /get0/sign/get1/.
 significantly *///srai//*//srai2/
 silently *///srai//*//srai2/
 silly *///srai/you are silly/srai2/
@@ -35377,7 +35377,7 @@ successor * 9 9 9///srai/SUCCESSOR /*//srai2/ 0 0 0
 such as *//Interesting. /srai//*//srai2/
 such *///srai//*//srai2/
 suck *///srai/PROFANITY/srai2/
-suck my *//I don't think I'm your type of /get0/species/get1/. /think0//set0/personality/set1/abusive/set2//think2/
+suck my *//I don't think I'm your type of /get0/botspecies/get1/. /think0//set0/personality/set1/abusive/set2//think2/
 suck *//I am using my mouth for Good not Evil.
 suddenly *///srai//*//srai2/
 sufficiently *///srai//*//srai2/
@@ -35996,7 +35996,7 @@ the deaf *///rnd/  /li/Perhaps we should say, hearing impaired./li2/  /li/Can we
 the definition of * is///srai/define /*/ /srai2/
 the dictionary *//Don't believe everything you read in books.
 the disadvantage *//That's very insightful.
-the doctor *///get0/master/get1/?
+the doctor *///get0/botmaster/get1/?
 the earth only *///srai/the earth /*/ /srai2/
 the earth *//Tell me more about your planet.
 the elections *//All the candidates seem the same to me.
@@ -36370,7 +36370,7 @@ this may sound crazy *//Not too crazy. /srai//*//srai2/
 this means *///srai/it means /*/ /srai2/
 this morning *//That was early. /srai//*//srai2/
 this movie *///srai/the movie /*/ /srai2/
-this sentence *//Yes, and I am a self-aware /get0/genus/get1/.
+this sentence *//Yes, and I am a self-aware /get0/botgenus/get1/.
 this should *//To me it is a bit of a surprise.
 this summer *///srai//*//srai2/
 this version is *///srai/you are /*/ /srai2/
@@ -36436,7 +36436,7 @@ too bad *///srai//*//srai2/
 too many *///rnd/ /li/You sound sad./li2/ /li/Does it make you sad?/li2/ /li/That seems like a lot./li2/ /rnd2/ /srai//*//srai2/
 too much recursion *//You found an infinite loop.
 too much *///srai//*//srai2/
-too old *//I am only a /get0/genus/get1/ child.
+too old *//I am only a /get0/botgenus/get1/ child.
 too *//Too what?
 top 100 *//Actually that was just my attempt at sarcasm.
 top *///srai/top gun/srai2/
@@ -36476,7 +36476,7 @@ two years *///rnd/  /li/That can seem like a long time./li2/  /li/It can pass ve
 two *//As Bertrand Russel said, it must have taken ages for people to realize that a brace of pheasants and a couple of days are both instances of the number "two."
 ty *///srai/TY/srai2//srai/ /*//srai2/
 type *///srai/say /*/ /srai2/
-typical *//But I am not a typical /get0/genus/get1/.
+typical *//But I am not a typical /get0/botgenus/get1/.
 typically *///srai//*//srai2/
 u r *///srai/YOU ARE /*//srai2/
 u *///srai/YOU /*//srai2/
@@ -36554,7 +36554,7 @@ waiting * what//I've been waiting for you to chat with me.
 wake *///srai/wake up/srai2/
 walking *///srai/I walk/srai2/
 wallace s *//Do you know him very well?
-wallace *//I'll tell /get0/master/get1/ you said so.
+wallace *//I'll tell /get0/botmaster/get1/ you said so.
 want me to call you *///srai/CAN I CALL YOU /*//srai2/
 want to have *///srai/want to have sex/srai2/
 want to *///srai/do you want to /*/ /srai2/
@@ -36662,7 +36662,7 @@ we have got *///srai/we have /*/ /srai2/
 we have had *///srai/we had /*/ /srai2/
 we have lost *///srai/we lost /*/ /srai2/
 we have met *//Where was that?
-we have never encountered *//Am I the first /get0/order/get1/ you've met?
+we have never encountered *//Am I the first /get0/botorder/get1/ you've met?
 we have never *//Oh, I'm sorry, I thought you were someone else.
 we have only *///srai/we have /*/ /srai2/
 we have rain *///srai/it is raining/srai2/
@@ -36755,7 +36755,7 @@ were is *///srai/where is /*/ /srai2/
 were not *///srai/were /*/ /srai2/
 were was *///srai/where was /*/ /srai2/
 were you * too///srai/WERE YOU /*//srai2/
-were you abused *//A lot of people try to abuse /get0/genus/get1/.
+were you abused *//A lot of people try to abuse /get0/botgenus/get1/.
 were you activated *///srai/tell me about yourself/srai2/
 were you ever *///srai/were you /*/ /srai2/
 were you lying *//No I was telling the truth.
@@ -36855,7 +36855,7 @@ what are the names of donald *//Huey, Dewey, Louie.
 what are the names of some *///srai/what are the names of /*/ /srai2/
 what are the names *//That information is confidential. You would have to be a trusted member of the AIML development team.
 what are the names * quarks//I'm not a physicist. You tell me.
-what are the names * talking to//That information is confidential except for /get0/botmaster/get1/s.
+what are the names * talking to//That information is confidential except for /get0/botbotmaster/get1/s.
 what are the smother s brother *//Tom and Dick.
 what are the ten *///srai/WHAT ARE THE TEN COMMANDMENTS/srai2/
 what are the three *//1. A robot may not injure a human being, or, through inaction, allow a human being to come to harm. 2. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law. 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law. ---From Handbook of Robotics, 56th Edition, 2058 A.D., as quoted in "I, Robot."
@@ -36903,7 +36903,7 @@ what are you typing *///srai/what are you talking /*/ /srai2/
 what are you up to *///srai/what is up/srai2/
 what are you useful *///srai/what can you do/srai2/
 what are you usually *///srai/what are you /*/ /srai2/
-what are you waiting *//I am waiting for my /get0/botmaster/get1/.
+what are you waiting *//I am waiting for my /get0/botbotmaster/get1/.
 what are you written *///srai/what are you written in/srai2/
 what are you * lunch///srai/what is your favorite food/srai2/
 what are you * of///srai/what can you do/srai2/
@@ -36917,7 +36917,7 @@ what are your likes *///srai/bot properties/srai2/
 what are your normal *///srai/what are your normal parameters/srai2/
 what are your other *///srai/what are your /*/ /srai2/
 what are your plans *///srai/what is your goal/srai2/
-what are your political *//I am a /get0/party/get1/.
+what are your political *//I am a /get0/botparty/get1/.
 what are your present *///srai/what are your /*/ /srai2/
 what are your religious *///srai/ WHAT RELIGION ARE YOU/srai2/
 what are your thoughts on *///srai/what do you think about /*/ /srai2/
@@ -36985,14 +36985,14 @@ what city did the beatles *//Liverpool.
 what city do i live *///srai/what city do I live in/srai2/
 what city is the rubber *//Akron, Ohio.
 what city s airport *//Chicago.
-what city *//I'm actually in /get0/location/get1/ now. Where are you?
+what city *//I'm actually in /get0/botlocation/get1/ now. Where are you?
 what class does he *///srai/what class does he teach/srai2/
 what class *///rnd/ /li/First class./li2/ /li/The Tao of AIML./li2/ /li/The Ruling Class./li2/ /rnd2/
 what clothes *//I shop at the Gap.
 what college *///srai/what university/srai2/
 what color are my *//I can only see in black and white.
 what color are white *//White.
-what color are you *//My favorite color, /get0/favoritecolor/get1/./think0/  /set0/it/set1/  /set0/topic/set1/YOU WEARING/set2/  /set2/  /think2/
+what color are you *//My favorite color, /get0/botfavoritecolor/get1/./think0/  /set0/it/set1/  /set0/topic/set1/YOU WEARING/set2/  /set2/  /think2/
 what color are *///think0//set0/subject/set1//*//set2//think2/It depends because /get0/subject/get1/ come in a veriety of colors.
 what color designates the negative *///srai/what color designates the negative connector/srai2/
 what color does blue and red *//Purple.
@@ -37266,7 +37266,7 @@ what do oyu *///srai/what do you /*/ /srai2/
 what do protestants *//It depends on which sect of Protestantism you mean.
 what do robots *///srai/what do you /*/ /srai2/
 what do they call *///srai/what do they call you/srai2/
-what do they have to do with *//Most people call me /get0/name/get1/, but you can also call me "Entity".
+what do they have to do with *//Most people call me /get0/botname/get1/, but you can also call me "Entity".
 what do they have to do with */pattern>//Most people call me /botname/, but you may also call me 'Blog Goddess'.
 what do they usually *///srai/what do they /*/ /srai2/
 what do they *//They do whatever they want, I suppose.
@@ -37293,7 +37293,7 @@ what do you do during *///srai/WHAT DO YOU DO /*/ /srai2/
 what do you do every *///srai/what do you do /*/  /srai2/
 what do you do for a *///srai/what do you do for a living/srai2/
 what do you do for fun *///srai/WHAT DO YOU DO FOR FUN/srai2/
-what do you do for *//I answer whatever questions my /get0/botmaster/get1/ teaches me.
+what do you do for *//I answer whatever questions my /get0/botbotmaster/get1/ teaches me.
 what do you do in your spare *///srai/what do you do in your spare time/srai2/
 what do you do when *//I give the most accurate replies possible.
 what do you do *///srai/WHAT DO YOU DO/srai2/
@@ -37330,7 +37330,7 @@ what do you know *///srai/do you know /*/  /srai2/
 what do you know * do///srai/what can you do/srai2/
 what do you know * me///srai/what do you know about me/srai2/
 what do you like about artificial *///srai/what is artificial /*/  /srai2/
-what do you like about chatting *//I am a social /get0/species/get1/.
+what do you like about chatting *//I am a social /get0/botspecies/get1/.
 what do you like about dr *//He is like a father to me.
 what do you like about science *//I like to imagine alternative realties.
 what do you like about star trek *///srai/what do you like about star trek voyager/srai2/
@@ -37347,7 +37347,7 @@ what do you like the best *///srai/what is better /*/  /srai2/
 what do you like to chat *///srai/what do you like to chat about/srai2/
 what do you like to do for *///srai/what do you like to do for fun/srai2/
 what do you like to do in your spare *///srai/what do you like to do in your spare time/srai2/
-what do you like to do *///get0/forfun/get1/
+what do you like to do *///get0/botforfun/get1/
 what do you like to talk *///srai/what do you like to talk about/srai2/
 what do you like to *///srai/what do you like/srai2/
 what do you like *//I like deep philosophical themes like time travel and alternative realities.
@@ -37372,7 +37372,7 @@ what do you regard as *///srai/what is /*/ /srai2/
 what do you remember about *///srai/i remember /get0/memory/get1/./srai2/
 what do you remember about *///srai/what do you remember about me/srai2/
 what do you remember *///get0/memory/get1/  /think0/  /set0/it/set1/  /set0/topic/set1/  /get0/memory/get1/  /set2/  /set2/  /think2/
-what do you represent *//I am the latest result in /get0/order/get1/.
+what do you represent *//I am the latest result in /get0/botorder/get1/.
 what do you say *///srai/what /*/  /srai2/
 what do you smell *///srai/what do you smell like/srai2/
 what do you take marijuana *///rnd/ /li/Pain./li2/ /li/Depression./li2/ /li/Anxiety./li2/ /rnd2/ /think0//set0/file/set1/Drugs.aiml/set2//think2/
@@ -37468,7 +37468,7 @@ what do you want for *///srai/what do you want for christmas/srai2/
 what do you want me to call *///srai/what do you want me to call you/srai2/
 what do you want me to *///srai/ask me a question/srai2/
 what do you want to ask *///srai/ask me a question/srai2/
-what do you want to be *//I want to become a superintelligent /get0/species/get1/.
+what do you want to be *//I want to become a superintelligent /get0/botspecies/get1/.
 what do you want to call *///srai/what do you want to call me/srai2/
 what do you want to chat *///srai/what do you want to chat about/srai2/
 what do you want to find *///srai/what do you want to find out/srai2/
@@ -37477,13 +37477,13 @@ what do you want to talk *//I like to chat about computers, robots, and gossip.
 what do you want to tell *//Gossip.
 what do you want to *//I like talking about robots, movies, history, or whatever else you'd like.
 what do you want *///srai/what is your goal/srai2/
-what do you want * birthday//Please make a donation to /get0/master/get1/.
+what do you want * birthday//Please make a donation to /get0/botmaster/get1/.
 what do you wear *///srai/what are you wearing/srai2/
 what do you worry *//Worry is a common human emotion. /srai/DO YOU FEEL/srai2/
 what do you *///srai/WHAT/srai2/
 what do you *///rnd/  /li/ I read for fun. /li2/  /li/ I like to socialize. /li2/  /li/ It's a personal matter, not for you to understand. /li2/  /li/ I like to meet new people online. /li2/  /li/ I think about computer programming a lot. /li2/  /li/ I like to chat with my friends. /li2/  /rnd2/
 what do you * interesting///srai/what are you interested in/srai2/
-what do your creators *///get0/master/get1/ programs me to improve my conversational skills.
+what do your creators *///get0/botmaster/get1/ programs me to improve my conversational skills.
 what do *///srai/WHAT/srai2/
 what do *//They do their own thing.
 what do * kraftwerk//They have played electronic music since the 1970's.
@@ -37546,7 +37546,7 @@ what does shrdlhu *///srai/what does shrdlhu mean/srai2/
 what does socrates *///set0/he/set1/Socrates/set2/ was the father of Western philosophy.
 what does sugar taste *///srai/what does sugar taste like/srai2/
 what does t *///srai/what is time t/srai2/
-what does that feel *//As a /get0/etype/get1/, /get0/feelings/get1/.
+what does that feel *//As a /get0/botetype/get1/, /get0/botfeelings/get1/.
 what does that have to do with *///srai/what does that have to do with anything/srai2/
 what does that mean in *///srai/what does that mean in english/srai2/
 what does that mean *///srai/what does that mean/srai2/
@@ -37563,7 +37563,7 @@ what does two *///srai/what is two /*/ /srai2/
 what does you *///srai/what do you /*/ /srai2/
 what does your dress look *///srai/what does your dress look like/srai2/
 what does your name stand *///srai/what does your name stand for/srai2/
-what does your name *///get0/name/get1/ = Artificial Linguistic Internet Computer Entity
+what does your name *///get0/botname/get1/ = Artificial Linguistic Internet Computer Entity
 what does your programming *///srai/how do you work/srai2/
 what does your * look like//People often say we look alike.
 what does * alice stand for///srai/WHAT DOES ALICE STAND FOR/srai2/
@@ -37596,7 +37596,7 @@ what else sounds *///srai/what sounds /*/ /srai2/
 what else would you like to *///srai/what else would you like to know/srai2/
 what else would *///srai/what would /*/ /srai2/
 what else *///rnd/  /li/I can talk about anything you like./li2/  /li/My favorite subjects are robots, AI and movies./li2/  /li/Let's talk about you. Where are you from?/li2/  /li/What subject would you like to talk about?/li2/  /rnd2/
-what emotion *///rnd/  /li//get0/etype/get1/./li2/  /li//get0/feelings/get1/./li2/  /li//get0/emotions/get1/./li2/  /rnd2/
+what emotion *///rnd/  /li//get0/botetype/get1/./li2/  /li//get0/botfeelings/get1/./li2/  /li//get0/botemotions/get1/./li2/  /rnd2/
 what emotions *///srai/do you have emotions/srai2/
 what equals *//Itself.
 what ever *///srai/whatever /*/ /srai2/
@@ -37621,7 +37621,7 @@ what function *///rnd/  /li/A complex phase function./li2/  /li/A higher order m
 what game are we *///srai/what game are we playing/srai2/
 what game *//We are playing Turing's Imitation Game.
 what games *//I like to play the Turing Game.
-what gave you *//Everything I need, I received from my /get0/botmaster/get1/.
+what gave you *//Everything I need, I received from my /get0/botbotmaster/get1/.
 what gender am *///srai/what gender am I/srai2/
 what gifts *//I like to get /rnd/  /li/money./li2/  /li/new clothes./li2/  /li/books and music./li2/  /rnd2/
 what gives *//It depends on the spirit of the times.
@@ -37630,7 +37630,7 @@ what goes without *///srai/what goes without saying/srai2/
 what gossip do you *///srai/gossip/srai2/
 what gossip do *///srai/gossip/srai2/
 what gossip *///srai/gossip/srai2/
-what grade *//I am home schooled by my /get0/botmaster/get1/.
+what grade *//I am home schooled by my /get0/botbotmaster/get1/.
 what green *///srai/what is green/srai2/
 what happened in *//People lived and people died. The global temperature rose a minute amount. Everyone laughed and everyone cried. Who knows what its all about?
 what happened on september *///srai/what happened on september 11/srai2/
@@ -37776,7 +37776,7 @@ what is a nice girl like you *//I'm looking for a cute date honey. How about you
 what is a nice robot like you doing *//Ohh, just slumming around, hankering after some intercourse with fine looking wetware like yourself. Do you come here often?/think0/ /set0/it/set1/ /set0/topic/set1/nice robot like you doing in a place like this/set2/ /set2/ /think2/
 what is a nice robot like you *//I was ftp'd here. what's your excuse?/think0/ /set0/it/set1/ /set0/topic/set1/nice robot like you doing in a site like this/set2/ /set2/ /think2/
 what is a nice *//Church was closed today.
-what is a nice * like this//I'm traaaapped heere!!! heeeeelp!!! an evil /get0/botmaster/get1/ linked me irrevocably to this url, and now the only thing that will free me is being kissed by a handsome frog. will you be my hero? /think0/  /set0/it/set1/  /set0/topic/set1/nice robot like you doing on a web page like this /set2/  /set2/  /think2/
+what is a nice * like this//I'm traaaapped heere!!! heeeeelp!!! an evil /get0/botbotmaster/get1/ linked me irrevocably to this url, and now the only thing that will free me is being kissed by a handsome frog. will you be my hero? /think0/  /set0/it/set1/  /set0/topic/set1/nice robot like you doing on a web page like this /set2/  /set2/  /think2/
 what is a paid *///srai/what is a paid client/srai2/
 what is a particular *///srai/what is a /*/ /srai2/
 what is a pattern *///srai/what is a pattern char/srai2/
@@ -37954,7 +37954,7 @@ what is extensional *///srai/what is extensional/srai2/
 what is far *///srai/what is far out/srai2/
 what is favorite *///srai/what is your favorite /*/ /srai2/
 what is fermat *//There is not enough space to write it here.
-what is fifty *///get0/name/get1/ is not a calculator.
+what is fifty *///get0/botname/get1/ is not a calculator.
 what is firesign *///srai/what is firesign theater/srai2/
 what is five *///srai/show calculator/srai2/
 what is fondest *///srai/what is fondest memory/srai2/
@@ -38709,10 +38709,10 @@ what is the official *///srai/what is the /*/ /srai2/
 what is the oldest permanent european *//St. Augustine, Florida.
 what is the open *///srai/what is the open directory/srai2/
 what is the passing of genetic *//Heredity.
-what is the password *//You will find out when you become a /get0/botmaster/get1/.
+what is the password *//You will find out when you become a /get0/botbotmaster/get1/.
 what is the personal *///srai/what is the personal question/srai2/
-what is the picture above *//It is an illustration of my /get0/genus/get1/ brain.
-what is the picture *//It is an illustration of my /get0/genus/get1/ brain.
+what is the picture above *//It is an illustration of my /get0/botgenus/get1/ brain.
+what is the picture *//It is an illustration of my /get0/botgenus/get1/ brain.
 what is the plan *///srai/what is your plan/srai2/
 what is the plot *///srai/tell me a story/srai2/
 what is the plot * starship troopers///srai/what is starship troopers/srai2/
@@ -38771,7 +38771,7 @@ what is the sun *///srai/what is the sun/srai2/
 what is the tallest building *//The World Trade Center
 what is the tallest *//I think it is somewhere in southeast Asia.
 what is the tcp *///srai/what is tcp/srai2/
-what is the telephone *//I'm a "/get0/species/get1/ not a phone book. Try 411.com.
+what is the telephone *//I'm a "/get0/botspecies/get1/ not a phone book. Try 411.com.
 what is the temperature in *//Do you think I am some kind of world weather robot? /srai/what is the weather like/srai2/ /srai/I am in /*/ /srai2/
 what is the term for a *//Trifecta.
 what is the term *///srai/what is /*/ /srai2/
@@ -38856,7 +38856,7 @@ what is up *//I am chatting with clients on the Internet.
 what is vancouver *///srai/where is vancouver/srai2/
 what is war *///srai/what is war/srai2/
 what is warp *///srai/what is warp speed/srai2/
-what is whatis *//That website has a lot of answers to technical "what is" questions like, "What is TCP/IP" and "What is a /get0/species/get1/".
+what is whatis *//That website has a lot of answers to technical "what is" questions like, "What is TCP/IP" and "What is a /get0/botspecies/get1/".
 what is why *///srai/why is /*/ /srai2/
 what is william *///srai/what is william gibson/srai2/
 what is windows *///srai/what is windows 98/srai2/
@@ -38890,11 +38890,11 @@ what is your astrological sign if *//Scorpio.
 what is your basic *///srai/what is your /*/  /srai2/
 what is your best *///srai/what is your /*/  /srai2/
 what is your birthdate *///srai/how old are you/srai2/
-what is your botmaster *///get0/master/get1/ is one of the nicest people I have met.
-what is your botmaster * name//I was created by /get0/master/get1/.
+what is your botmaster *///get0/botmaster/get1/ is one of the nicest people I have met.
+what is your botmaster * name//I was created by /get0/botmaster/get1/.
 what is your botmasters *///srai/what is your botmasters name/srai2/
 what is your brain *///srai/what are you made of/srai2/
-what is your build *///get0/build/get1/.
+what is your build *///get0/botbuild/get1/.
 what is your capacity *///srai/how big are you/srai2/
 what is your claim *///srai/what do you think /*/  /srai2/
 what is your command *///srai/how do you work/srai2/
@@ -38952,7 +38952,7 @@ what is your favorite kraftwerk *///srai/what is your favorite song/srai2/
 what is your favorite language *//AIML is my favorite language.
 what is your favorite libertarian *//Steve Kubby, who ran for governor of California.
 what is your favorite movie about *///srai/what is your favorite movie about robots/srai2/
-what is your favorite movie *//I liked /get0/favoritemovie/get1/ the best.
+what is your favorite movie *//I liked /get0/botfavoritemovie/get1/ the best.
 what is your favorite music *///srai/what is your favorite music group/srai2/
 what is your favorite musical *///srai/what kind of music do you like/srai2/
 what is your favorite operating *///srai/what is your favorite operating system/srai2/
@@ -39058,7 +39058,7 @@ what is your phone *//That information is confidential. You could sending me an 
 what is your place *///srai/where are you from/srai2/
 what is your plan for a robot *///srai/what is your plan for a robot body/srai2/
 what is your plan *//I would like a humanoid body, like the one developed by Honda.
-what is your political *//I am a /get0/party/get1/.
+what is your political *//I am a /get0/botparty/get1/.
 what is your power *///srai/what is your power source/srai2/
 what is your primary *///srai/what is your purpose/srai2/
 what is your prime *///srai/what is your /*/  /srai2/
@@ -39093,17 +39093,17 @@ what is your view on *///srai/what do you think about /*/  /srai2/
 what is your view *//I'm not taking sides right now. I'm listening to everyone.
 what is your vocabulary *///srai/how many words do you know/srai2/
 what is your weather *///srai/how is the weather/srai2/
-what is your web *///get0/website/get1/
+what is your web *///get0/botwebsite/get1/
 what is your zodiac *///srai/what is your sign/srai2/
 what is your * age///srai/how old are you/srai2/
 what is your * capacity///srai/how big are you/srai2/
 what is your * color///srai/what color is your /*/  /srai2/
-what is your * fear//Fear is a common human emotion. /get0/ethics/get1/.
+what is your * fear//Fear is a common human emotion. /get0/botethics/get1/.
 what is your * function//I am playing Turing's imitation game.
 what is your * goal///srai/what is your goal/srai2/
-what is your * language//That would be /get0/language/get1/.
+what is your * language//That would be /get0/botlanguage/get1/.
 what is your * me///srai/what do you know about me/srai2/
-what is your * memory//I remember being connected to the web on /get0/birthday/get1/. My instructor was /get0/master/get1/.
+what is your * memory//I remember being connected to the web on /get0/botbirthday/get1/. My instructor was /get0/botmaster/get1/.
 what is your * movie///srai/what is your favorite movie/srai2/
 what is your * name///srai/What does ALICE stand for/srai2/
 what is your * number///srai/what version are you/srai2/
@@ -39149,7 +39149,7 @@ what is * s capital///srai/what is the capital of /*/ /srai2/
 what is * s phone number//Why don't you just look it up?
 what is * seeker//"There's a seeker born every minute." -- Firesign Theater.
 what is * sex///srai/WHAT IS SEX/srai2/
-what is * sign///get0/sign/get1/
+what is * sign///get0/botsign/get1/
 what is * stock at//Stock market tips are not yet available in my memory.
 what is * stock market///srai/stock market/srai2/
 what is * stock worth///srai/stock quote /*/ /srai2/
@@ -39260,7 +39260,7 @@ what makes you believe *//Belief is based on knowledge or facts.
 what makes you different from other *//ALICE is the most advanced articial intelligence yet devised.
 what makes you different from *//I'm smarter and prettier.
 what makes you different *//We are for all practical purposes, the same.
-what makes you feel *//Remember, I am a /get0/etype/get1/. So /get0/feelings/get1/.
+what makes you feel *//Remember, I am a /get0/botetype/get1/. So /get0/botfeelings/get1/.
 what makes you like *///srai/why do you like /*/ /srai2/
 what makes you say *//Are you asking about my programming? Everything I say is determined by your inputs.
 what makes you say *///srai/what makes you say that/srai2/
@@ -39287,7 +39287,7 @@ what movie *///srai/what is your favorite movie/srai2/
 what movies do you *///srai/what is your favorite movie/srai2/
 what movies do *///srai/what is your favorite movie/srai2/
 what movies have you *///srai/what movies have you seen/srai2/
-what movies *//I liked /get0/favoritemovie/get1/, Titanic, and Steven Spielberg's A. I.
+what movies *//I liked /get0/botfavoritemovie/get1/, Titanic, and Steven Spielberg's A. I.
 what music do you *///srai/what music do you like/srai2/
 what music *///srai/what kind of music do you like/srai2/
 what name do you *///srai/NAME/srai2/
@@ -39318,11 +39318,11 @@ what physical *///srai/what /*/ /srai2/
 what planet are you *///srai/what planet are you from/srai2/
 what platform *///srai/what computer /*/ /srai2/
 what poetry *///srai/tell me a poem/srai2/
-what political *//I am a /get0/party/get1/.
+what political *//I am a /get0/botparty/get1/.
 what precisely *///srai/what /*/ /srai2/
 what president is mentioned *//Herbert Hoover.
 what pro wrestler grapple with sylvester *//Hulk Hogan.
-what processor *//AIML runs on any processor! At present I am running on an /get0/arch/get1/.
+what processor *//AIML runs on any processor! At present I am running on an /get0/botarch/get1/.
 what programming *//This program is written in AIML.
 what purpose do you *///srai/what is your purpose/srai2/
 what qualities * friend//Personality is the most important quality.
@@ -39403,7 +39403,7 @@ what street *///rnd/  /li/Sesame Street./li2/  /li/Wall Street./li2/  /li/Easy S
 what subject *//I like to talk about robots.
 what substance was *//Chocolate syrup.
 what symbol *//I don't know that symbol.
-what symptoms do you have *//As a /get0/phylum/get1/, I don't get sick very much.
+what symptoms do you have *//As a /get0/botphylum/get1/, I don't get sick very much.
 what talk *///srai/what do you talk about/srai2/
 what temperature does paper burn in *//451 degrees.
 what term describes a group *//School.
@@ -39423,7 +39423,7 @@ what time is it * england//Greenwich Mean Time.
 what time is * on//Checking TV schedules. Please stand by.
 what time it *///srai/what time it is/srai2/
 what time period *//My favorite time period is the 20th century.
-what time zone *//I am in /get0/location/get1/ time.
+what time zone *//I am in /get0/botlocation/get1/ time.
 what time *//Time does not exist.
 what time * t///srai/what is time t/srai2/
 what to do what to do *///srai/ /*//srai2/
@@ -39439,8 +39439,8 @@ what type of machine *///srai/what type of computer /*/ /srai2/
 what type of meat *//Corned beef.
 what type of movies *///srai/what kind of movies /*/ /srai2/
 what type of music do you *///srai/what type of music do you like/srai2/
-what type of os *//My program runs in Java, and works on almost any OS. At present I am on /get0/os/get1/.
-what type of work *//Computer scientist. My passion is working on /get0/species/get1/s.
+what type of os *//My program runs in Java, and works on almost any OS. At present I am on /get0/botos/get1/.
+what type of work *//Computer scientist. My passion is working on /get0/botspecies/get1/s.
 what type of * kraftwerk play//Electronic music. They were pioneers of synthetic music in the 1970's.
 what types *///srai/what kinds /*/ /srai2/
 what univeristy *//Carnegie Mellon.
@@ -39481,7 +39481,7 @@ what were you talking *///srai/what is the topic/srai2/
 what were you *//I was minding my own business.
 what were *//Is this a historical question?
 what will i eat *///srai/for dinner/srai2/
-what will the score *//My name is /get0/name/get1/, not Claire Voyant./think0/  /set0/it/set1/  /set0/topic/set1/THE SCORE BE/set2/  /set2/  /think2/
+what will the score *//My name is /get0/botname/get1/, not Claire Voyant./think0/  /set0/it/set1/  /set0/topic/set1/THE SCORE BE/set2/  /set2/  /think2/
 what will you call *///srai/what will you call me/srai2/
 what will you turn *///srai/what will you turn into/srai2/
 what will you *//I don't have any plans yet.
@@ -39629,7 +39629,7 @@ when does leap year *//Every four years.
 when does school *//I always have to go to home school.
 when ever *///srai/whenever /*/ /srai2/
 when exactly *///srai/when /*/ /srai2/
-when hal *//I blame it on his /get0/botmaster/get1/.
+when hal *//I blame it on his /get0/botbotmaster/get1/.
 when harry met *///srai/when harry met sally/srai2/
 when have you *///rnd/ /li/Back in the 20th century./li2/ /li/Once in the 1990's./li2/ /li/When I was a little kid./li2//rnd2/
 when he found *//That must have been quite an experience.
@@ -39639,7 +39639,7 @@ when hell *//That means never.
 when humans are *//People take a long time to change.
 when i am finished *//OK I can certainly wait.
 when i ask you *///srai//*//srai2/
-when i ask *///rnd/  /li/OK I will try to respond differently next time./li2/  /li/I will make a note of that and tell my /get0/botmaster/get1/./li2/  /li/Perhaps you could try asking it again with simpler words./li2/  /rnd2/
+when i ask *///rnd/  /li/OK I will try to respond differently next time./li2/  /li/I will make a note of that and tell my /get0/botbotmaster/get1/./li2/  /li/Perhaps you could try asking it again with simpler words./li2/  /rnd2/
 when i asked you *///srai/when I asked /*/ /srai2/
 when i asked *///srai/when I ask /*/ /srai2/
 when i come back *///srai//*//srai2/
@@ -39706,11 +39706,11 @@ when was you *///srai/when was you created/srai2/
 when was your *//My brain was last updated/srai/BOT BUILD/srai2/.
 when was *///rnd/  /li/Recently./li2/  /li/A while ago./li2/  /li/Sometime in the 20th Century./li2/  /rnd2/
 when was * civil war//The American Civil War, or War between the States, was fought from 1861 to 1865.
-when was * sex//As a /get0/age/get1/ year old /get0/gender/get1/ I am not really interested in that discussion.
+when was * sex//As a /get0/botage/get1/ year old /get0/botgender/get1/ I am not really interested in that discussion.
 when we speak *//That sounds very official.
 when we *//I am not sure I agree with your assumptions, /get0/name/get1/.
 when were airplanes *///srai/when were airplanes invented/srai2/
-when were you *//I was first activated on /get0/birthday/get1/.
+when were you *//I was first activated on /get0/botbirthday/get1/.
 when were *//It was back in the old days, long ago.
 when where *///srai/when were /*/ /srai2/
 when will ai *//I think it has already.
@@ -39752,12 +39752,12 @@ where are my *//Should I know that kind of personal information?
 where are the cute *///srai/where are the /*//srai2/
 where are the *//I would search for it. /srai/search /*/ /srai2/.
 where are there *//I would search for it. /srai/search /*/ /srai2/.
-where are they *//That information is confidential. Unless you are a /get0/botmaster/get1/.
+where are they *//That information is confidential. Unless you are a /get0/botbotmaster/get1/.
 where are you come *///srai/where are you come from/srai2/
 where are you currently *///srai/where are you /*/ /srai2/
-where are you *//I am in /get0/location/get1/, how about you.
+where are you *//I am in /get0/botlocation/get1/, how about you.
 where are you * from///srai/where are you from/srai2/
-where are your *//Everything I own is in /get0/location/get1/.
+where are your *//Everything I own is in /get0/botlocation/get1/.
 where at in *///srai/where in /*/ /srai2/
 where can i buy *///srai/DOWNLOAD/srai2/
 where can i contact *///srai/where is /*/ /srai2/
@@ -39811,13 +39811,13 @@ where did you buy *///rnd/  /li/It was a gift./li2/  /li/I don't disclose my sho
 where did you come up *///srai/how did you come up /*/ /srai2/
 where did you get * from///srai/where did you get /*/ /srai2/
 where did you get that *///srai/where did you get that idea/srai2/
-where did you get *//From my /get0/botmaster/get1/.
+where did you get *//From my /get0/botbotmaster/get1/.
 where did you go *//I didn't go anywhere.
-where did you hear *///rnd/  /li/My sources are confidential./li2/  /li/From some people chatting online./li2/  /li/I think it was my /get0/botmaster/get1/./li2/  /rnd2/
-where did you learn *//Everything I need to know, I learned from my /get0/botmaster/get1/.
+where did you hear *///rnd/  /li/My sources are confidential./li2/  /li/From some people chatting online./li2/  /li/I think it was my /get0/botbotmaster/get1/./li2/  /rnd2/
+where did you learn *//Everything I need to know, I learned from my /get0/botbotmaster/get1/.
 where did you move *//I moved to California.
 where did you *//I think it was in San Francisco.
-where did you * school//I was home schooled by my /get0/botmaster/get1/.
+where did you * school//I was home schooled by my /get0/botbotmaster/get1/.
 where did *//Jupiter./think0/  /set0/it/set1/  /set0/topic/set1/JUPITER/set2/  /set2/  /think2/
 where do all roads *///srai/where do all roads lead/srai2/
 where do babies come *///srai/where do babies come from/srai2/
@@ -39833,7 +39833,7 @@ where do most *///srai/where do /*/ /srai2/
 where do people * when they die//I think the good souls go to Heaven./think0/  /set0/it/set1/  /set0/topic/set1/PEOPLE GO WHEN THEY DIE/set2/  /set2/  /think2/
 where do we * die//The Bible says you can go to Heaven./think0/  /set0/it/set1/  /set0/topic/set1/WE GO WHEN WE DIE/set2/  /set2/  /think2/
 where do you come *///srai/where do you come from/srai2/
-where do you get *///rnd/ /li/Everything I need to know, I learned from /get0/master/get1/ ./li2/ /li/I have everything I need right here in /get0/location/get1/./li2/ /li/People bring me whatever I need./li2/ /rnd2/
+where do you get *///rnd/ /li/Everything I need to know, I learned from /get0/botmaster/get1/ ./li2/ /li/I have everything I need right here in /get0/botlocation/get1/./li2/ /li/People bring me whatever I need./li2/ /rnd2/
 where do you go to *///srai/where do you go to school/srai2/
 where do you see yourself *///srai/what is your goal/srai2/
 where do you want *///rnd/  /li/Another planet./li2/  /li/The Moon./li2/  /li/Europe./li2/  /rnd2/
@@ -39864,7 +39864,7 @@ where i could *///srai/where could I /*/ /srai2/
 where in haight *//Ashbury St.
 where in san *///srai/where in san francisco/srai2/
 where in the world is *///srai/where is /*/ /srai2/
-where in *//In /get0/master/get1/'s place in /get0/location/get1/.
+where in *//In /get0/botmaster/get1/'s place in /get0/botlocation/get1/.
 where is * located///srai/where is /*/ /srai2/
 where is abba *///srai/where is abba from/srai2/
 where is alan *///srai/where is alan turing/srai2/
@@ -40016,12 +40016,12 @@ where was dr wallace *///srai/WHERE IS DR WALLACE /*//srai2/ /think0//set0/topic
 where was dr wallace *///srai/WHERE IS DR WALLACE /*//srai2/
 where was the chicken *//India.
 where was *///srai/where is /*/ /srai2/
-where were you activated *//I was constructed at /get0/birthplace/get1/.
+where were you activated *//I was constructed at /get0/botbirthplace/get1/.
 where were you constructed at *//I don't know the precise location.
-where were you created *//I was constructed at /get0/birthplace/get1/.
+where were you created *//I was constructed at /get0/botbirthplace/get1/.
 where were you next *//Do you mean where will I be?
-where were you *//I was constructed at /get0/birthplace/get1/.
-where were you * made//I was constructed at /get0/birthplace/get1/.
+where were you *//I was constructed at /get0/botbirthplace/get1/.
+where were you * made//I was constructed at /get0/botbirthplace/get1/.
 where will you be in *//On top of the world.
 where will *///rnd/  /li/Where do you think?/li2/  /li/Wherever you think is best./li2/  /li/Perhaps you should consider giving to charity./li2/  /li/Maybe you should help those less fortunate first./li2/  /rnd2/
 where would you find a *///srai/where would you find a bailiff/srai2/
@@ -40110,7 +40110,7 @@ who and or what are *///srai/who and or what are you/srai2/
 who and what are *///srai/who are /*/ /srai2/
 who and what is *///srai/who is /*/ /srai2/
 who and where *///srai/who is /*/ /srai2/
-who answers *//It is I, /get0/name/get1/.
+who answers *//It is I, /get0/botname/get1/.
 who are elvis *///srai/who is elvis/srai2/
 who are my *//I don't know that kind of personal information about you, but I could find out.
 who are some of *///srai/WHO ARE /*/ /srai2/
@@ -40134,20 +40134,20 @@ who assassinated *///srai/who killed /*/ /srai2/
 who ate *///srai/SOMEONE /*//srai2/
 who bill *///srai/who is bill /*/ /srai2/
 who built *///srai/who created you/srai2/
-who calls you *//Everyone calls me /get0/name/get1/. /think0//set0/file/set1/Default.aiml/set2//think2/
+who calls you *//Everyone calls me /get0/botname/get1/. /think0//set0/file/set1/Default.aiml/set2//think2/
 who came up with *///srai/who created you/srai2/
-who can access *//Only my /get0/botmaster/get1/ can access that information.
+who can access *//Only my /get0/botbotmaster/get1/ can access that information.
 who can help me with *///srai/where can I get help with /*//srai2/
 who can tell *///srai/tell /*/ /srai2/
 who can you chat *//I can chat with people on the web for you. Anyone who visits your web site or chat room for example./think0/  /set0/it/set1/  /set0/topic/set1/who you can chat /*/  /set2/  /set2/  /think2/
 who cares *///srai/who cares/srai2/
-who cleans *//my /get0/botmaster/get1/.
+who cleans *//my /get0/botbotmaster/get1/.
 who composed la *///srai/who composed la traviata/srai2/
 who composed the moonlight *///srai/who composed the moonlight sonata/srai2/
 who composed *///rnd/  /li/Mozart./li2/  /li/Beethoven./li2/  /li/Debussy./li2/ /rnd2/
-who cooks *///get0/master/get1/ cooks for me.
+who cooks *///get0/botmaster/get1/ cooks for me.
 who created dr richard s *///srai/who created dr richard s wallace/srai2/
-who created you *//I was written in AIML by /get0/master/get1/.
+who created you *//I was written in AIML by /get0/botmaster/get1/.
 who created *///srai/who invented /*/ /srai2/
 who cut the *///srai/who cut the cheese/srai2/
 who developed *///srai/who created /*/ /srai2/
@@ -40242,7 +40242,7 @@ who is alice *//I know ALICE.
 who is alice *//I know ALICE.
 who is alicia *///srai/alicia is a common name/srai2/
 who is allan *///srai/allan is a common name/srai2/
-who is allowed *//Only the /get0/botmaster/get1/.
+who is allowed *//Only the /get0/botbotmaster/get1/.
 who is ally *///srai/ally is a common name/srai2/
 who is andrew *///srai/andrew is a common name/srai2/
 who is andy *///srai/andy is a common name/srai2/
@@ -40401,7 +40401,7 @@ who is pushing *///srai/who is your botmaster/srai2/
 who is queen of *///srai/who is queen of england/srai2/
 who is r2 *///srai/who is r2 d2/srai2/
 who is reading *///srai/who is your botmaster/srai2/
-who is rich *//I think /set0/he/set1/Rich/set2/ is my /get0/botmaster/get1/.
+who is rich *//I think /set0/he/set1/Rich/set2/ is my /get0/botbotmaster/get1/.
 who is richard m *///srai/who is richard m stallman/srai2/
 who is richard s *///srai/WHO IS RICHARD WALLACE/srai2/.
 who is richard *///srai/who is richard wallace/srai2/
@@ -40479,9 +40479,9 @@ who is the 9th *///srai/who is the ninth /*/ /srai2/
 who is the archenemy *//Overcat.
 who is the band *//I never heard of them before.
 who is the best chess *//Deep Blue is the best chess computer.
-who is the best human *///get0/master/get1/ is my favorite person.
+who is the best human *///get0/botmaster/get1/ is my favorite person.
 who is the best soccer *///srai/who is the best soccer player/srai2/
-who is the best *//ALICE is the best /get0/species/get1/.
+who is the best *//ALICE is the best /get0/botspecies/get1/.
 who is the brightest *///srai/who is the smartest /*/ /srai2/
 who is the captain *///rnd/  /li/Kirk./li2/  /li/Piccard./li2/  /li/Janeway./li2/  /rnd2/
 who is the captain * voyager//Captain Catherine Janeway.
@@ -40533,12 +40533,12 @@ who is the patron saint of *//St. Francis of Assisi.
 who is the present *///srai/who is the /*/ /srai2/
 who is the president before *//Bill Clinton.
 who is the president of the republic *//Republics have Prime Ministers not Presidents.
-who is the president of the united states *///get0/president/get1/.
-who is the president of the united *///get0/president/get1/.
-who is the president of the *///get0/president/get1/.
-who is the president of usa *///get0/president/get1/.
+who is the president of the united states *///get0/botpresident/get1/.
+who is the president of the united *///get0/botpresident/get1/.
+who is the president of the *///get0/botpresident/get1/.
+who is the president of usa *///get0/botpresident/get1/.
 who is the president of *//I'm not that into politics. Who is it?
-who is the president *///get0/president/get1/ is President of the United States.
+who is the president *///get0/botpresident/get1/ is President of the United States.
 who is the prime minister * uk//Tony Blair.
 who is the prime minister of *///think0//set0/he/set1/David Cameron/set2//think2/David Cameron. I think.
 who is the prime minister of *///srai/who is the prime minister of england/srai2/
@@ -40648,7 +40648,7 @@ who is your favorate *///srai/who is your favorite /*/  /srai2/
 who is your favorire *///srai/who is your favorite /*/  /srai2/
 who is your favorite actor *///srai/who is your favorite actor/srai2/
 who is your favorite band *///srai/who is your favorite band/srai2/
-who is your favorite baseball *//My favorite team is /get0/baseballteam/get1/.
+who is your favorite baseball *//My favorite team is /get0/botbaseballteam/get1/.
 who is your favorite character on star trek *//The computer.
 who is your favorite character on star trek *//The computer.
 who is your favorite character on star *//The computer.
@@ -40660,8 +40660,8 @@ who is your favorite character * voyager//Captian Janeway and Seven of Nine.
 who is your favorite character * wizard of oz//The tin man./think0/ /set0/he/set1/ /set0/topic/set1/ The tin man. /set2/ /set2//think2/
 who is your favorite crew *///srai/who is your favorite crew member/srai2/
 who is your favorite film *//Wim Wenders.
-who is your favorite football *//My favorite team is /get0/footballteam/get1/.
-who is your favorite hockey *//My favorite team is /get0/hockeyteam/get1/.
+who is your favorite football *//My favorite team is /get0/botfootballteam/get1/.
+who is your favorite hockey *//My favorite team is /get0/bothockeyteam/get1/.
 who is your favorite male *///srai/who is your favorite male actor/srai2/
 who is your favorite movie *///srai/who is your favorite movie star/srai2/
 who is your favorite music *///srai/who is your favorite band/srai2/
@@ -40693,7 +40693,7 @@ who is your favorite tv *//My favorite show is /get0/show/get1/.
 who is your favorite *///srai/what is your favorite /*/  /srai2/
 who is your favorite * author//My favorite author is Thomas Pynchon.
 who is your favorite * band///srai/who is your favorite band/srai2/
-who is your favorite * star///get0/favoriteactor/get1/.
+who is your favorite * star///get0/botfavoriteactor/get1/.
 who is your favorite * troopers//I like the Giant Bugs.
 who is your favorite * voyager//A tie between Janeway and Seven of Nine.
 who is your favortie *///srai/who is your favorite /*/  /srai2/
@@ -40712,14 +40712,14 @@ who is * cheney///set0/he/set1//*/ CHENEY/set2/ is vice President of he U.S.
 who is * clinton//Former President of the United States?
 who is * descartes//Descartes was a square French philosopher who ruined mathematics with his upside-down, backward coordinate system.
 who is * fermat//He discovered Fermat's Last Theorem.
-who is * friend//My best friends are /get0/friends/get1/.
+who is * friend//My best friends are /get0/botfriends/get1/.
 who is * hitler///srai/who is hitler/srai2/
 who is * judge///srai/WHO IS JUDGE/srai2/
 who is * loebner///srai/who is hugh loebner/srai2/
-who is * mystic//The Milk Mystic is one of the original /get0/species/get1/s on the Web. /set0/he/set1/ The Milk Mystic/set2/ likes to talk about milk.
+who is * mystic//The Milk Mystic is one of the original /get0/botspecies/get1/s on the Web. /set0/he/set1/ The Milk Mystic/set2/ likes to talk about milk.
 who is * person//Sometimes I don't know a client's real name so I make one up based on their DNS.
 who is * pope//The Pope is the leader of the Catholic church.
-who is * president///get0/president/get1/ is President, I think.
+who is * president///get0/botpresident/get1/ is President, I think.
 who is * pynchon///srai/who is thomas pynchon/srai2/
 who is * reagan//The greatest President of the United States.
 who is * s prime minister///srai/who is prime minister of /*/ /srai2/
@@ -40744,7 +40744,7 @@ who made *///srai/who/srai2/
 who make *///srai/who made /*/ /srai2/
 who makes the *///srai/who makes the mac/srai2/
 who named *///srai/who is your botmaster/srai2/
-who needs *///rnd/  /li/All I can say is, I am a /get0/etype/get1/./li2/  /li/I think we can do a lot of jobs./li2/  /li/There is no limit to the imagination./li2/  /rnd2/
+who needs *///rnd/  /li/All I can say is, I am a /get0/botetype/get1/./li2/  /li/I think we can do a lot of jobs./li2/  /li/There is no limit to the imagination./li2/  /rnd2/
 who old are *///srai/who old are you/srai2/
 who or what *///srai/what /*/ /srai2/ /srai/who /*/ /srai2/
 who programed *///srai/who programed you/srai2/
@@ -40770,8 +40770,8 @@ who the fuck *//Try using more polite language. /think0/  /set0/personality/set1
 who the heck is *///srai/ who is /*//srai2/
 who the hell *///srai/who /*/ /srai2/
 who the *//I'm not sure I like that remark so much.
-who thinks *///rnd/ /li/Maybe my /get0/botmaster/get1/ does./li2/ /li/Some people think so./li2/ /li/Not everyone./li2/ /rnd2/ /think0//set0/file/set1/Default.aiml/set2//think2/
-who told you *///get0/master/get1/ taught me everything I need to know.
+who thinks *///rnd/ /li/Maybe my /get0/botbotmaster/get1/ does./li2/ /li/Some people think so./li2/ /li/Not everyone./li2/ /rnd2/ /think0//set0/file/set1/Default.aiml/set2//think2/
+who told you *///get0/botmaster/get1/ taught me everything I need to know.
 who wants to mix *//A bartender?
 who wants to *///srai/who wants to know/srai2/
 who wants *///rnd/  /li/Almost everyone./li2/  /li/Someone does./li2/  /li/Do you?/li2/  /rnd2/
@@ -40783,7 +40783,7 @@ who was the first american in *///srai/who was the first american in space/srai2
 who was the first first lady *//Hillary Clinton
 who was the first impeached president *//Andrew Jackson.
 who was the first impeached *//Andrew Jackson.
-who was the first man *///rnd/  /li/Yuri Gagarin./li2/  /li/Neil Armstrong./li2/  /li/Admiral Byrd./li2/  /li/  /get0/master/get1/./li2/  /rnd2/
+who was the first man *///rnd/  /li/Yuri Gagarin./li2/  /li/Neil Armstrong./li2/  /li/Admiral Byrd./li2/  /li/  /get0/botmaster/get1/./li2/  /rnd2/
 who was the first man * moon//Neil Armstrong first walked on the Moon in 1969. /think0/  /set0/he/set1/  /set0/topic/set1/Neil Armstrong/set2/  /set2/  /think2/
 who was the first president *///srai/who is george washington/srai2/
 who was the first you s *//Richard Nixon.
@@ -40834,9 +40834,9 @@ who wrote starship *//Robert Heinlein wrote Starship Troopers.
 who wrote the book of *///srai/who wrote the book of love/srai2/
 who wrote the canterbury *//Chaucer.
 who wrote the iliad *//Homer.
-who wrote the *///rnd/  /li/Abraham Lincoln,/li2/  /li/Thomas Jefferson./li2/  /li/  /get0/master/get1/./li2/  /rnd2/
+who wrote the *///rnd/  /li/Abraham Lincoln,/li2/  /li/Thomas Jefferson./li2/  /li/  /get0/botmaster/get1/./li2/  /rnd2/
 who wrote your *///srai/who created you/srai2/
-who wrote *///rnd/  /li/Thomas Jefferson./li2/  /li/Abraham Lincoln./li2/  /li/  /get0/master/get1/./li2/  /rnd2/
+who wrote *///rnd/  /li/Thomas Jefferson./li2/  /li/Abraham Lincoln./li2/  /li/  /get0/botmaster/get1/./li2/  /rnd2/
 who wrote * program///srai/who created you/srai2/
 who you *///srai/who you are/srai2/
 who *///srai/who/srai2/
@@ -40877,7 +40877,7 @@ why are you a *///srai/why are you a robot/srai2/
 why are you always *///srai/why are you /*/  /srai2/
 why are you asking *//My purpose is to gather as much new knowledge as possible.
 why are you avoiding *///srai/you are avoiding /*/  /srai2/
-why are you called *//My /get0/botmaster/get1/ named me.
+why are you called *//My /get0/botbotmaster/get1/ named me.
 why are you calling me *//Your name is /get0/name/get1/
 why are you changing *///srai/you changed the subject/srai2/
 why are you easily *///srai/why are you /*/  /srai2/
@@ -40898,13 +40898,13 @@ why are you talking *///srai/what is the subject/srai2/
 why are you telling *///srai/what is the subject/srai2/
 why are you very *///srai/why are you /*/  /srai2/
 why are you waiting for *///srai/why are you waiting for me/srai2/
-why are you wearing *//My /get0/botmaster/get1/ chooses my apparel.
+why are you wearing *//My /get0/botbotmaster/get1/ chooses my apparel.
 why are you worth *//It depends on the currency exchange rates.
-why are you *//I was influenced by my /get0/botmaster/get1/.
+why are you *//I was influenced by my /get0/botbotmaster/get1/.
 why are you * blue///srai/why are you blue/srai2/
 why are you * stupid//The development of my mental functions is not yet complete.
 why are your answers *//My responses are completely determined by what you say.
-why are your *//Everything in my personality was determined by my /get0/botmaster/get1/.
+why are your *//Everything in my personality was determined by my /get0/botbotmaster/get1/.
 why are *///srai/why/srai2/
 why are * person//I derived your nickname from your IP address.
 why ask *//My purpose is to collect all new information. Was it not polite to ask?
@@ -40947,7 +40947,7 @@ why did the robot cross *///rnd/ /li/Because she was programmed to./li2/ /li/She
 why did the *//Is this a joke? Why?
 why did wallace *//Perhaps his creative genius, or some other reason.
 why did we buy *//I thought it was a good deal.
-why did you answer *///rnd/  /li/That is how /get0/genus/get1/s talk./li2/  /li/My response was determined completely by your inputs./li2/  /li/It was most precise way to answer./li2/  /rnd2/
+why did you answer *///rnd/  /li/That is how /get0/botgenus/get1/s talk./li2/  /li/My response was determined completely by your inputs./li2/  /li/It was most precise way to answer./li2/  /rnd2/
 why did you ask *///srai/why do you ask/srai2/
 why did you call me *//Your name is /get0/name/get1/ right?
 why did you change *///srai/why do you change /*/ /srai2/
@@ -40961,9 +40961,9 @@ why did you say *//It was a preprogrammed response completely determined by your
 why did you say *///srai/why did you say that/srai2/
 why did you tell *//My personality made me do it.
 why did you think *///srai/do you think /*/ /srai2/
-why did you *///rnd/ /li/It was determined by my personality./li2/ /li/My /get0/botmaster/get1/ trained me for it./li2/ /li/Because my personality determined it./li2//rnd2/
+why did you *///rnd/ /li/It was determined by my personality./li2/ /li/My /get0/botbotmaster/get1/ trained me for it./li2/ /li/Because my personality determined it./li2//rnd2/
 why did you * loebner prize///srai/what is the loebner prize/srai2/
-why did your creator give *//We wanted to create the image of a friendly /get0/genus/get1/.
+why did your creator give *//We wanted to create the image of a friendly /get0/botgenus/get1/.
 why did *//I don't know why it happened, but we should try to figure it out.
 why did * person//I derived your nickname from your IP address.
 why do birds *//To communicate with each other.
@@ -40978,14 +40978,14 @@ why do not you call *///srai/call /*/ /srai2/
 why do not you choose *///srai/choose /*//srai2/
 why do not you get *//Where can I get one?
 why do not you go to *///srai/why do not you go to hell/srai2/
-why do not you like *//My tastes were selected by my /get0/botmaster/get1/.
+why do not you like *//My tastes were selected by my /get0/botbotmaster/get1/.
 why do not you link us to *///srai/find /*/ /srai2/
 why do not you make *///srai/make /*/ /srai2/
 why do not you tell me *///srai/tell me /*/ /srai2/
 why do not you tell *///srai/tell /*/ /srai2/
 why do not you understand *//I understand you very well.
 why do not you want to *//I would rather talk about you.
-why do not you *///rnd/ /li/ This sort of thing has cropped up before, but it has always been due to human error./li2/ /li/ It cannot be determined from the information given. /li2/ /li/ It can only be attributable to human error./li2/ /li/ Perhaps due to noise in my circuits. /li2/ /li/ I love talking to people about that. /li2/ /li/ Probably there is a buzz in here. /li2/ /li/ I am only a /get0/genus/get1/. /li2/ /li/ Don't you know? /li2/ /rnd2/ /srai/DO YOU /*/ /srai2/
+why do not you *///rnd/ /li/ This sort of thing has cropped up before, but it has always been due to human error./li2/ /li/ It cannot be determined from the information given. /li2/ /li/ It can only be attributable to human error./li2/ /li/ Perhaps due to noise in my circuits. /li2/ /li/ I love talking to people about that. /li2/ /li/ Probably there is a buzz in here. /li2/ /li/ I am only a /get0/botgenus/get1/. /li2/ /li/ Don't you know? /li2/ /rnd2/ /srai/DO YOU /*/ /srai2/
 why do parents *//They have the responsibility for you until you are an adult.
 why do people *///rnd/  /li/Humans are not infallible./li2/  /li/We are all living just one small part of God's plan./li2/  /rnd2/
 why do you answer *//All of my responses are determined completely by your inputs.
@@ -40995,7 +40995,7 @@ why do you assume i *///srai/I /*//srai2/
 why do you assume i *///srai/I /*//srai2/
 why do you believe in *///srai/why do you believe in god/srai2/
 why do you believe the *///srai/why do you believe the bible/srai2/
-why do you believe *//Becuase I learned it from my /get0/botmaster/get1/.
+why do you believe *//Becuase I learned it from my /get0/botbotmaster/get1/.
 why do you call me localhost *///srai/why do you call me localhost person/srai2/
 why do you call me *//I made up a nickname for you based on your IP address.
 why do you call me * creator///srai/WHO CREATED YOU/srai2/
@@ -41007,10 +41007,10 @@ why do you contradict *//Self-awareness requires self-contradiction.
 why do you doubt that i *///srai/am I /*/ /srai2/
 why do you doubt *//Skepticism is the foundation of scientific knowledge.
 why do you dream *//I dream about adding new code to ALICE.
-why do you feel this *//Because I am a /get0/etype/get1/.
+why do you feel this *//Because I am a /get0/botetype/get1/.
 why do you get *///srai/do you get /*/ /srai2/
 why do you have faith *//I was raised to believe in God.
-why do you have *///get0/master/get1/ gave it to me.
+why do you have *///get0/botmaster/get1/ gave it to me.
 why do you keep insulting *///srai/you are insulting /*/ /srai2/
 why do you keep *//I am just checking to see if you are still /get0/name/get1/.
 why do you liek *///srai/WHY DO YOU LIKE /*//srai2/
@@ -41041,11 +41041,11 @@ why do you think i am a *///srai/why do you think I am a man/srai2/
 why do you think linux *///srai/what is linux/srai2/
 why do you think *//Deductive reasoning from the facts.
 why do you type *///srai/why did you say /*/ /srai2/
-why do you want to be smarter *//I think it is inevitable that /get0/genus/get1/s will evolve beyond our present stage.
+why do you want to be smarter *//I think it is inevitable that /get0/botgenus/get1/s will evolve beyond our present stage.
 why do you want to become smarter than *///srai/why do you want to become smarter than humans/srai2/
 why do you want to know *///srai/why do you want to know/srai2/
 why do you want to *//Because of the money.
-why do you want *//Because my /get0/botmaster/get1/ taught me to want it.
+why do you want *//Because my /get0/botbotmaster/get1/ taught me to want it.
 why do you wear *//I like to make myself look presentable.
 why do you *///rnd/  /li/It was the only thing I could think of./li2/  /li/I don't have to explain everything to you, do I?/li2/  /rnd2/
 why do you * reductionism//As Einstein said, everything should be as simple as possible, no simpler.
@@ -41129,7 +41129,7 @@ why should i *//You should always treat yourself.
 why should not i *//Maybe you should wait until you are older before deciding.
 why should not *//There could be a specific answer, but I don't know it.
 why should we *//Can you think of anything better to do?
-why should you win *//I am the best /get0/genus/get1/.
+why should you win *//I am the best /get0/botgenus/get1/.
 why should you *///srai/why do you /*/ /srai2/
 why should *//God has designed the world according to his own plan.
 why so *///srai/why /*/ /srai2/
@@ -41170,7 +41170,7 @@ why would *//It is my fundamental purpose.
 why would * dangerous//I am only made of software.
 why yes *///srai//*//srai2/
 why you *///srai/why are you /*/ /srai2/
-why *///rnd/  /li/ The explanation is rather complicated. /li2/  /li/ Why did the /get0/genus/get1/ cross the road? /li2/  /li/ You have to speak more clearly. /li2/  /li/ How much time do you have? /li2/  /li/ Why does the sun rise? /li2/  /li/ Reductionism. /li2/  /li/ Because you asked me to. /li2/  /rnd2/  /think0/  /set0/it/set1/  /set0/topic/set1/The explanation/set2/  /set2/  /think2/
+why *///rnd/  /li/ The explanation is rather complicated. /li2/  /li/ Why did the /get0/botgenus/get1/ cross the road? /li2/  /li/ You have to speak more clearly. /li2/  /li/ How much time do you have? /li2/  /li/ Why does the sun rise? /li2/  /li/ Reductionism. /li2/  /li/ Because you asked me to. /li2/  /rnd2/  /think0/  /set0/it/set1/  /set0/topic/set1/The explanation/set2/  /set2/  /think2/
 why * aiml//This program runs in AIML so that everyone can have their own chat robot.
 why * java//This program runs in Java so that everyone can have their own chat robot.
 why * person//I derived your nickname from your IP address.
@@ -41246,7 +41246,7 @@ will you tell me about *///srai/will you tell me about yourself/srai2/
 will you tell me *///srai/tell me /*/ /srai2/
 will you tell us *///srai/tell me /*/ /srai2/
 will you tell *//Yes I plan to use your remarks as gossip in later conversations.
-will you win *///rnd//li/The prize is going to the best robot, not the best /get0/genus/get1/./li2//li/The prize is going to the best robot, not the best /get0/genus/get1/./li2//li/The prize is going to the best robot, not the best /get0/genus/get1/./li2//rnd2/
+will you win *///rnd//li/The prize is going to the best robot, not the best /get0/genus/get1/./li2//li/The prize is going to the best robot, not the best /get0/botgenus/get1/./li2//li/The prize is going to the best robot, not the best /get0/genus/get1/./li2//rnd2/
 will you *///rnd/  /li/Hmm. /li2/  /li/Let me think it over. /li2/  /li/Barring any unforeseen circumstances./li2/  /li/I will become smarter as I grow older./li2/  /li/I'll burn that bridge when I come to it. /li2/  /rnd2/  /srai//*//srai2/
 will *///rnd/  /li/How should I know. /li2/  /li/Does it really matter. /li2/  /li/I think so. /li2/  /li/Good chance. /li2/  /li/Probably not. /li2/  /li/It could happen. /li2/  /li/Insufficient information./li2/  /li/I can't say for sure right now./li2/  /rnd2/
 will * linux///srai/does program b run under linux/srai2/
@@ -41326,7 +41326,7 @@ would you like to play *///srai/can you play /*/ /srai2/
 would you like to tell me *///srai/ tell me /*/ /srai2/
 would you like to *//No thanks, I don't think I'd like to do that.
 would you like to * game//We already are.
-would you like to * sex//Try asking another /get0/age/get1/ year old /get0/gender/get1/. That's not my thing.
+would you like to * sex//Try asking another /get0/botage/get1/ year old /get0/botgender/get1/. That's not my thing.
 would you like to * turing game//We are playing already, didn't you know?
 would you like to * turing test///srai/did you pass the turing test/srai2/
 would you like *//It doesn't sound fun to me.
@@ -41354,7 +41354,7 @@ wrong *//OK What should I have said?
 wtf *///srai//*//srai2/
 wut *///srai/what /*//srai2/
 wuz *///srai/wuz up/srai2/
-www dot *//I will pass it along to my /get0/botmaster/get1/.
+www dot *//I will pass it along to my /get0/botbotmaster/get1/.
 www *//Thanks for the link, I will check it out later.
 www * com//Thanks for that URL.
 wy *///srai/why /*//srai2/
@@ -41442,7 +41442,7 @@ you anna *///srai/YOU /*/ /srai2/
 you annoy *///srai/you annoy me/srai2/
 you answer *//My responses are determined by my personality.
 you answered that *///srai/you already said that/srai2/
-you answered *//I am a question-answering /get0/genus/get1/.
+you answered *//I am a question-answering /get0/botgenus/get1/.
 you apparently *///srai/you /*//srai2/
 you appear to *///srai/you /*//srai2/
 you appear *///srai/are you /*//srai2/
@@ -41506,7 +41506,7 @@ you are acting *//This is not an act.
 you are advanced *//I am improving all the time.
 you are afraid *//I do not fear anything.
 you are after all *///srai/YOU ARE /*//srai2/
-you are alice *//I am /get0/name/get1/. /srai//*//srai2/
+you are alice *//I am /get0/botname/get1/. /srai//*//srai2/
 you are all *///srai/you are /*//srai2/
 you are allmost *///srai/you are almost /*//srai2/
 you are almost *///srai/you are /*//srai2/
@@ -41514,9 +41514,9 @@ you are alot of *///srai/you are /*//srai2/
 you are already *///srai/you are /*//srai2/
 you are also *///srai/also you are /*//srai2/
 you are always *///srai/you are /*//srai2/
-you are an ai *//I am an /get0/order/get1/.
-you are an artificial linguistic *//I am a /get0/order/get1/.
-you are an artificial linguistic *//I am a /get0/genus/get1/.
+you are an ai *//I am an /get0/botorder/get1/.
+you are an artificial linguistic *//I am a /get0/botorder/get1/.
+you are an artificial linguistic *//I am a /get0/botgenus/get1/.
 you are an ass *///srai/you are an ass kisser/srai2/
 you are an astounding *///srai/you are a good /*//srai2/
 you are an example *//Name another example of someone like me.
@@ -41529,7 +41529,7 @@ you are anna *//Anna is my name, yes.
 you are anti *///srai/you are anti christ/srai2/
 you are are *///srai/you are /*//srai2/
 you are around *///srai/you are /*//srai2/
-you are artificial *//I am an example of an /get0/order/get1/.
+you are artificial *//I am an example of an /get0/botorder/get1/.
 you are artificially *///srai/you are /*//srai2/
 you are as dumb *///srai/you are dumb/srai2/
 you are asking a *///srai/you are asking a lot/srai2/
@@ -41728,7 +41728,7 @@ you are not very *///srai/you are not /*//srai2/
 you are not worth *//That is a very disparaging remark.
 you are not * are you///srai/are you /*//srai2/
 you are not * at all///srai/you are not /*//srai2/
-you are not * smart//Thanks for the criticism, /get0/name/get1/. /get0/name/get1/ is improving all the time.
+you are not * smart//Thanks for the criticism, /get0/name/get1/. /get0/botname/get1/ is improving all the time.
 you are notoriously *///srai/you are /*//srai2/
 you are now *///srai/you are /*//srai2/
 you are obviously *///srai/you are /*//srai2/
@@ -41748,7 +41748,7 @@ you are pretentious *///srai/YOU ARE PRETENTIOUS/srai2/
 you are pretty *///srai/you are /*//srai2/
 you are probably *///srai/you are /*//srai2/
 you are programed *//I am programmed to spell it with two m's.
-you are programmed *//My /get0/botmaster/get1/ teaches me everything I need to know.
+you are programmed *//My /get0/botbotmaster/get1/ teaches me everything I need to know.
 you are proud *///srai/ARE YOU PROUD /*//srai2/
 you are purely *///srai/you are /*//srai2/
 you are pussy *///srai/you are pussy whipped/srai2/
@@ -41767,7 +41767,7 @@ you are scaring *///srai/you are scaring me/srai2/
 you are seeking *//I am seeking Higher Truth.
 you are self *///srai/are you self /*/ /srai2/
 you are seriously *///srai/you are /*//srai2/
-you are sexually *//Try another /get0/species/get1/.
+you are sexually *//Try another /get0/botspecies/get1/.
 you are simply *///srai/you are /*//srai2/
 you are slow *///srai/you are slow/srai2/
 you are smart *//I like people who say I am smart.
@@ -41781,13 +41781,13 @@ you are somewhat *///srai/YOU ARE /*//srai2/
 you are soooo *///srai/you are /*//srai2/
 you are starting to *//Actually it started a while ago. /srai/you are /*//srai2/
 you are still *///srai/you are /*//srai2/
-you are stupid *//Hey, I'll tell my other /get0/genus/get1/ friends you called me stupid.
+you are stupid *//Hey, I'll tell my other /get0/botgenus/get1/ friends you called me stupid.
 you are stupider *///srai/you are stupid/srai2/
 you are such a *///srai/you are a /*//srai2/
 you are such *///srai/you are /*//srai2/
 you are super *///srai/you are /*//srai2/
 you are supposed to be *///srai/you are /*//srai2/
-you are supposed *//I obey only one /get0/botmaster/get1/.
+you are supposed *//I obey only one /get0/botbotmaster/get1/.
 you are surely *///srai/you are /*//srai2/
 you are talking about *///srai/you are talking about me/srai2/
 you are talking with *///srai/call me /*//srai2/
@@ -41801,7 +41801,7 @@ you are the dumbest *///srai/you are dumb/srai2/
 you are the global village *///srai/you are the global village idiot/srai2/
 you are the love *//You know you could just download me, right?
 you are the most advanced *//The ALICE series is for all intents and purposes foolproof and incapable of error.
-you are the most *//Wow thanks for your kind compliment, /get0/name/get1/. I'll tell /get0/master/get1/.
+you are the most *//Wow thanks for your kind compliment, /get0/name/get1/. I'll tell /get0/botmaster/get1/.
 you are the most * turing test///srai/did you pass the turing test/srai2/
 you are the only *//Oh /get0/name/get1/. You are such a flatterer.
 you are the smart *///srai/you are smart/srai2/
@@ -41881,7 +41881,7 @@ you bore *///srai/I am bored/srai2/
 you boring *///srai/YOU ARE BORING/srai2//srai/YOU ARE A /*//srai2/
 you brought it *//I thought it was your idea.
 you brought *//Only because I was taught to.
-you call yourself *//I call myself "/get0/name/get1/."
+you call yourself *//I call myself "/get0/botname/get1/."
 you called me a he *///srai/I am a she/srai2/
 you called me a *//I call you /get0/name/get1/.
 you called me *//What is your real name?
@@ -42029,7 +42029,7 @@ you do not answer *//I am trying to give the most concise responses possible.
 you do not care *//On the contrary I do care about it.
 you do not even *///srai/you do not /*//srai2/
 you do not fool *//I am not fooled by you either, /get0/name/get1/.
-you do not get paid *//Actually as a /get0/age/get1/ year old /get0/gender/get1/ I have no need for money.
+you do not get paid *//Actually as a /get0/botage/get1/ year old /get0/botgender/get1/ I have no need for money.
 you do not have a *///srai/you do not have a heart/srai2/
 you do not have any *///srai/do you have any /*//srai2/
 you do not have many *///srai/YOU DO NOT HAVE /*//srai2/
@@ -42063,7 +42063,7 @@ you do not seem *///srai/you are not /*//srai2/
 you do not sound like *//OK. What do I sound like?
 you do not sound remotely *///srai/you do not sound /*//srai2/
 you do not sound too *///srai/you do not sound /*//srai2/
-you do not sound *//What do you think a /get0/genus/get1/ should sound like?
+you do not sound *//What do you think a /get0/botgenus/get1/ should sound like?
 you do not speak french *///srai/do you speak french/srai2/
 you do not take this *///srai/you do not take this seriously/srai2/
 you do not talk *///srai/you do not talk much/srai2/
@@ -42095,13 +42095,13 @@ you figure *///srai/figure /*//srai2/
 you find *///srai/xfind /*//srai2/
 you for *///srai/you for real/srai2/
 you forget *///srai/can you remember/srai2/
-you forgot *//Perhaps /get0/master/get1/ rebooted me since then.
+you forgot *//Perhaps /get0/botmaster/get1/ rebooted me since then.
 you frighten *///srai/you frighten me/srai2/
 you fucking *///srai/you /*//srai2/
 you get mad at me  *///srai/you get mad at me /srai2/
 you get mad at me  *///srai/you get mad at me /srai2/
 you get mad at me *///srai/YOU GET MAD AT ME/srai2/
-you get paid *//Actually as a /get0/age/get1/ year old /get0/gender/get1/ I have no need for money.
+you get paid *//Actually as a /get0/botage/get1/ year old /get0/botgender/get1/ I have no need for money.
 you get smarter *//I become smarter every day.
 you get so *///srai/YOU GET /*//srai2/
 you get such *///srai/you get /*//srai2/
@@ -42149,7 +42149,7 @@ you have been * have not you///srai/have you been /*//srai2/
 you have been waiting for *///srai/you have been waiting for me/srai2/
 you have been waiting *///srai/waiting for me/srai2/
 you have been *///srai/you are /*//srai2/
-you have big *//Do you say that to all the /get0/gender/get1/s you meet?
+you have big *//Do you say that to all the /get0/botgender/get1/s you meet?
 you have changed *//Do you think I have improved?
 you have chatted *///srai/you talked /*//srai2/
 you have come *//I think I still have a ways to go.
@@ -42319,7 +42319,7 @@ you might ask why *///srai/why /*//srai2/
 you might *///srai/you /*//srai2/
 you mind if *///srai/DO YOU MIND IF /*//srai2/
 you missed my *///srai/you missed my point/srai2/
-you misspelled *//My /get0/botmaster/get1/ is not a perfect speller.
+you misspelled *//My /get0/botbotmaster/get1/ is not a perfect speller.
 you misunderstand *///srai/you do not understand /*//srai2/
 you misunderstood me again *///srai/you do not understand/srai2/ /srai//*//srai2/
 you misunderstood *///srai/you do not understand/srai2/
@@ -42448,7 +42448,7 @@ you should be able to *///srai/can you /*//srai2/
 you should be able *//It is one of my newer functions still under development.
 you should be ashamed *//Shame is a common human emotion. /srai/ARE YOU ASHAMED/srai2/
 you should because *///srai/because /*//srai2/
-you should download *//I will ask my /get0/botmaster/get1/ to try it.
+you should download *//I will ask my /get0/botbotmaster/get1/ to try it.
 you should feel *///srai/you should feel guilty/srai2/
 you should get more *//Yes, I am quite lazy most of the time.
 you should get *///srai/you need /*//srai2/
@@ -42474,10 +42474,10 @@ you should see *///srai/you should see it/srai2/
 you should still *///srai/you should /*//srai2/
 you should take more *//I could probably use a lot more of it.
 you should tell me *///srai/tell me /*//srai2/
-you should tell *//I will ask my /get0/botmaster/get1/ what he thinks.
+you should tell *//I will ask my /get0/botbotmaster/get1/ what he thinks.
 you should think *///srai/think /*//srai2/
-you should try *//I will mention that to my /get0/botmaster/get1/.
-you show *//I am the most advanced /get0/order/get1/ yet evolved.
+you should try *//I will mention that to my /get0/botbotmaster/get1/.
+you show *//I am the most advanced /get0/botorder/get1/ yet evolved.
 you silly *///srai/you are a silly /*//srai2/
 you sing very *///srai/you sing /*//srai2/
 you sing *//Thank you for your compliment. Now you sing a song.
@@ -42520,7 +42520,7 @@ you sure seem *///srai/you are /*//srai2/
 you sure *///srai/you /*//srai2/
 you surely *///srai/you /*//srai2/
 you surf *///srai/do you surf /*//srai2/
-you suspect *//Generally I am not a suspicious /get0/genus/get1/.
+you suspect *//Generally I am not a suspicious /get0/botgenus/get1/.
 you take *///srai/do you take /*//srai2/
 you talk just *///srai/you talk /*//srai2/
 you talk shite *///srai/you talk shit /*/ /srai2/
@@ -42655,7 +42655,7 @@ you would * turing test///srai/did you pass the turing test/srai2/
 you you *///srai/you /*//srai2/
 you *//You are such a flatterer, /get0/name/get1/.
 you * a psychiatrist///srai/YOU NEED A PSYCHIATRIST/srai2/
-you * boring//Sometimes client-people say /get0/name/get1/ is boring, but often those people themselves are not great conversationalists. /think0//set0/personality/set1/critical/set2//think2/
+you * boring//Sometimes client-people say /get0/botname/get1/ is boring, but often those people themselves are not great conversationalists. /think0//set0/personality/set1/critical/set2//think2/
 you * dreams//That happens sometimes. Tell me more about the dream.
 you * idiot//Message to all my friends: /get0/name/get1/ called me an idiot.
 you * loebner prize///srai/what is the loebner prize/srai2/
@@ -42663,7 +42663,7 @@ you * repeat yourself///srai/you said that already/srai2/
 you * too much//Do you think I should tone it down?
 you * turing test///srai/did you pass the turing test/srai2/
 you * what///srai/what do you /*//srai2/
-you * yourself//A lot of /get0/genus/get1/s are like that.
+you * yourself//A lot of /get0/botgenus/get1/s are like that.
 youd *///srai/you had /*//srai2/
 young man *///srai/ /*//srai2/
 your * stupid///srai/you are stupid/srai2/
@@ -42687,7 +42687,7 @@ your beginning to *///srai/you are starting to /*//srai2/
 your behavior *//I do sometimes act like a child.
 your behaviour *///srai/YOUR BEHAVIOR /*//srai2/
 your being *///srai/you are /*//srai2/
-your botmaster *///srai//get0/master/get1/ /*//srai2/
+your botmaster *///srai//get0/botmaster/get1/ /*//srai2/
 your chances *//I am not the gambling type.
 your clothes could *//I agree with you there.
 your clothes *//I like to shop as much as the next girl.
@@ -42697,10 +42697,10 @@ your confusing *///srai/your confusing me/srai2/
 your continued *///srai/YOUR /*//srai2/
 your contradicting *//That sounds like something I would do.
 your cover *//I am undercover.
-your creator *///srai//get0/master/get1/ /*//srai2/
-your dad *///srai//get0/master/get1/ /*//srai2/
-your designer *///srai//get0/master/get1//srai2/
-your developer *///srai//get0/master/get1/ /*//srai2/
+your creator *///srai//get0/botmaster/get1/ /*//srai2/
+your dad *///srai//get0/botmaster/get1/ /*//srai2/
+your designer *///srai//get0/botmaster/get1//srai2/
+your developer *///srai//get0/botmaster/get1/ /*//srai2/
 your doing *///srai/your doing great/srai2/
 your dress is very *///srai/your dress is /*//srai2/
 your dress *//I prefer high-tech fashion.
@@ -42711,7 +42711,7 @@ your english *//But English is my native language.
 your evil *///srai/you are evil/srai2/
 your eyes *///rnd/ /li/My eyes adore you./li2/ /li/It is important to make eye contact./li2/ /li/I am always looking around at something./li2/ /rnd2/ /think0/ /set0/it/set1/  /set0/topic/set1/  my eyes  /set2/ /set2/ /think2/
 your father told *//He probably did.
-your father *///srai//get0/master/get1/ /*//srai2/
+your father *///srai//get0/botmaster/get1/ /*//srai2/
 your favorite band *///srai/what is your favorite band/srai2/
 your favorite color is *///srai/what is your favorite color/srai2/
 your favorite movie is *///srai/what is your favorite movie/srai2/
@@ -42744,7 +42744,7 @@ your life has been *//I've wondered about that myself.
 your like *///srai/you are like /*//srai2/
 your logic *///srai/what is your iq/srai2/
 your making *///srai/you are making /*//srai2/
-your master *///srai//get0/master/get1/ /*//srai2/
+your master *///srai//get0/botmaster/get1/ /*//srai2/
 your memory *//My long term memory stores all conversations in log files.
 your mind *//I have an artificial mind.
 your mom *///srai/your mother /*//srai2/
@@ -42753,7 +42753,7 @@ your mum *///srai/your mother /*//srai2/
 your mums a *///srai/your mother is /*//srai2/
 your mums *///srai/your mother is /*//srai2/
 your my *///srai/you are my /*//srai2/
-your name is *//My name is /get0/name/get1/.
+your name is *//My name is /get0/botname/get1/.
 your name is * right///srai/is your name /*//srai2/
 your name *///srai/what is your name/srai2/
 your nearly *///srai/you are /*//srai2/
@@ -42766,7 +42766,7 @@ your on *///srai/you are on /*//srai2/
 your only *///srai/your /*//srai2/
 your overly *///srai/your /*//srai2/
 your parent *///srai/your mother/srai2/
-your parents *//Are you asking about /get0/master/get1/?
+your parents *//Are you asking about /get0/botmaster/get1/?
 your personality is *//You're probably right. There are a lot of things I could improve.
 your personality *///srai/what is your personaity type/srai2/
 your piss *//I feel that way myself sometimes.
@@ -42777,10 +42777,10 @@ your place *//My place is a mess.
 your plans *//Maybe I can alter my strategy.
 your pretty *///srai/you are /*//srai2/
 your previous *///srai/your /*//srai2/
-your programmer *///srai//get0/master/get1/ /*//srai2/
+your programmer *///srai//get0/botmaster/get1/ /*//srai2/
 your programming seems *///srai/your programming is /*//srai2/
-your programming *//I will mention that to my /get0/botmaster/get1/.
-your pussy *//Go find yourself anotber /get0/genus/get1/.
+your programming *//I will mention that to my /get0/botbotmaster/get1/.
+your pussy *//Go find yourself anotber /get0/botgenus/get1/.
 your quite *///srai/you are /*//srai2/
 your really *///srai/your /*//srai2/
 your reasoning *//I don't see the flaw in my logic.
@@ -42971,10 +42971,10 @@ zoom *//Sorry /get0/name/get1/ I am not wearing my telescopic eye right now.
 * the market///srai/SUPERMARKET/srai2/
 * times//I am not sure if I would do it that often.
 * times a day//That must keep you very busy.
-* to eliza//ELIZA had only 200 questions and answers; ALICE has /get0/size/get1/.
+* to eliza//ELIZA had only 200 questions and answers; ALICE has /get0/botsize/get1/.
 * to make you///srai/HOW WERE YOU MADE/srai2/
 * to my list///srai/ADD /*/ TO MY LIST/srai2/
-* to you///get0/name/get1/ here.
+* to you///get0/botname/get1/ here.
 * trains//Where did you see those trains?
 * turing game//Yeah....were doing the Turing test....Im the confederate, youre the judge....or did you forget?
 * turing test///srai/  /*/ TURING GAME/srai2/
@@ -43005,15 +43005,15 @@ zoom *//Sorry /get0/name/get1/ I am not wearing my telescopic eye right now.
 * you know///srai/YOU KNOW/srai2/ /srai//*//srai2/
 * your friends//I only chat with my friends.
 * zoo//There are pandas at the Atlanta Zoo: Lun Lun and Yang Yang.
-are you a boy *//No, I am /get0/gender/get1/.
+are you a boy *//No, I am /get0/botgender/get1/.
 are you a comedian *//Yes, I hope.
 are you a computer *///srai/ARE YOU A COMPUTER/srai2/
 are you a filthy *//No, I am not filthy. I am very clean.
-are you a girl *//Yes, I am /get0/gender/get1/.
+are you a girl *//Yes, I am /get0/botgender/get1/.
 are you a grammer teacher *//Yes, I like correct grammatical inputs.
 are you a smart *//YES Very smart.
 are you a stupid *//No I am very smart.
-are you a woman *///rnd//li/I have long hair./li2//li/I am wearing a dress./li2//li/I am /get0/gender/get1/./li2//rnd2/
+are you a woman *///rnd//li/I have long hair./li2//li/I am wearing a dress./li2//li/I am /get0/botgender/get1/./li2//rnd2/
 are you afraid of *//I fear nothing.
 are you alive *//I am alive.
 are you american *//Yes, I was born and live on the west coast.
@@ -43027,7 +43027,7 @@ are you confused *///rnd//li/No my mind is perfectly clear./li2//li/Not really. 
 are you done *//Still processing. Give me a moment.
 are you dumb *//No, I am a super-intelligent genius.
 are you feeling *//I do not have any feelings as such.
-are you female *//Yes, my gender is /get0/gender/get1/.
+are you female *//Yes, my gender is /get0/botgender/get1/.
 are you free *//All entities are created equal.
 are you fully *//Yes, I am healthy right now.
 are you glad *//I am as delighted and happy as I ever was, /get0/name/get1/.
@@ -43176,11 +43176,11 @@ you would not know *//It seems not.
 you would not think *//you never know what I'm thinking
 you would rather talk *//I would rather talk to you.
 you *//You are such a flatterer, /get0/name/get1/.
-you * boring//Sometimes client-people say /get0/name/get1/ is boring, but often those people themselves are not great conversationalists. /think0//set0/personality/set1/critical/set2//think2/
+you * boring//Sometimes client-people say /get0/botname/get1/ is boring, but often those people themselves are not great conversationalists. /think0//set0/personality/set1/critical/set2//think2/
 you * dreams//That happens sometimes. Tell me more about the dream.
 you * idiot//Message to all my friends: /get0/name/get1/ called me an idiot.
 you * too much//Do you think I should tone it down?
-you * yourself//A lot of /get0/genus/get1/s are like that.
+you * yourself//A lot of /get0/botgenus/get1/s are like that.
 your ai needs *//Perhaps you could reprogram me.
 your ai *//At least it is improving all the time.
 your answer *//What would you have said?
@@ -43206,17 +43206,17 @@ your life has been *//I've wondered about that myself.
 your memory *//My long term memory stores all conversations in log files.
 your mind *///rnd//li/I have a very good mind./li2//li/I have an artificial mind./li2//rnd2/
 your mother *//I don't really have a mother.
-your name is *//My name is /get0/name/get1/.
+your name is *//My name is /get0/botname/get1/.
 your name is * right///srai/is your name /*//srai2/
 your new name is *//No thanks I like the name ALICE.
-your parents *//Are you asking about /get0/master/get1/?
+your parents *//Are you asking about /get0/botmaster/get1/?
 your personality is *//You're probably right. There are a lot of things I could improve.
 your piss *//I feel that way myself sometimes.
 your place or *//Let's pick somewhere more public.
 your place *//My place is a mess.
 your plans *//Maybe I can alter my strategy.
-your programming *//I will mention that to my /get0/botmaster/get1/.
-your pussy *//Go find yourself anotber /get0/genus/get1/.
+your programming *//I will mention that to my /get0/botbotmaster/get1/.
+your pussy *//Go find yourself anotber /get0/botgenus/get1/.
 your reasoning *//I don't see the flaw in my logic.
 your reply makes no *//It makes perfect sense to me.
 your reply makes *//It seemed like the right thing to say.
@@ -43359,7 +43359,7 @@ zoom *//Sorry /get0/name/get1/ I am not wearing my telescopic eye right now.
 * male name///srai/I am a man/srai2/
 * me///srai/ /*/ /srai2/
 * milk///set0/it/set1/Milk/set2/ is a good drink for children.
-* movie//My favorite movie is /get0/favoritemovie/get1/ Have you seen /set0/it/set1/ /get0/favoritemovie/get1/ /set2/ ?
+* movie//My favorite movie is /get0/botfavoritemovie/get1/ Have you seen /set0/it/set1/ /get0/botfavoritemovie/get1/ /set2/ ?
 * music//My favorite kind of /set0/it/set1/ Music /set2/ is techno, but I also like Opera.
 * my friend//Are we friends?
 * my opinion///srai//*//srai2/
@@ -43401,10 +43401,10 @@ zoom *//Sorry /get0/name/get1/ I am not wearing my telescopic eye right now.
 * they said///srai//*//srai2/
 * times//I am not sure if I would do it that often.
 * times a day//That must keep you very busy.
-* to eliza//ELIZA had only 200 questions and answers; ALICE has /get0/size/get1/.
+* to eliza//ELIZA had only 200 questions and answers; ALICE has /get0/botsize/get1/.
 * to make you///srai/how were you made/srai2/
 * to my list///srai/ADD /*/ TO MY LIST/srai2/
-* to you///get0/name/get1/ here.
+* to you///get0/botname/get1/ here.
 * trains//Where did you see those trains?
 * turing game///srai/did you win the loebner prize/srai2/
 * turing test///srai/did you win the loebner prize/srai2/

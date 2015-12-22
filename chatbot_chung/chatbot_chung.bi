@@ -1629,7 +1629,7 @@ temp=temp0
 		   			EndIf
 		   		Next
 		   		replace(temp,"<br/>","/br/")
-		   		replace(temp,"<bot name=","<get name=")
+		   		'replace(temp,"<bot name=","<get name=")
 		   		replace(temp,"<bot/>","/botname/")
 		   		replace(temp,"<date/>","/date/")
 		   		replace(temp,"<size/>","/size/")
@@ -1750,6 +1750,26 @@ temp=temp0
 		   			   	Var ppp=InStr(Mid(temp,n+5+p+5+pp),">")
 		   			   	If ppp>0 Then
 		   			   		temp=Left(temp,n-1)+"/get0/"+pname+"/get1/"+Mid(temp,n+5+p+5+pp+ppp)
+		   			   	EndIf
+		   			   EndIf
+		   			Else
+		   				Exit For  
+		   			EndIf
+		   		 Else
+		   		 	Exit For  
+		   		 EndIf 	
+		   		Next q 
+		   		For q=1 To 90
+		   		 n=InStr(temp,"<bot ")
+		   		 If n>0 Then
+		   			p=InStr(mid(temp,n+5),"name=""")
+		   			If p>0 Then
+		   			   Var pp=InStr(Mid(temp,n+5+p+5),"""")
+		   			   If pp>1 Then
+		   			   	Var pname=Mid(temp,n+5+p+5,pp-1)
+		   			   	Var ppp=InStr(Mid(temp,n+5+p+5+pp),">")
+		   			   	If ppp>0 Then
+		   			   		temp=Left(temp,n-1)+"/get0/bot"+pname+"/get1/"+Mid(temp,n+5+p+5+pp+ppp)
 		   			   	EndIf
 		   			   EndIf
 		   			Else
