@@ -114,6 +114,7 @@ If Rnd<(0.25*randomwiki) Then
    	printwebmsg(intext22,webtext):Exit Sub 
    EndIf
    processinput(intext22)
+   exit sub 
  EndIf 
 EndIf 
 processinput(intext22)
