@@ -572,7 +572,8 @@ Return Trim(text)
 End Function
 Dim Shared As Integer nouttemplate=30000,iouttemplate(nouttemplate)
 Dim Shared As Integer testproc=0,teststar=0,testsrai=0,testnoresponse=0
-Dim Shared As String msgprocess,msgmsg
+Dim Shared As String msgprocess,msgmsg,topicprev,topicnext
+Dim Shared As single ktopic=0
 Declare Function formatcondition(ByRef text0 As String)As String
 Sub processinputstar(ByRef text0 As string)
 Dim As Integer i,j,k,l,p,n,nbword,test,kk
@@ -769,6 +770,9 @@ For i=1 To k
              testpattern(n)+=1.2
 			  EndIf
 			  If thats(n)<>"" And thats(n)<>thatmsg Then testpattern(n)-=1.2
+			  If topicprev<>"" Then
+			  	 If topics(n)=topicprev Then testpattern(n)+=ktopic*0.12
+			  EndIf
 			 EndIf
 		  EndIf 	
 		Next
@@ -800,8 +804,10 @@ If j>0 Then
 	Var dx=xtest*0.3
 	For i=1 To iaiml
 		If Abs(testpattern(i)-xtest)<dx Then
-			k+=1:If k>nouttemplate Then Exit For
-			iouttemplate(k)=i
+			'If topicprev="" Or topics(i)=topicprev Then 
+			  k+=1:If k>nouttemplate Then Exit For
+			  iouttemplate(k)=i
+			'EndIf  
 		EndIf
 	Next
 	j=iouttemplate(1+Int(Rnd*k*0.999))
@@ -809,7 +815,13 @@ If j>0 Then
 EndIf
 If j>0 Then
 	'auxtext+="/thats="+thats(j)
-	tweight(j)=max(0.3*40/(40+Len(patterns(j))),tweight(j)/1.4)
+	'auxtext=topicprev+"/"+topics(j)
+	If topicprev<>"" And topics(j)=topicprev Then
+		tweight(j)=max(0.3*40/(40+Len(patterns(j))),tweight(j)/1.1)
+		topicnext=topicprev
+	Else 
+		tweight(j)=max(0.3*40/(40+Len(patterns(j))),tweight(j)/1.4)
+	EndIf
 	msg=templates(j)
 	/'replace(msg,"/botname/","Helen")
 	replace(msg,"/botmaster/","Chung")
@@ -901,6 +913,14 @@ If text0="reset vars" Then
 	If resp="yes" Then
 		resetvars()
 	EndIf
+EndIf
+If topicprev<>topicnext Or topicprev="" Then
+	ktopic=max(0.1,ktopic-0.1)
+	If ktopic<0.11 Then topicprev=""
+	topicnext=""
+Else
+	ktopic=min(1.0,ktopic+0.01)
+	topicnext=""
 EndIf
 testnoresponse=0
 mymsg=">>"+text0
@@ -1019,6 +1039,15 @@ For i=0 To nvars
 Next
 Sub setvar(ByRef varname As String,ByRef varvalue As String)
 Dim As Integer i,j,k,p
+If varname="topic" Then
+	If varvalue="" Then
+		ktopic=0
+	Else
+		ktopic=1
+	EndIf
+	topicprev=LCase(Trim(varvalue))
+	topicnext=topicprev
+EndIf
 k=-1
 For i=0 To nvars
 	If varnames(i)=varname Then
@@ -1839,11 +1868,12 @@ End Sub
 Dim Shared As Integer tloadallword=1,tloadaiml=1
 Sub loaddata(ByRef ficsave As String="data\AIMLdata.data")
 Dim As Integer i,j,k,l,iaiml0,imytext,kk,n,p,q,j0,ltext00,imsg
-Dim As String patt,temp,temp2,ficword,ficin,ficstar
+Dim As String patt,temp,temp2,ficword,ficin,ficstar,fictopic
 ficword="":ltext00=0
 If ficsave="data\CHATBOTdata.data" Then
 	ficword="data\CHATBOTword.txt"
 	ficstar="data\CHATBOTstar.txt"
+	fictopic="data\CHATBOTtopic.txt"
    If FileExists(ficword) And tloadaiml=0 Then
      file=FreeFile 
      Open ficword For Input As #file
@@ -2064,8 +2094,19 @@ If FileExists(ficstar) And tloadaiml=0 Then
    Next
    Close #file
 EndIf   
+If FileExists(fictopic) And tloadaiml=0 Then
+   file=FreeFile 
+   Open fictopic For Input As #file
+   itopic=0
+   For i=1 To naiml
+      If Not Eof(file) Then Line Input #file,ficin Else Exit For
+      topics(i)=ficin
+      If ficin<>"" Then itopic+=1 
+   Next
+   Close #file
+EndIf   
 botsize=iaiml
-msg="loaded patterns :"+Str(botsize)+crlf'"  topics :"+Str(itopic)+crlf
+msg="loaded patterns :"+Str(botsize)+"  topics :"+Str(itopic)+crlf
 msg+="allwords :"+Str(iallword)+" err="+Str(erreur)+crlf'+msg
 msg+=Str(countsyns)+"/"+Str(isyns)+" synonyms loaded"+crlf
 msg+=Str(istar)+" stars loaded"+crlf
@@ -2131,10 +2172,11 @@ tloadaiml=1
 loaddata(fic)
 End Sub
 Sub savedata(ByRef ficsave As String="data\CHATBOTdata.data")
-Dim As String ficword,ficstar
+Dim As String ficword,ficstar,fictopic
 Dim As Integer i,ltext0
 ficword="data\CHATBOTword.txt"
 ficstar="data\CHATBOTstar.txt"
+fictopic="data\CHATBOTtopic.txt"
 msg=""
 printgui("win.msg","saving...")
 guiscan
@@ -2167,7 +2209,13 @@ For i=1 To istar
 	Print #file,starpatt(i)+"*"+starpatt2(i)+"//"+startemp(i)
 Next
 Close #file	
-printgui("win.msg","saved in "+ficsave+crlf+" "+ficword+crlf+" "+ficstar)
+file=freefile
+Open fictopic For Output As #file
+For i=1 To iaiml
+	Print #file,topics(ipatterns(i))
+Next
+Close #file	
+printgui("win.msg","saved in "+ficsave+crlf+" "+ficword+crlf+" "+ficstar+crlf+" "+fictopic)
 guisetfocus("win.text")
 /'
 ficsave="data\template.txt"
@@ -2356,6 +2404,20 @@ Print #file,"mystartemp=""";
 For i=1 To istar
 	'Print #file,patterns(ipatterns(i))+Chr(temp_)+templates(ipatterns(i))
 	text=startemp(i)+"\n"
+	replace(text,"""","'")
+	Print #file,text;
+Next
+Print #file,"""; "+crlf;
+Close #file	
+msg+="saved in "+ficsave+crlf
+
+ficsave="data\mytopics.js"
+file=FreeFile
+Open ficsave For Binary Access write As #file
+Print #file,"mytopics=""";
+For i=1 To iaiml
+	'Print #file,patterns(ipatterns(i))+Chr(temp_)+templates(ipatterns(i))
+	text=topics(ipatterns(i))+"\n"
 	replace(text,"""","'")
 	Print #file,text;
 Next
