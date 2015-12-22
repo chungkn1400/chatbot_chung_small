@@ -29,6 +29,9 @@ contextmsg.fillText(msg,10,11);
 	var istar=starpatt.length-1;
 	var thats=[];
 	thats=mythats.split("\n");//alert(thats.length);
+	var topics=[];
+	for(var i=0;i<=iaiml;i++){topics[i]="";}
+	try{if(mytopics){topics=mytopics.split("\n");}}catch(e){};//alert(topics.length);
 function getiallword(text){ 
 var i,j,k,l;
 i=1;j=iallword;
@@ -274,6 +277,9 @@ for(var i=0;i<iparse0;i++){
 				  }
 		      if(patterns[n-1]==text0){testpattern[n]+=1.2;}
 			  if(thats[n-1]!=thatmsg && thats[n-1]!=""){testpattern[n]-=1.2;}
+			  if(topicprev!=""){
+			   if(topics[n-1]==topicprev){testpattern[n]+=ktopic*0.12;}
+			  }
 		     }
 		   }	 
 		}
@@ -310,7 +316,10 @@ if(j>0){
  }
 }
 if(j>0){
-	tweight[j]=Math.max(0.3*40/(40+patterns[j-1].length),tweight[j]/1.4);
+	if(topicprev!="" && topics[j-1]==topicprev){
+          tweight[j]=Math.max(0.3*40/(40+patterns[j-1].length),tweight[j]/1.1);
+     	  topicnext=topicprev;
+	}else{tweight[j]=Math.max(0.3*40/(40+patterns[j-1].length),tweight[j]/1.4);}
 	msg=templates[j-1];
 	//outmsg=msg;
 	for(var p=1;p<30;p++){
@@ -399,6 +408,7 @@ function setformatconst(){
 	setvar("vocabulary",iallword);
 }
 var optset=0,optthink=0,testsrai=0;
+var topicprev="",topicnext="",ktopic=0;
 function processinput(text0){
 msgcanvas=text0;
 if(text0=="reset vars"){
@@ -406,6 +416,14 @@ if(text0=="reset vars"){
      document.getElementById('intext').value="";return "ok";}}
 var i,j,k,n,j1,nmax=4;
 var text="",mymsg="",txt="",msgprocess0="",msgprocess2="";
+if(topicprev!=topicnext || topicprev==""){
+	ktopic=Math.max(0.1,ktopic-0.1);
+	if(ktopic<0.11){topicprev="";}
+	topicnext="";
+}else{
+	ktopic=Math.min(1.0,ktopic+0.01);
+	topicnext="";
+}
 //mymsg=">>"+text0;
 ntest0=0;
 starrandom=starrandom2;
@@ -509,6 +527,11 @@ for(var i=0;i<nvars;i++){
 }
 function setvar(varname,varvalue){
 var i,j,k,p;
+if(varname=="topic"){
+	if(varvalue==""){ktopic=0;}else{ktopic=1;}
+	topicprev=varvalue.trim().toLowerCase();
+	topicnext=topicprev;
+}
 k=-1;
 for(var i=0;i<nvars;i++){
 	if(varnames[i]==varname){
