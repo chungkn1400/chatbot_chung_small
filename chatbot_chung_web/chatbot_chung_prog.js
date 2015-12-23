@@ -29,9 +29,11 @@ contextmsg.fillText(msg,10,11);
 	var istar=starpatt.length-1;
 	var thats=[];
 	thats=mythats.split("\n");//alert(thats.length);
-	var topics=[];
+	var topics=[],startopics=[];
 	for(var i=0;i<=iaiml;i++){topics[i]="";}
+	for(var i=0;i<=istar;i++){startopics[i]="";}
 	try{if(mytopics){topics=mytopics.split("\n");}}catch(e){};//alert(topics.length);
+	if(topics.length>iaiml+1){for(var i=0;i<topics.length-iaiml-1;i++){startopics[i]=topics[i+iaiml+1];}}
 function getiallword(text){ 
 var i,j,k,l;
 i=1;j=iallword;
@@ -135,7 +137,16 @@ for(i=0;i<istar;i++){
    				testproc=1;
   				kk+=1;if(kk>nouttemplate){break;}
 		        iouttemplate[kk]=i;
-			    if(Math.random()<0.6){break;}
+				if(topicprev!="" && topicprev==startopics[i]){
+  				  kk+=1;if(kk>nouttemplate){break;}
+		          iouttemplate[kk]=i;
+  				  kk+=1;if(kk>nouttemplate){break;}
+		          iouttemplate[kk]=i;
+  				  kk+=1;if(kk>nouttemplate){break;}
+		          iouttemplate[kk]=i;
+				  topicnext=topicprev;	
+				}
+			    if(topicprev=="" && Math.random()<0.6){break;}
    			}
    	}
    }
