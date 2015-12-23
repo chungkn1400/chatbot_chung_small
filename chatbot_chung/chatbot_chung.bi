@@ -28,7 +28,7 @@ Dim Shared As Integer ltext,ltext0,itext,erreur,countsyns,botsize,botchanged
 Const As Integer naiml=150000,nword=80,nstar=40,nlevel=20,nthat=40,nallword=30000
 Const As Integer nvar=10000,nli=400,ninput=40,nsyns=200000,nsyns2=30
 Dim Shared As String  patterns(naiml),templates(naiml),starpatt(naiml)
-Dim Shared As String  starpatt2(naiml),startemp(naiml),topics(naiml),thats(naiml)
+Dim Shared As String  starpatt2(naiml),startemp(naiml),topics(naiml),thats(naiml),startopics(naiml)
 'ReDim Shared As String pattwords(naiml,nword)
 ReDim Shared As String inputs(ninput,nword)
 ReDim Shared As String synonyms(nsyns,nsyns2),lsynonyms(nsyns,nsyns2)
@@ -591,9 +591,20 @@ For i=1 To istar
    			startext=Mid(text,k+1,n)
    			If startext<>"" Then
    				testproc=1
-   				kk+=1:If kk>nouttemplate Then Exit For
-			      iouttemplate(kk)=i
-			      if rnd<0.6 then Exit for
+   				If topicprev<>"" And topicprev=LCase(Trim(startopics(i))) Then 
+   				   kk+=1:If kk>nouttemplate Then Exit For 
+		            iouttemplate(kk)=i
+   				   kk+=1:If kk>nouttemplate Then Exit For 
+		            iouttemplate(kk)=i
+   				   kk+=1:If kk>nouttemplate Then Exit For 
+		            iouttemplate(kk)=i
+   				   kk+=1:If kk>nouttemplate Then Exit For 
+		            iouttemplate(kk)=i
+   				   topicnext=topicprev
+   				EndIf 
+  				   kk+=1:If kk>nouttemplate Then Exit For
+		         iouttemplate(kk)=i
+  			      if topicprev="" And Rnd<0.6 then Exit For
    			EndIf
    	EndIf
    EndIf
@@ -919,7 +930,7 @@ If topicprev<>topicnext Or topicprev="" Then
 	If ktopic<0.11 Then topicprev=""
 	topicnext=""
 Else
-	ktopic=min(1.0,ktopic+0.01)
+	ktopic=min(1.0,ktopic+0.1)
 	topicnext=""
 EndIf
 testnoresponse=0
@@ -1885,7 +1896,7 @@ EndIf
 printgui("win.msg","loading...")
 guiscan
 erase patterns,templates 'fixed lenghts only
-erase starpatt,starpatt2,startemp,topics,thats 'fixed lenghts only
+erase starpatt,starpatt2,startemp,topics,thats,startopics 'fixed lenghts only
 'erase patterns,thats,templates,topics 'fixed lenghts only
 'ReDim pattwords(naiml,nword)
 ReDim allwords(nallword)
@@ -1904,7 +1915,7 @@ If ltext00=ltext0 And tloadaiml=0 And ltext00>0 Then tloadallword=0
 ltext=Len((*ptext))
 iaiml=0
 itext=0
-iallword=0:istar=0
+iallword=0:istar=0:itopic=0
 mytext="":imytext=0
 While itext<ltext
 	ktext=(*ptext)[itext]
@@ -1932,8 +1943,10 @@ While itext<ltext
 		     k=InStr(mytext,"//"):kk=1
 		     i=0
 		     j=InStr(mytext,"/that/")
-		     If j<=0 Then j=k
-		     EndIf   	
+		     If j<=0 Then
+		     	j=k
+		     EndIf
+		   EndIf   
 		   l=Len(mytext)
 		   'patterns(iaiml)=Left(mytext,k-1)
 		   'If i>1 Then
@@ -2017,6 +2030,7 @@ While itext<ltext
 		   		   		starpatt2(istar)=Mid(patterns(iaiml),iaux2+1)
 		   		   	EndIf 	
 		   		   	startemp(istar)=temp
+		   		   	startopics(istar)=topics(iaiml)
 		   		   EndIf 	
 		   		EndIf 	
 		   		iaiml-=1
@@ -2097,13 +2111,19 @@ EndIf
 If FileExists(fictopic) And tloadaiml=0 Then
    file=FreeFile 
    Open fictopic For Input As #file
-   itopic=0
+   itopic=0:j=0
    For i=1 To naiml
       If Not Eof(file) Then Line Input #file,ficin Else Exit For
       topics(i)=ficin
-      If ficin<>"" Then itopic+=1 
+      If ficin<>"" Then itopic+=1
+      j+=1 
    Next
    Close #file
+   If j>iaiml Then
+   	For i=1 To j-iaiml
+   		startopics(i)=topics(i+iaiml)
+   	Next
+   EndIf
 EndIf   
 botsize=iaiml
 msg="loaded patterns :"+Str(botsize)+"  topics :"+Str(itopic)+crlf
@@ -2213,6 +2233,9 @@ file=freefile
 Open fictopic For Output As #file
 For i=1 To iaiml
 	Print #file,topics(ipatterns(i))
+Next
+For i=1 To min2(naiml-iaiml,istar)
+	Print #file,startopics(i)
 Next
 Close #file	
 printgui("win.msg","saved in "+ficsave+crlf+" "+ficword+crlf+" "+ficstar+crlf+" "+fictopic)
@@ -2418,6 +2441,12 @@ Print #file,"mytopics=""";
 For i=1 To iaiml
 	'Print #file,patterns(ipatterns(i))+Chr(temp_)+templates(ipatterns(i))
 	text=topics(ipatterns(i))+"\n"
+	replace(text,"""","'")
+	Print #file,text;
+Next
+For i=1 To min2(naiml-iaiml,istar)
+	'Print #file,patterns(ipatterns(i))+Chr(temp_)+templates(ipatterns(i))
+	text=startopics(i)+"\n"
 	replace(text,"""","'")
 	Print #file,text;
 Next
