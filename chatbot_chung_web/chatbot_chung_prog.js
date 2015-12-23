@@ -278,7 +278,7 @@ for(var i=0;i<iparse0;i++){
 		      if(patterns[n-1]==text0){testpattern[n]+=1.2;}
 			  if(thats[n-1]!=thatmsg && thats[n-1]!=""){testpattern[n]-=1.2;}
 			  if(topicprev!=""){
-			   if(topics[n-1]==topicprev){testpattern[n]+=ktopic*0.12;}
+			   if(topics[n-1]==topicprev){testpattern[n]+=ktopic*0.2;}
 			  }
 		     }
 		   }	 
@@ -421,7 +421,7 @@ if(topicprev!=topicnext || topicprev==""){
 	if(ktopic<0.11){topicprev="";}
 	topicnext="";
 }else{
-	ktopic=Math.min(1.0,ktopic+0.01);
+	ktopic=Math.min(1.0,ktopic+0.1);
 	topicnext="";
 }
 //mymsg=">>"+text0;
