@@ -209,15 +209,20 @@
 		nvbuff=mynvert;
 		var sc=1.06;
 		var scale=[],scalex=0.95*sc,scaley=0.965*sc,scalez=1.04*sc,dz=[];
+		var scale2=[];
 		for(var i=0; i<nvbuff; i+=3){
 		    scale[i]=scalex;scale[i+1]=scaley;scale[i+2]=scalez;
-			dz[i]=0;dz[i+1]=0;dz[i+2]=-14*sc;}
+			dz[i]=0;dz[i+1]=0;dz[i+2]=-14*sc;
+			var y=mymesh.vertexBuffer[i+1];
+			if(y>0){scale2[i]=0;scale2[i+1]=0;scale2[i+2]=0;}
+			else{scale2[i]=scalex;scale2[i+1]=scaley;scale2[i+2]=scalez;}
+			}
 		for(var i=0; i<nvbuff; i++){
 		   vbuff0.push(mymesh.vertexBuffer[i]*scale[i]+dz[i]);
-		   vbuff1.push((mymesh1.vertexBuffer[i]-mymesh.vertexBuffer[i])*scale[i]);
-		   vbuff2.push((mymesh2.vertexBuffer[i]-mymesh.vertexBuffer[i])*scale[i]);
-		   vbuff3.push((mymesh3.vertexBuffer[i]-mymesh.vertexBuffer[i])*scale[i]);
-		   vbuff4.push((mymesh4.vertexBuffer[i]-mymesh.vertexBuffer[i])*scale[i]);
+		   vbuff1.push((mymesh1.vertexBuffer[i]-mymesh.vertexBuffer[i])*scale2[i]);
+		   vbuff2.push((mymesh2.vertexBuffer[i]-mymesh.vertexBuffer[i])*scale2[i]);
+		   vbuff3.push((mymesh3.vertexBuffer[i]-mymesh.vertexBuffer[i])*scale2[i]);
+		   vbuff4.push((mymesh4.vertexBuffer[i]-mymesh.vertexBuffer[i])*scale2[i]);
 		}
 		mymesh1.vertexBuffer=null;
 		mymesh1.indexBuffer=null;
