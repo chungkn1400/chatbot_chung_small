@@ -104,7 +104,7 @@ Declare Function load3DSmap Cdecl Alias "load3DSmap" (Byval ficload As ZString P
 
 Declare Function loadobjsizeptr Cdecl Alias "loadobjsizeptr" (Byval ficload As ZString Ptr,ByVal myobjptr As myobj_type Ptr,size As Integer) As Integer          
 
-Dim Shared As myobj_type myobj,myobj2,myobjeye,myobj0,myobj20,myobjmouth,myobjmoutho
+Dim Shared As myobj_type myobj,myobj2,myobjeye,myobj0,myobj20,myobjmouth,myobjmoutho,myobjsmile
 Dim Shared As vertex_type Ptr myvertex,myvertex2
 Dim Shared As Single dxeye(64000),dyeye(64000),dzeye(64000)
 Dim Shared As Single dxeye0(64000),dyeye0(64000),dzeye0(64000)
@@ -112,6 +112,8 @@ Dim Shared As Single dxmouth(64000),dymouth(64000),dzmouth(64000)
 Dim Shared As Single dxmouth0(64000),dymouth0(64000),dzmouth0(64000)
 Dim Shared As Single dxmoutho(64000),dymoutho(64000),dzmoutho(64000)
 Dim Shared As Single dxmoutho0(64000),dymoutho0(64000),dzmoutho0(64000)
+Dim Shared As Single dxsmile(64000),dysmile(64000),dzsmile(64000)
+Dim Shared As Single dxsmile0(64000),dysmile0(64000),dzsmile0(64000)
 Dim Shared As Single myobjsize 
 Dim Shared As Single rr(64000),gg(64000),bb(64000),aa(64000)
 Sub draw3dswire(ByVal obj As myobj_type Ptr)
@@ -216,7 +218,7 @@ Dim Shared As Single zface=-30,szface=1,sxmouth=1,ymouth=70,symouth=1,szmouth=1
 Dim Shared As Single yfront=100,syfront=1,sxfront=1,szfront=1,yphoto=69,syphoto=1
 Dim Shared As Single sxphoto=1,yjaw=40,syjaw=1,sxjaw=1,szjaw=1
 Dim Shared As ZString * 256 objfile,photofile,objfile2,objfileeye,objfilemouth
-Dim Shared As ZString * 256 objfilemoutho
+Dim Shared As ZString * 256 objfilemoutho,objfilesmile
 'Dim shared as double auxvar,auxvar2,auxvar3
 Dim Shared As String curdir0
 ChDir(ExePath)
@@ -554,7 +556,7 @@ If ifunc=8 Or ifunc=9 Then
 EndIf 
 End Sub 
 Dim Shared As Double time0,time1,time2,time3,nframe,kfps=1,kfps2,kfps3,dtime2
-Dim Shared As Double fps,maxfps=80,tfps
+Dim Shared As Double fps=10,maxfps=120,tfps
 Sub setfps()
            	time3=time2
            	time2=Timer
@@ -565,7 +567,7 @@ Sub setfps()
            		Sleep Int((time3+dtime2+0.001-time2)*1000)'20'30
            	   time2=time3+dtime2+0.001
            	EndIf
-           	tfps=0.85*tfps+0.15*min(1.0,(time2-time3))
+           	tfps+=(0.5/fps)*(-tfps+min(1.0,(time2-time3)))
            	fps=1.0/max(0.001,tfps)
            	kfps=min(10.0,30/fps)	
 End Sub
@@ -664,7 +666,7 @@ While quit=0 And Not guitestKey(vk_escape)
 	If tchanged>=2 Then dxyz=max(1.1,1.1*kfps) 'Else Sleep 50
 	tchanged0=tchanged
 	If guitestkey(vk_f1) Then subhelp()
-	If ifunc=0 Or (guitestkey(vk_shift)=0 And guitestkey(vk_control)=0) Then
+	'If ifunc=0 Or (guitestkey(vk_shift)=0 And guitestkey(vk_control)=0) Then
 	 If guitestkey(vk_left) Then o1+=dxyz:tchanged+=1
 	 If guitestkey(vk_right) Then o1-=dxyz:tchanged+=1
 	 If guitestkey(vk_up) Then o2+=dxyz:tchanged+=1
@@ -676,7 +678,7 @@ While quit=0 And Not guitestKey(vk_escape)
 	 Else
 	 	subfocus()
 	 EndIf
-	EndIf 
+	'EndIf 
   If getfocus()=wingraph Then 	
 	If guitestkey(vk_q) Then o1-=dxyz:tchanged+=1
 	If guitestkey(vk_d) Then o1+=dxyz:tchanged+=1
@@ -925,9 +927,31 @@ If FileExists(objfile) Then
   Else
   	  myobjmoutho=myobj
   EndIf
+  If FileExists(objname+"smile.3ds") Then
+  	  objfilesmile=objname+"smile.3ds"
+  	  load3DSsizeptr(@objfilesmile,@myobjsmile,150)
+  ElseIf FileExists(objname+"smile.obj") Then
+  	  objfilesmile=objname+"smile.obj"
+  	  loadobjsizeptr(@objfilesmile,@myobjsmile,150)
+  Else
+  	  myobjsmile=myobj
+  EndIf
 EndIf
 'glendlist
 myobj2=myobj
+Var nvert=myobj.vertices_qty
+If nvert<>myobjeye.vertices_qty Then notice("myobjeye : not same vertices number"):myobjeye=myobj
+If nvert<>myobjmouth.vertices_qty Then notice("myobjmouth : not same vertices number"):myobjmouth=myobj
+If nvert<>myobjmoutho.vertices_qty Then notice("myobjmoutho : not same vertices number"):myobjmoutho=myobj
+If nvert<>myobjsmile.vertices_qty Then notice("myobjsmile : not same vertices number"):myobjsmile=myobj
+Dim As Integer i
+Dim As Single y0=10'back
+For i=0 To nvert
+	If myobjeye.vertex(i).y>y0 Then myobjeye.vertex(i) = myobj.vertex(i)
+	If myobjmouth.vertex(i).y>y0 Then myobjmouth.vertex(i) = myobj.vertex(i)
+	If myobjmoutho.vertex(i).y>y0 Then myobjmoutho.vertex(i) = myobj.vertex(i)
+	If myobjsmile.vertex(i).y>y0 Then myobjsmile.vertex(i) = myobj.vertex(i)
+Next
 printgui("win","chatbot_chung        "+objfile+"      "+photofile+"  ["+objfile2+"]")
 End Sub
 Sub gldrawtext0(ByRef text As String,ByVal x As Single,ByVal y As Single,ByVal scale As Single=1.0)
@@ -1253,7 +1277,7 @@ Dim As Integer i,j,k,a,b,c
 		initobjeye2=0
 End Sub 
 Dim Shared As Double tkeye
-Dim Shared As Single kmouth,kmoutho
+Dim Shared As Single kmouth,kmoutho,ksmile
 Sub addphoneme(iphon As Integer)
 iphoneme+=1:If iphoneme>nphoneme Then iphoneme=1
 phonemes(iphoneme)=iphon
@@ -1278,6 +1302,7 @@ Select Case phonemes(i)
    kmoutho+=(Sin(dtt)+d1)*0.24
    kmouth+=kmoutho*0.3
    kmouth+=(Sin(dtt)+0.7)*0.3
+   ksmile+=kmoutho*0.3
 	Case 28 'e
    kmoutho+=(Sin(dtt)+d1)*0.24
    kmouth+=kmoutho*0.3
@@ -1380,6 +1405,13 @@ Dim As Single keye,do1
    		dymoutho(i)=myobj2.vertex(i).y-myobj20.vertex(i).y
    		dzmoutho(i)=myobj2.vertex(i).z-myobj20.vertex(i).z
    	Next
+   	myobj=myobjsmile
+   	myfuncscale()
+   	For i=0 To myobj.vertices_qty-1
+   		dxsmile(i)=myobj2.vertex(i).x-myobj20.vertex(i).x
+   		dysmile(i)=myobj2.vertex(i).y-myobj20.vertex(i).y
+   		dzsmile(i)=myobj2.vertex(i).z-myobj20.vertex(i).z
+   	Next
    	myobj=myobj0:myobj2=myobj20
    	For i=0 To myobj.vertices_qty-1
    		dxeye0(i)=myobjeye.vertex(i).x-myobj.vertex(i).x
@@ -1396,11 +1428,17 @@ Dim As Single keye,do1
    		dymoutho0(i)=myobjmoutho.vertex(i).y-myobj.vertex(i).y
    		dzmoutho0(i)=myobjmoutho.vertex(i).z-myobj.vertex(i).z
    	Next
+   	For i=0 To myobj.vertices_qty-1
+   		dxsmile0(i)=myobjsmile.vertex(i).x-myobj.vertex(i).x
+   		dysmile0(i)=myobjsmile.vertex(i).y-myobj.vertex(i).y
+   		dzsmile0(i)=myobjsmile.vertex(i).z-myobj.vertex(i).z
+   	Next
    EndIf
    
   If ifunc=7 Or ifunc=8 Then 
    Var ktime=1.5
    keye=(Sin(Timer*ktime-tkeye)+0.7)*0.32
+   ksmile=(Cos(Timer*ktime*0.3)+0.7)*0.42
    kmoutho=0'(Cos(Timer*ktime*0.75)+1)*0.64
    kmouth=(Cos(Timer*ktime*0.85)+0.7)*0.15+kmoutho*0.3
    If Rnd<0.03*kfps And keye>1.45*0.32 Then keye=0:tkeye=Timer*ktime
@@ -1412,17 +1450,17 @@ Dim As Single keye,do1
    	myvertex=@myobj0.vertex(i)
    	myvertex2=@myobj.vertex(i)
    	Var sc=0.89
-   	myvertex->x=myvertex2->x+keye*dxeye0(i)+sc*(kmouth*dxmouth0(i)+kmoutho*dxmoutho0(i))
-   	myvertex->y=myvertex2->y+keye*dyeye0(i)+sc*(kmouth*dymouth0(i)+kmoutho*dymoutho0(i))
-   	myvertex->z=myvertex2->z+keye*dzeye0(i)+sc*(kmouth*dzmouth0(i)+kmoutho*dzmoutho0(i))
+   	myvertex->x=myvertex2->x+keye*dxeye0(i)+sc*(kmouth*dxmouth0(i)+kmoutho*dxmoutho0(i))+ksmile*dxsmile0(i)
+   	myvertex->y=myvertex2->y+keye*dyeye0(i)+sc*(kmouth*dymouth0(i)+kmoutho*dymoutho0(i))+ksmile*dysmile0(i)
+   	myvertex->z=myvertex2->z+keye*dzeye0(i)+sc*(kmouth*dzmouth0(i)+kmoutho*dzmoutho0(i))+ksmile*dzsmile0(i)
     Next
    Else
     For i=0 To myobj.vertices_qty-1
    	myvertex=@myobj20.vertex(i)
    	myvertex2=@myobj2.vertex(i)
-   	myvertex->x=myvertex2->x+keye*dxeye(i)+kmouth*dxmouth(i)+kmoutho*dxmoutho(i)
-   	myvertex->y=myvertex2->y+keye*dyeye(i)+kmouth*dymouth(i)+kmoutho*dymoutho(i)
-   	myvertex->z=myvertex2->z+keye*dzeye(i)+kmouth*dzmouth(i)+kmoutho*dzmoutho(i)
+   	myvertex->x=myvertex2->x+keye*dxeye(i)+kmouth*dxmouth(i)+kmoutho*dxmoutho(i)+ksmile*dxsmile(i)
+   	myvertex->y=myvertex2->y+keye*dyeye(i)+kmouth*dymouth(i)+kmoutho*dymoutho(i)+ksmile*dysmile(i)
+   	myvertex->z=myvertex2->z+keye*dzeye(i)+kmouth*dzmouth(i)+kmoutho*dzmoutho(i)+ksmile*dzsmile(i)
     Next
    EndIf 	
    do1=Cos(Timer*0.6)*2.6
@@ -1449,7 +1487,7 @@ Dim As Single keye,do1
 		glColor4f 1.0, 1.0, 1.0, 1
 		'glenable gl_alpha_test
 		'glalphafunc gl_lequal,10/256
-		If icombo=1 Or icombo=2 Or icombo=4 Then tlight=1 Else tlight=0
+		If icombo=1 Or icombo=2 Or icombo=4 Or icombo=5 Then tlight=1 Else tlight=0
       If tlight=1 Then glenable gl_lighting
       'gldisable gl_blend
       If icombo<>5 Then 
@@ -1527,7 +1565,7 @@ Dim As Single keye,do1
 		glcolor3f(1,1,0)
 		gldrawtext(Left(msg,min2(100,InStr(msg,Chr(13))-1)),xmax/2-270,ymax-85,1)
 		glcolor3f(0.6,1,1)
-		Var msgtest="  "+Str(ntest0)+" "+Str(ntestsrai)+" "+str(nteststar)
+		Var msgtest=""'"  "+Str(ntest0)+" "+Str(ntestsrai)+" "+str(nteststar)
 		gldrawtext(Left(Mid(msg,InStr(msg,"> "))+msgtest,100),xmax/2-270,ymax-65,1)
 
 End Sub

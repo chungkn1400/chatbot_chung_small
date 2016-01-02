@@ -1,16 +1,7 @@
--144
- 52
--77
- 9
--90
- 0
-objects\obj\eviemodel.obj
- 2
  0
 -12
  1
  1.63
- 8
  0.9886
  1.07
  1.03
@@ -22,7 +13,7 @@ objects\obj\eviemodel.obj
  1
  1
 objects\carole.jpg
--36
+-43
  0.9
  1.11
  45
@@ -35,14 +26,13 @@ objects\carole.jpg
  73
  0.88
  1.18
-obj\eviemodel.obj
+objects\obj\eviemodel.obj
  58
  0.98
  0.93
  0.96
- 2
  100
  99
  100
  100
- 1
+ 171
