@@ -571,9 +571,9 @@ replace(text,"  "," ")
 Return Trim(text) 
 End Function
 Dim Shared As Integer nouttemplate=30000,iouttemplate(nouttemplate)
-Dim Shared As Integer testproc=0,teststar=0,testsrai=0,testnoresponse=0
+Dim Shared As Integer testproc=0,teststar=0,testsrai=0,testnoresponse=0,trandomize=-1
 Dim Shared As String msgprocess,msgmsg,topicprev,topicnext
-Dim Shared As single ktopic=0
+Dim Shared As single ktopic=0,krandom=0
 Declare Function formatcondition(ByRef text0 As String)As String
 Sub processinputstar(ByRef text0 As string)
 Dim As Integer i,j,k,l,p,n,nbword,test,kk
@@ -676,6 +676,7 @@ Dim As Integer i,j,k,l,p,n,nbword,q,r
 Dim As String msg,msg2,allpatt,inword,inword2,patt
 testproc=0
 teststar=0
+Dim As Single krandom=0:If trandomize=0 Then krandom=4
 If Rnd<0.5*starrandom Then
 	teststar=1
 	processinputstar(text0)
@@ -762,27 +763,28 @@ For i=1 To k
 		  If testiword(n)<i Then 
 			 testiword(n)=i
 			 testnword(n)+=1
+			 Var k03=0.3:If trandomize=0 Then k03=0.001
 			 If kj(p)>0.87 Then
-				testpattern(n)+=kj(p)*weight(4*nbwords(i)+Len(inputword(i)))*(1+Rnd*0.3)*Sqr(0.507+15/(40+Len(patterns(n))))
+				testpattern(n)+=kj(p)*weight(4*nbwords(i)+Len(inputword(i)))*(1+Rnd*k03)*Sqr(0.507+15/(40+Len(patterns(n))))
 			 Else
-				testpattern(n)+=kj(p)*0.65*weight(4*nbwords(i)+Len(inputword(i)))*(1+Rnd*0.3)*sqr(0.507+15/(40+Len(patterns(n))))
+				testpattern(n)+=kj(p)*0.65*weight(4*nbwords(i)+Len(inputword(i)))*(1+Rnd*k03)*sqr(0.507+15/(40+Len(patterns(n))))
 			 EndIf
 			 If testnword(n)=1 Then 
 			  If Abs(Len(patterns(n))-Len(text0))<1+0.1*Len(text0) Then testpattern(n)+=1
 			  If Abs(Len(patterns(n))-Len(text0))<1 Then 
-              testpattern(n)+=1
+              testpattern(n)+=1+krandom
 			    If thatmsg<>"" Then
 			 	   If thats(n)=thatmsg Then
-			 	      testpattern(n)+=1.2:'auxtext+="!!"+thatmsg
+			 	      testpattern(n)+=1.2+krandom:'auxtext+="!!"+thatmsg
 			 	   EndIf
 			    EndIf 		 	
 			  EndIf
 			  If patterns(n)=text0 Then
-             testpattern(n)+=1.2
+             testpattern(n)+=1.2+krandom*8
 			  EndIf
 			  If thats(n)<>"" And thats(n)<>thatmsg Then testpattern(n)-=1.2
 			  If topicprev<>"" Then
-			  	 If topics(n)=topicprev Then testpattern(n)+=ktopic*0.12
+			  	 If topics(n)=topicprev Then testpattern(n)+=ktopic*0.12+krandom
 			  EndIf
 			 EndIf
 		  EndIf 	
@@ -790,6 +792,7 @@ For i=1 To k
 	EndIf
 Next
 For i=1 To iaiml
+	If trandomize=0 Then tweight(i)=3.0
 	testpattern(i)*=tweight(i)
 	'tweight(i)=min(2.0,tweight(i)*1.1)
 	tweight(i)=min(3.0,tweight(i)+0.05*(3.0-tweight(i)))
@@ -812,7 +815,7 @@ If j>0 Then
  parse(patterns(j),"")
  If iparse>nbword Then  
 	k=0
-	Var dx=xtest*0.3
+	Var dx=xtest*0.3:If trandomize=0 Then dx*=0.01
 	For i=1 To iaiml
 		If Abs(testpattern(i)-xtest)<dx Then
 			'If topicprev="" Or topics(i)=topicprev Then 
@@ -915,16 +918,47 @@ End Sub
 Declare Function formatoutput(ByRef text0 As string)As String
 Declare Sub formatget(ByRef text As String)
 Declare Sub resetvars()
+Declare Sub sublistvars() 
+Declare Function getvar(ByRef varname As String)As String 
+Sub subhelpaiml()
+Var msg="say ""help"" => help"+crlf+crlf
+    msg+="return   => repeat"+crlf
+    msg+="star*    => autochat"+crlf
+    msg+="""vars"" => list aimlvars"+crlf
+    msg+="""resetvars"" => reset aimlvars"+crlf
+    msg+="""randomize"" => randomize"+crlf
+    notice(msg)   
+End Sub
+Sub subrandomize()
+	If trandomize=0 Then
+		confirm("set randomize on ?","confirm",resp)
+		If resp="yes" Then trandomize=1:setvar("myaimlrandomize","1")
+	Else
+		confirm("set randomize off ?","confirm",resp)
+		If resp="yes" Then trandomize=0:setvar("myaimlrandomize","0")		
+	EndIf
+End Sub
 Dim Shared As Integer optset=0,optthink=0
 Sub processinput(ByRef text0 As string)
 Dim As Integer i,j,k,n,j1,nmax=4
 Dim As String text,mymsg,msgprocess0,msgprocess2
-If text0="reset vars" Then
+If text0="help" Then subhelpaiml()
+If text0="reset vars" Or text0="resetvars" Then
 	confirm("reset aiml vars ?","confirm",resp)
 	If resp="yes" Then
 		resetvars()
 	EndIf
 EndIf
+If text0="vars" Then sublistvars()
+If trandomize<0 Then
+	If getvar("myaimlrandomize")="myaimlrandomize" Then
+		trandomize=1
+	Else
+		trandomize=Val(getvar("myaimlrandomize"))
+	EndIf
+EndIf
+If text0="randomize" Then subrandomize()
+guisetfocus("win.text")
 If topicprev<>topicnext Or topicprev="" Then
 	ktopic=max(0.1,ktopic-0.1)
 	If ktopic<0.11 Then topicprev=""
@@ -1099,6 +1133,17 @@ For i=0 To nvars
 Next
 Return varname
 End Function 
+Sub sublistvars()
+Dim As Integer i,j=0
+	Var msg="aiml vars :"+crlf
+   For i=1 To nvars
+   	If varnames(i)<>"" Then
+   		j+=1:msg+=varnames(i)+"="+varvalues(i)+crlf
+   		If j>200 Then Exit For
+   	EndIf
+   Next
+   notice(msg)
+End Sub
 Function formatcondition(ByRef text0 As String)As String
 Dim As Integer i,j,k,n,p,i2
 	Var text=text0,text2="",text1=""
