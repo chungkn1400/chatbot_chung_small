@@ -206,6 +206,7 @@ var j=0,k=0,l=0,p=0,n=0,nbword=0,kj=[],q=0,r=0;
 var outmsg="",msg="",msg2="",allpatt="",inword="",patt="";
 testproc=0;
 teststar=0;
+var krandom=0;if(randomize==0){krandom=4;}
 if(Math.random()<0.5*starrandom){
 	teststar=1;
 	starrandom2=Math.max(0.12,starrandom/1.4);
@@ -213,7 +214,8 @@ if(Math.random()<0.5*starrandom){
 	if(testproc==1){return outmsg;} 
 }else{
 	starrandom2=Math.min(1.75,starrandom+0.1);
-}textparse=[];
+}
+textparse=[];
 textparse=text0.split(" ");
 iparse=textparse.length;
 if(iparse<=0){return "???";} 
@@ -274,22 +276,23 @@ for(var i=0;i<iparse0;i++){
 		   if(testiword[n]<i){
              testiword[n]=i;		   
 			 testnword[n]+=1;
+			 var k03=0.3;if(randomize==0){k03=0.001;}
 			 if(kj[p]>0.87){
-				testpattern[n]+=kj[p]*weight(4+(inputword[i].length))*(1+Math.random()*0.3)*Math.sqrt(0.507+15/(40+patterns[n-1].length));
+				testpattern[n]+=kj[p]*weight(4+(inputword[i].length))*(1+Math.random()*k03)*Math.sqrt(0.507+15/(40+patterns[n-1].length));
 			 }else{
-				testpattern[n]+=kj[p]*0.65*weight(4+(inputword[i].length))*(1+Math.random()*0.3)*Math.sqrt(0.507+15/(40+patterns[n-1].length));
+				testpattern[n]+=kj[p]*0.65*weight(4+(inputword[i].length))*(1+Math.random()*k03)*Math.sqrt(0.507+15/(40+patterns[n-1].length));
 			 }
 			 if(testnword[n]==1){
 			  var len=Math.abs(patterns[n-1].length-text0.length);
 		      if(len<1+0.1*text0.length){testpattern[n]+=1;}
 		      if(len<1){
-				  testpattern[n]+=1;
-				  if(thats[n-1]==thatmsg){testpattern[n]+=1.2;}//auxtext+="!!"+thatmsg;}
+				  testpattern[n]+=1+krandom;
+				  if(thats[n-1]==thatmsg){testpattern[n]+=1.2+krandom;}//auxtext+="!!"+thatmsg;}
 				  }
-		      if(patterns[n-1]==text0){testpattern[n]+=1.2;}
+		      if(patterns[n-1]==text0){testpattern[n]+=1.2+krandom*8;}
 			  if(thats[n-1]!=thatmsg && thats[n-1]!=""){testpattern[n]-=1.2;}
 			  if(topicprev!=""){
-			   if(topics[n-1]==topicprev){testpattern[n]+=ktopic*0.2;}
+			   if(topics[n-1]==topicprev){testpattern[n]+=ktopic*0.2+krandom;}
 			  }
 		     }
 		   }	 
@@ -297,6 +300,7 @@ for(var i=0;i<iparse0;i++){
 	}
 }
 for(var i=1;i<=iaiml;i++){
+	if(randomize==0){tweight[i]=3.0;}
 	testpattern[i]*=tweight[i];
 	//tweight[i]=Math.min(2.0,tweight[i]*1.1);
 	tweight[i]=Math.min(3.0,tweight[i]+0.05*(3.0-tweight[i]));//*1.1);
@@ -316,7 +320,7 @@ if(j>0){
  textparse=patterns[j].split(" ");
  if(textparse.length>nbword){
 	k=0;
-	var dx=xtest*0.3;
+	var dx=xtest*0.3;if(randomize==0){dx*=0.01;}
 	for(var i=1;i<=iaiml;i++){
 		if(Math.abs(testpattern[i]-xtest)<dx){
 			k+=1;if(k>=nouttemplate){break;}
@@ -328,9 +332,9 @@ if(j>0){
 }
 if(j>0){
 	if(topicprev!="" && topics[j-1]==topicprev){
-          tweight[j]=Math.max(0.3*40/(40+patterns[j-1].length),tweight[j]/1.1);
+          if(randomize==1){tweight[j]=Math.max(0.3*40/(40+patterns[j-1].length),tweight[j]/1.1);}
      	  topicnext=topicprev;
-	}else{tweight[j]=Math.max(0.3*40/(40+patterns[j-1].length),tweight[j]/1.4);}
+	}else if(randomize==1){tweight[j]=Math.max(0.3*40/(40+patterns[j-1].length),tweight[j]/1.4);}
 	msg=templates[j-1];
 	//outmsg=msg;
 	for(var p=1;p<30;p++){
@@ -393,7 +397,7 @@ if(j>0){
     if(Math.random()<0.35){msg="i don't see what you mean";}
 	else if(Math.random()<0.5){msg="that's too complicated for me";}
 	else{msg="can you be more explicit";}
-	if(Math.random()<0.7){testsay222=1;}
+	if(Math.random()<0.7 || randomize==0){testsay222=1;}
 	oldmsg=msg;
 	outmsg=msg;
 	msgprocess=msg;
@@ -418,13 +422,44 @@ function setformatconst(){
 	setvar("size",botsize);
 	setvar("vocabulary",iallword);
 }
+function subhelp(){
+	var msg="say 'help' => help"+crlf+crlf;
+	msg+="return => repeat"+crlf;
+	msg+="star*  => autochat"+crlf;
+	msg+="'vars'   => display aimlvars"+crlf;
+	msg+="'resetvars' => reset aimlvars"+crlf;
+	msg+="'randomize' => randomize"+crlf;
+	alert(msg);
+}
+function subvars(){
+	var msg="aiml vars :"+crlf;
+	var j=0;
+	for(var i=0;i<nvars;i++){
+	    if(varnames[i]!=""){msg+=varnames[i]+"="+varvalues[i]+crlf;j+=1;if(j>200){break;}}
+	}
+	alert(msg);
+}
+var randomize=-1;
+function subrandomize(){
+	if(randomize==0){if(confirm("set randomize on ?")){randomize=1;setvar("myaimlrandomize",1);savevars();}}
+	else{if(confirm("set randomize off ?")){randomize=0;setvar("myaimlrandomize",0);savevars();}}
+}
 var optset=0,optthink=0,testsrai=0;
 var topicprev="",topicnext="",ktopic=0;
 function processinput(text0){
 msgcanvas=text0;
-if(text0=="reset vars"){
+if(text0=="reset vars" || text0=="resetvars"){
   if(confirm("reset aiml vars ?")){resetaimlvars();
-     document.getElementById('intext').value="";return "ok";}}
+     document.getElementById('intext').value="";}}
+if(text0=="help"){subhelp();
+     document.getElementById('intext').value="";}
+if(text0=="vars"){subvars();
+     document.getElementById('intext').value="";}
+if(randomize<0){if(getvar("myaimlrandomize")=="myaimlrandomize"){randomize=1;setvar("myaimlrandomize",1);}
+                else{randomize=parseInt(getvar("myaimlrandomize"));}
+				}
+if(text0=="randomize"){subrandomize();
+     document.getElementById('intext').value="";}
 var i,j,k,n,j1,nmax=4;
 var text="",mymsg="",txt="",msgprocess0="",msgprocess2="";
 if(topicprev!=topicnext || topicprev==""){
@@ -445,7 +480,7 @@ for(n=1;n<=nmax;n++){
    txt=processinput0(text0);
    ntest0+=ntest;
    msgprocess=formatoutput2(msgprocess);
-   //if(msgmsg!=""){mymsg+=crlf+msgmsg;}
+   //if(msgmsg!=""){mymsg+=crlf+msgmsg+msgprocess;}
    for(var i=1;i<=30;i++){	
 	   j=msgprocess.indexOf("/srai/");
 	   j1=msgprocess.indexOf("/cond0/");
@@ -528,7 +563,7 @@ txt=formatoutput2(txt);
 txt=formatget(txt);
 i=txt.indexOf(crlf+">");
 txt=txt.substr(0,i)+crlf+"> "+msgprocess;
-return txt;
+return txt+mymsg;
 }
 var nvars=2000;
 var vark=[],varnames=[],varvalues=[];
