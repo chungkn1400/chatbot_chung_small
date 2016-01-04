@@ -526,9 +526,11 @@ If i>0 And Rnd<0.5 Then
 EndIf
 Return text0
 End Function
+Dim Shared As Integer trandomize=-1
 Function formatrndsyn(text0 As String)As String
 Dim As Integer i,j,k
 Dim As String text=""
+If trandomize=0 Then Return text0
 'Return text0
 parse(text0," ")
 For i=1 To iparse
@@ -571,7 +573,7 @@ replace(text,"  "," ")
 Return Trim(text) 
 End Function
 Dim Shared As Integer nouttemplate=30000,iouttemplate(nouttemplate)
-Dim Shared As Integer testproc=0,teststar=0,testsrai=0,testnoresponse=0,trandomize=-1
+Dim Shared As Integer testproc=0,teststar=0,testsrai=0,testnoresponse=0
 Dim Shared As String msgprocess,msgmsg,topicprev,topicnext
 Dim Shared As single ktopic=0,krandom=0
 Declare Function formatcondition(ByRef text0 As String)As String
@@ -769,9 +771,11 @@ For i=1 To k
 			 Else
 				testpattern(n)+=kj(p)*0.65*weight(4*nbwords(i)+Len(inputword(i)))*(1+Rnd*k03)*sqr(0.507+15/(40+Len(patterns(n))))
 			 EndIf
-			 If testnword(n)=1 Then 
-			  If Abs(Len(patterns(n))-Len(text0))<1+0.1*Len(text0) Then testpattern(n)+=1
-			  If Abs(Len(patterns(n))-Len(text0))<1 Then 
+			 If testnword(n)=1 Then
+			  Var dlon=Abs(Len(patterns(n))-Len(text0))
+			  Var dlon0=Len(text0)+25
+			  If dlon<1+0.1*Len(text0) Then testpattern(n)+=1
+			  If dlon<1 Then 
               testpattern(n)+=1+krandom
 			    If thatmsg<>"" Then
 			 	   If thats(n)=thatmsg Then
@@ -786,6 +790,7 @@ For i=1 To k
 			  If topicprev<>"" Then
 			  	 If topics(n)=topicprev Then testpattern(n)+=ktopic*0.12+krandom
 			  EndIf
+			  testpattern(n)*=(dlon0)/(dlon0+dlon)	
 			 EndIf
 		  EndIf 	
 		Next

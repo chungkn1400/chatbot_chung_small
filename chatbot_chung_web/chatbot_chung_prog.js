@@ -284,6 +284,7 @@ for(var i=0;i<iparse0;i++){
 			 }
 			 if(testnword[n]==1){
 			  var len=Math.abs(patterns[n-1].length-text0.length);
+			  var len0=text0.length+25;
 		      if(len<1+0.1*text0.length){testpattern[n]+=1;}
 		      if(len<1){
 				  testpattern[n]+=1+krandom;
@@ -294,6 +295,7 @@ for(var i=0;i<iparse0;i++){
 			  if(topicprev!=""){
 			   if(topics[n-1]==topicprev){testpattern[n]+=ktopic*0.2+krandom;}
 			  }
+			  testpattern[n]*=(len0)/(len0+len);	
 		     }
 		   }	 
 		}
