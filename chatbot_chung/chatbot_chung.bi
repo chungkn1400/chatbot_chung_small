@@ -672,14 +672,14 @@ Sub setformatconst()
 End Sub
 Dim Shared As Single starrandom=1,starrandom2=1
 Dim Shared As Single kj(nallword)
-Dim Shared As Integer ntest,ntest0,ntestsrai,nteststar
+Dim Shared As Integer ntest,ntest0,ntestsrai,nteststar,forcestar
 Sub processinput0(ByRef text0 As string)
 Dim As Integer i,j,k,l,p,n,nbword,q,r
 Dim As String msg,msg2,allpatt,inword,inword2,patt
 testproc=0
 teststar=0
 Dim As Single krandom=0:If trandomize=0 Then krandom=4
-If Rnd<0.5*starrandom Then
+If Rnd<0.5*starrandom Or forcestar=1 Then
 	teststar=1
 	processinputstar(text0)
 	nteststar+=1
@@ -944,9 +944,16 @@ Sub subrandomize()
 	EndIf
 End Sub
 Dim Shared As Integer optset=0,optthink=0
+Dim Shared As String text00
 Sub processinput(ByRef text0 As string)
 Dim As Integer i,j,k,n,j1,nmax=4
 Dim As String text,mymsg,msgprocess0,msgprocess2
+If text00=text0 Then
+	forcestar=Int(Rnd*1.99)
+Else
+	forcestar=0
+EndIf
+text00=text0
 If text0="help" Then subhelpaiml()
 If text0="reset vars" Or text0="resetvars" Then
 	confirm("reset aiml vars ?","confirm",resp)
