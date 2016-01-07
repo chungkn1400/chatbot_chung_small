@@ -65,7 +65,9 @@ document.getElementById('combo').selectedIndex=icombo;
 function subcombo(){
 icombo=document.getElementById('combo').selectedIndex;
 perso=document.getElementById('combo')[icombo].id;
-if(perso=="mywebglflightspace"){
+if(perso=="off"){
+   document.getElementById('ifram').src="";}
+else if(perso=="mywebglflightspace"){
    document.getElementById('ifram').src=url2+"mywebglflightspace.html";}
 else if(perso=="json_osmall_webglcarsimheight_shadow"){
    document.getElementById('ifram').src=url2+perso+".html";}
