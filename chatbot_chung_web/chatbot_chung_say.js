@@ -74,3 +74,13 @@ textspeakall=textspeak;
 audiotime1=Math.min(audiotime1,0.2+gettimer()/1000.0);
 //speak();
 }
+
+// stats
+var sc_project=10442196; 
+var sc_invisible=1; 
+var sc_security="3e9ddc67"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
