@@ -932,6 +932,7 @@ Var msg="say ""help"" => help"+crlf+crlf
     msg+="""vars"" => list aimlvars"+crlf
     msg+="""resetvars"" => reset aimlvars"+crlf
     msg+="""randomize"" => randomize"+crlf
+    msg+="""wiki +keywords => wiki search"+crlf
     notice(msg)   
 End Sub
 Sub subrandomize()
