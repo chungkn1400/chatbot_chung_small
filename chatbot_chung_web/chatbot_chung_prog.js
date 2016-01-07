@@ -432,6 +432,7 @@ function subhelp(){
 	msg+="'vars'   => display aimlvars"+crlf;
 	msg+="'resetvars' => reset aimlvars"+crlf;
 	msg+="'randomize' => randomize"+crlf;
+	msg+="'wiki +keywords' => wiki search"+crlf;
 	alert(msg);
 }
 function subvars(){
@@ -845,7 +846,8 @@ document.getElementsByTagName('head')[0].appendChild(myjson);
 var randomwiki=1;
 function saytest22(){
 randomwiki=Math.max(0.03,Math.min(1,randomwiki+0.03));
-if(Math.random()<0.2*randomwiki){
+var forcewiki=0;if(intext22.substr(0,5).toLowerCase()=="wiki "){forcewiki=1;intext22=intext22.substr(5,99);}
+if(Math.random()<0.065*randomwiki+forcewiki){//0.2*
  var word22=intext22.trim().split(" "); 
  if(mywikitext!="searching..." && (word22.length>=1 && word22.length<=3)){
    mywikitext="searching...";wikikeysearch=intext22;subwiki();
@@ -859,4 +861,5 @@ function saytest222(){
    return;}
 say222();
 }
+
 
