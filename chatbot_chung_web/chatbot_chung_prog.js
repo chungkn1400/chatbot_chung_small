@@ -201,13 +201,14 @@ if(testproc==1){
 }
 return msg;//outmsg;
 }
+var forcestar=0;
 function processinput0(text0){
 var j=0,k=0,l=0,p=0,n=0,nbword=0,kj=[],q=0,r=0;
 var outmsg="",msg="",msg2="",allpatt="",inword="",patt="";
 testproc=0;
 teststar=0;
 var krandom=0;if(randomize==0){krandom=4;}
-if(Math.random()<0.5*starrandom){
+if(Math.random()<0.5*starrandom || forcestar==1){
 	teststar=1;
 	starrandom2=Math.max(0.12,starrandom/1.4);
 	outmsg=processinputstar(text0);
@@ -448,8 +449,11 @@ function subrandomize(){
 }
 var optset=0,optthink=0,testsrai=0;
 var topicprev="",topicnext="",ktopic=0;
+var text00="";
 function processinput(text0){
 msgcanvas=text0;
+if(text0==text00){forcestar=parseInt(Math.random()*1.99);}else{forcestar=0;}
+text00=text0;
 if(text0=="reset vars" || text0=="resetvars"){
   if(confirm("reset aiml vars ?")){resetaimlvars();
      document.getElementById('intext').value="";}}
