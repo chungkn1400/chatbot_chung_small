@@ -143,10 +143,13 @@ langname=langname.substr(0,4).toLowerCase();
 //alert(langname);
 for(var i=0;i<voices.length;i++){
 	if(voices[i].name.toLowerCase().indexOf(langname)==0){
-		myresponsivevoice=voices[i].name;break;
+		myresponsivevoice=voices[i].name;
+		//if(voices[i].name.toLowerCase().indexOf("vietnam")>=0){break;};//cf bug vietmale
+	    if(voices[i].name.toLowerCase().indexOf(" "+voicegender)>=0){break;};
 	}
 	if(voices[i].name.toLowerCase().indexOf(" "+langname)>=0){
 		myresponsivevoice=voices[i].name;
+		//if(voices[i].name.toLowerCase().indexOf("vietnam")>=0){break;};//cf bug vietmale
 	    if(voices[i].name.toLowerCase().indexOf(" "+voicegender)>=0){break;};
 	}
 }
