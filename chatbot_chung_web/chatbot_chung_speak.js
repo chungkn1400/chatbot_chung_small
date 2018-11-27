@@ -1,20 +1,41 @@
-// chatbot_chung_speak a program by NGUYEN.Chung (freeware 2015)
+﻿// chatbot_chung_speak a program by NGUYEN.Chung (freeware 2015)
 var paudio=[],iaudio=0;
-var Timer=-1;
+var Timer=-1,ttslang0="",dtpause=0;
 function speak(){
-if(textspeakall.length>99){
-   var i=99;
-   for(var j=0;j<40;j++){
+dtpause=0;
+if(textspeakall.length>95){
+  var cc=",;:!?.",c="",c0="";
+  for(var p=0;p<40;p++){
+   dtpause=0;
+   var i=95,test=0,jj=0;
+   for(var j=1;j<95;j++){if("§"==textspeakall.substr(j,1)){
+	                        i=j;test=1;dtpause=1;
+							textspeakall=textspeakall.substr(0,i)+"."+textspeakall.substr(i+1,textspeakall.length-i-1);
+                            break;}}
+   if(test==0){
+	   for(var j=1;j<95;j++){c=textspeakall.substr(j,1);
+                         if(cc.indexOf(c)>=0){
+							i=j;test=1;
+							if(c==","){dtpause=1;}else{dtpause=2;}
+							if(c0!="," && c!="," && j<jj+4){dtpause=8;break;}
+							jj=j;c0=c;}}
+	}
+   if(test==0){
+    for(var j=0;j<40;j++){
        if(textspeakall.substr(i-j,1)==" "){break;};}	   
    i=i-j;
-   textspeak=textspeakall.substr(0,i);
+   }
+   if(test==0){textspeak=textspeakall.substr(0,i);}
+   else{textspeak=textspeakall.substr(0,i);i+=1;}
    textspeakall=textspeakall.substr(i,textspeakall.length-i);
+   if(textspeak.length>1 || textspeakall.length<1){break;}
+  }
 }else{textspeak=textspeakall;textspeakall="";}
 textspeak=textspeak.toLowerCase();
 //auxvar=(window.speechSynthesis)+"/tsay="+tsay;
-if (('speechSynthesis' in window)&&(tsay==1)){
+/*if (('speechSynthesis' in window)&&(tsay==1)){
    speakhtml();if(tsay==1){return;};
-}
+}*/
 tsay=0;
 var ttslang=lang;
 //alert(textspeak);
@@ -31,7 +52,7 @@ audiosrc='http://translate.google.com/translate_tts?tl='+ttslang+'&q='+encodeURI
 var msg=textspeak;
 textspeak=textspeak+" ";
 
-getmyresponsivevoice(ttslang);
+if(ttslang!=ttslang0){ttslang0=ttslang;getmyresponsivevoice(ttslang);}
 if(myresponsivevoice!=""){responsivespeak(msg);return;}
 if(ttslang='en'){myresponsivevoice="";responsivespeak(msg);return;}
 
@@ -63,8 +84,8 @@ audio.load();
 //alert("say0="+textspeak);
 //alert("$"+vars['_y']);
 //alert("$ "+vars['_x']+eval("if(vars['_x']){alert(vars['_x']);};"));eval("vars['_x']='ok1'");
-document.getElementById('intext').value="";
-document.getElementById('intext').focus();
+if(textspeakall.length<1){document.getElementById('intext').value="";}
+if(tfocus==1){document.getElementById('intext').focus();}
 document.getElementById('ntest').innerHTML=" "+ntest0;
 }
 /*var myjs=document.createElement("script");
@@ -75,31 +96,38 @@ myjs.onload = function(){alert("ok");}
 document.getElementsByTagName('head')[0].appendChild(myjs);
 */
 var responserate=0.060,responsivemsg="",myresponsivevoice="";
+var tspeaking=0;
 function responsivespeak(msg){
 Timer=-1;
 responsivemsg=msg;
-tsay=1;audiotime1=8+gettimer()/1000.0;
+tsay=1;audiotime1=16+gettimer()/1000.0;
 var voicename="UK English Female";
 if(myresponsivevoice!=""){voicename=myresponsivevoice;}
 //responsiveVoice.speak(msg,voicename);
 responsiveVoice.speak(msg,voicename,{onstart:startresponse,onend:endresponse});
-document.getElementById('intext').value="";
-document.getElementById('intext').focus();
+if(textspeakall.length<1){document.getElementById('intext').value="";}
+if(tfocus==1){document.getElementById('intext').focus();}
 document.getElementById('ntest').innerHTML=" "+ntest0;
 }
 function startresponse(){
  tsay=0;
  if(Timer<0){ Timer=gettimer()/1000.0;
  audiotime0=Timer;
- audiotime1=Timer+responserate*responsivemsg.length;//textspeakall.length;
- //if(textspeakall.length>1){audiotime1-=0.05;}//0.5
+ responserate=Math.max(0.02,Math.min(0.4,responserate));
+ audiotime1=Timer+Math.min(16,responserate*responsivemsg.length);//textspeakall.length;
+ tspeaking=audiotime1+2;
+ if(responsivemsg.length>1){audiotime1-=0.1;}//0.05
  //alert(audiotime1-audiotime0);
 }}
 function endresponse(){
 audiotime1=gettimer()/1000.0;
+tspeaking=0;
 var rate=(audiotime1-audiotime0)/(1+responsivemsg.length);
 responserate+=(rate-responserate)*0.4;
 }
+var voicegender="female";
+try{if(gender){voicegender=gender;};}catch(e){voicegender="female";};
+
 function getmyresponsivevoice(ttslang){
 myresponsivevoice="";
 var voices=responsiveVoice.responsivevoices;
@@ -118,7 +146,8 @@ for(var i=0;i<voices.length;i++){
 		myresponsivevoice=voices[i].name;break;
 	}
 	if(voices[i].name.toLowerCase().indexOf(" "+langname)>=0){
-		myresponsivevoice=voices[i].name;break;
+		myresponsivevoice=voices[i].name;
+	    if(voices[i].name.toLowerCase().indexOf(" "+voicegender)>=0){break;};
 	}
 }
 //alert(myresponsivevoice);
