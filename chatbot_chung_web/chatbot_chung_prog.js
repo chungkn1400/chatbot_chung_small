@@ -451,7 +451,40 @@ function subrandomize(){
 var optset=0,optthink=0,testsrai=0;
 var topicprev="",topicnext="",ktopic=0;
 var text00="";
-function processinput(text0){
+var textinput0="",textinput00="",textoutput0="",textoutput00="",textoutput000="";
+function chatfill(text0){
+var text="",text2="",textout="";
+var words=text0.split(" ");//alert(words.length);
+var intext00=" "+textinput00.toLowerCase()+" ";
+intext00=replaceall(intext00,","," ");
+intext00=replaceall(intext00,"."," ");
+intext00=replaceall(intext00,">"," ");
+var outtext00=(textoutput0+textoutput00+textoutput000).toLowerCase();
+outtext00=replaceall(outtext00,","," ");
+outtext00=replaceall(outtext00,"."," ");
+outtext00=replaceall(outtext00,">"," ");
+var words0=outtext00.split(" ");//alert(words0.length);
+var test0=0;
+for(var n=0;n<words.length;n++){
+   text=words[n];
+   if(intext00.indexOf(" "+text.toLowerCase()+" ")>=0){textout=textout+text+" ";test0=1;}else{
+	 var test=0;
+	 for(var p=0;p<words0.length;p++){
+        text2=words0[p];
+        if(text2.indexOf(text.toLowerCase())==0){textout=textout+text2+" ";test=1;p=p+99;}
+     }
+     if(test==0){textout=textout+text+" ";} 	 
+   } 
+}
+if(test0==1){textinput0="";textinput00="";}
+//alert("textout=("+textout+")");
+return textout;
+}
+function myprocessinput(text0){
+document.getElementById('intext').value="";
+return "> "+text0+".";
+}
+function processinput(text0){//return myprocessinput(text0);
 msgcanvas=text0;
 if(text0==text00){forcestar=parseInt(Math.random()*1.99);}else{forcestar=0;}
 text00=text0;
@@ -483,6 +516,9 @@ starrandom=starrandom2;
 optset=1;optthink=0;
 testsrai=0;
 auxtext="";
+textinput00=textinput0;
+textinput0=text0;
+text0=chatfill(text0);
 for(n=1;n<=nmax;n++){ 
    txt=processinput0(text0);
    ntest0+=ntest;
@@ -570,6 +606,9 @@ txt=formatoutput2(txt);
 txt=formatget(txt);
 i=txt.indexOf(crlf+">");
 txt=txt.substr(0,i)+crlf+"> "+msgprocess;
+textoutput000=textoutput00;
+textoutput00=textoutput0;
+textoutput0=txt;
 return txt+mymsg;
 }
 var nvars=2000;
