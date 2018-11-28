@@ -470,6 +470,7 @@ else{say2(intext);}
 function say1(intext){//alert(lang+"/"+intext);
 //if((langs.indexOf(lang+"-en")<0) || (langs.indexOf("en-"+lang)<0)){lang="en";}
 nextsub="say2(translatext);";
+intext=chatfill(intext);
 translate(intext,lang,"en");
 }
 function say2(intext){

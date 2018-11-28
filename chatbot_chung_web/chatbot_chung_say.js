@@ -7,7 +7,8 @@ function say(){
 var intext=document.getElementById('intext').value;
 if(intext==""){intext=intext0;}//+" .";};
 intext=replaceall(intext,"&"," ");
-if(intext==""){intext=" ";}
+if(intext==""){intext=" ";};
+if(intext!=" "){intext=chatfill(intext);};
 intext0=intext;
 nextsub='say1("'+intext+'");';
 if(intext!="*" && intext.substr(0,5).toLowerCase()!="wiki "){detectlang(intext+"+"+intext);}
@@ -15,6 +16,8 @@ else{say2(intext);}
 }
 function say1(intext){//alert(lang+"/"+intext);
 //if((langs.indexOf(lang+"-en")<0) || (langs.indexOf("en-"+lang)<0)){lang="en";}
+//textinput00=textinput0;
+textinput00=intext;
 nextsub="setTimeout('say2(translatext);',150);";
 translate(intext,lang,"en");
 }
@@ -53,6 +56,10 @@ if(lang!="en" && msg.indexOf(">")>1){
 printmsg(">>"+intext0.substr(0,40)+crlf+msg);
 var outmsg=msg.substr(msg.indexOf(">")+2,999);
 var patt=msg.substr(0,msg.indexOf(">"));
+textoutput000=textoutput00;
+textoutput00=textoutput0;
+textoutput0=outmsg+" "+patt;
+//alert(textoutput0);
 if(outmsg.length<0.65*patt.length){
 		outmsg=patt+" "+outmsg; 
 	}	

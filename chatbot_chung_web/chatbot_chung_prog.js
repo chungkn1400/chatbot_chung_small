@@ -454,6 +454,7 @@ var text00="";
 var textinput0="",textinput00="",textoutput0="",textoutput00="",textoutput000="";
 function chatfill(text0){
 var text="",text2="",textout="";
+if(text0=="*"){return text0;};
 var words=text0.split(" ");//alert(words.length);
 var intext00=" "+textinput00.toLowerCase()+" ";
 intext00=replaceall(intext00,","," ");
@@ -463,6 +464,8 @@ var outtext00=(textoutput0+textoutput00+textoutput000).toLowerCase();
 outtext00=replaceall(outtext00,","," ");
 outtext00=replaceall(outtext00,"."," ");
 outtext00=replaceall(outtext00,">"," ");
+outtext00=replaceall(outtext00,"?"," ");
+outtext00=replaceall(outtext00,"!"," ");
 var words0=outtext00.split(" ");//alert(words0.length);
 var test0=0;
 for(var n=0;n<words.length;n++){
@@ -516,9 +519,6 @@ starrandom=starrandom2;
 optset=1;optthink=0;
 testsrai=0;
 auxtext="";
-textinput00=textinput0;
-textinput0=text0;
-text0=chatfill(text0);
 for(n=1;n<=nmax;n++){ 
    txt=processinput0(text0);
    ntest0+=ntest;
@@ -606,9 +606,6 @@ txt=formatoutput2(txt);
 txt=formatget(txt);
 i=txt.indexOf(crlf+">");
 txt=txt.substr(0,i)+crlf+"> "+msgprocess;
-textoutput000=textoutput00;
-textoutput00=textoutput0;
-textoutput0=txt;
 return txt+mymsg;
 }
 var nvars=2000;
