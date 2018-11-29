@@ -452,31 +452,35 @@ var optset=0,optthink=0,testsrai=0;
 var topicprev="",topicnext="",ktopic=0;
 var text00="";
 var textinput0="",textinput00="",textoutput0="",textoutput00="",textoutput000="";
-function chatfill(text0){
-var text="",text2="",textout="";
-if(text0=="*"){return text0;};
+function chatfill(text01){
+var text1="",text2="",textout="";
+if(text01=="*"){return text01;};
+var text0=formatinput(text01).trim();
 var words=text0.split(" ");//alert(words.length);
 var intext00=" "+textinput00.toLowerCase()+" ";
 intext00=replaceall(intext00,","," ");
 intext00=replaceall(intext00,"."," ");
 intext00=replaceall(intext00,">"," ");
-var outtext00=(textoutput0+textoutput00+textoutput000).toLowerCase();
+if(textinput00.trim()==""){intext00="$$$";};
+var outtext00=formatoutput(textoutput0+textoutput00+textoutput000).toLowerCase();
 outtext00=replaceall(outtext00,","," ");
 outtext00=replaceall(outtext00,"."," ");
 outtext00=replaceall(outtext00,">"," ");
 outtext00=replaceall(outtext00,"?"," ");
 outtext00=replaceall(outtext00,"!"," ");
+outtext00=replaceall(outtext00,crlf," ");
 var words0=outtext00.split(" ");//alert(words0.length);
-var test0=0;
+var test0=0;//alert(intext00+"+"+text0);
 for(var n=0;n<words.length;n++){
-   text=words[n];
-   if(intext00.indexOf(" "+text.toLowerCase()+" ")>=0){textout=textout+text+" ";test0=1;}else{
-	 var test=0;
+   text1=words[n];
+   if(intext00.indexOf(" "+text1.toLowerCase()+" ")>=0){textout=textout+text1+" ";test0=1;}
+   else{
+	 var test1=0;
 	 for(var p=0;p<words0.length;p++){
         text2=words0[p];
-        if(text2.indexOf(text.toLowerCase())==0){textout=textout+text2+" ";test=1;p=p+99;}
-     }
-     if(test==0){textout=textout+text+" ";} 	 
+        if((text2.indexOf(text1.toLowerCase()))==0){textout=textout+text2+" ";test1=1;p+=99;};
+     };
+     if(test1==0){textout=textout+text1+" ";};
    } 
 }
 if(test0==1){textinput0="";textinput00="";}
