@@ -8,6 +8,8 @@ var intext=document.getElementById('intext').value;
 if(intext==""){intext=intext0;}//+" .";};
 intext=replaceall(intext,"&"," ");
 if(intext==""){intext=" ";};
+textinput00=textinput0;
+textinput0=intext;
 if(intext!=" "){intext=chatfill(intext);};
 intext0=intext;
 nextsub='say1("'+intext+'");';
@@ -16,8 +18,6 @@ else{say2(intext);}
 }
 function say1(intext){//alert(lang+"/"+intext);
 //if((langs.indexOf(lang+"-en")<0) || (langs.indexOf("en-"+lang)<0)){lang="en";}
-//textinput00=textinput0;
-textinput00=intext;
 nextsub="setTimeout('say2(translatext);',150);";
 translate(intext,lang,"en");
 }
